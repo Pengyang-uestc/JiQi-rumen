@@ -40,3 +40,4 @@ print(matrix_result)
 print(f"输入矩阵 A 形状：{matrix_a.shape}") #{}里面可以写变量/表达式，Python会自动替换
 print(f"输入矩阵 B 形状：{matrix_b.shape}")
 print(f"输出矩阵形状：{matrix_result.shape}") #f直接把变量放进字符串里面输出，不用拼接
+
