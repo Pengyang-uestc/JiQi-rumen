@@ -1,0 +1,13 @@
+{
+  "python": "3.11.16",
+  "torch": "2.13.0+cu130",
+  "sklearn": "1.5.2",
+  "numpy": "1.23.5",
+  "matplotlib": "3.7.2",
+  "device": "cpu",
+  "seed": 42,
+  "epochs": 300,
+  "batch_size": 600,
+  "architecture": "2 -> 16 -> 1, ReLU",
+  "optimizer": "Adam"
+}

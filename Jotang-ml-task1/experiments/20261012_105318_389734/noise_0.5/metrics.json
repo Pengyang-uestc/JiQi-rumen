@@ -1,0 +1,25 @@
+{
+  "name": "noise_0.5",
+  "noise": 0.5,
+  "learning_rate": 0.01,
+  "best_epoch": 284,
+  "best_val_loss": 0.41592937707901,
+  "test_loss": 0.3902818262577057,
+  "test_accuracy": 0.824999988079071,
+  "training_seconds": 0.6176653997972608,
+  "ms_per_epoch": 2.058884665990869,
+  "peak_gpu_tensor_mib": null,
+  "device": "cpu",
+  "parameters": 65,
+  "confusion_matrix": [
+    [
+      80,
+      20
+    ],
+    [
+      15,
+      85
+    ]
+  ],
+  "wrong_count": 35
+}

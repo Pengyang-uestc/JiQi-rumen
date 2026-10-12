@@ -1,0 +1,77 @@
+[
+  {
+    "name": "baseline",
+    "noise": 0.2,
+    "learning_rate": 0.01,
+    "best_epoch": 300,
+    "best_val_loss": 0.1077444776892662,
+    "test_loss": 0.08046744018793106,
+    "test_accuracy": 0.9800000190734863,
+    "training_seconds": 0.9606914999894798,
+    "ms_per_epoch": 3.2023049999649325,
+    "peak_gpu_tensor_mib": null,
+    "device": "cpu",
+    "parameters": 65,
+    "confusion_matrix": [
+      [
+        97,
+        3
+      ],
+      [
+        1,
+        99
+      ]
+    ],
+    "wrong_count": 4
+  },
+  {
+    "name": "noise_0.5",
+    "noise": 0.5,
+    "learning_rate": 0.01,
+    "best_epoch": 284,
+    "best_val_loss": 0.41592937707901,
+    "test_loss": 0.3902818262577057,
+    "test_accuracy": 0.824999988079071,
+    "training_seconds": 0.6176653997972608,
+    "ms_per_epoch": 2.058884665990869,
+    "peak_gpu_tensor_mib": null,
+    "device": "cpu",
+    "parameters": 65,
+    "confusion_matrix": [
+      [
+        80,
+        20
+      ],
+      [
+        15,
+        85
+      ]
+    ],
+    "wrong_count": 35
+  },
+  {
+    "name": "lr_0.05",
+    "noise": 0.2,
+    "learning_rate": 0.05,
+    "best_epoch": 275,
+    "best_val_loss": 0.07226648926734924,
+    "test_loss": 0.06301399320363998,
+    "test_accuracy": 0.9700000286102295,
+    "training_seconds": 0.6209359001368284,
+    "ms_per_epoch": 2.0697863337894282,
+    "peak_gpu_tensor_mib": null,
+    "device": "cpu",
+    "parameters": 65,
+    "confusion_matrix": [
+      [
+        97,
+        3
+      ],
+      [
+        3,
+        97
+      ]
+    ],
+    "wrong_count": 6
+  }
+]

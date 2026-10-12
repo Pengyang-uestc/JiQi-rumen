@@ -1,0 +1,34 @@
+[
+  {
+    "test_index": 113,
+    "x1": 0.7308600544929504,
+    "x2": -0.2954716384410858,
+    "true_label": 0,
+    "predicted_label": 1,
+    "probability_class_1": 0.8999878168106079
+  },
+  {
+    "test_index": 117,
+    "x1": 1.2204804420471191,
+    "x2": -0.19840961694717407,
+    "true_label": 0,
+    "predicted_label": 1,
+    "probability_class_1": 0.8788251876831055
+  },
+  {
+    "test_index": 144,
+    "x1": 1.1048725843429565,
+    "x2": -0.1469820886850357,
+    "true_label": 0,
+    "predicted_label": 1,
+    "probability_class_1": 0.677482545375824
+  },
+  {
+    "test_index": 155,
+    "x1": -0.1155557706952095,
+    "x2": 0.5359119772911072,
+    "true_label": 1,
+    "predicted_label": 0,
+    "probability_class_1": 0.37505823373794556
+  }
+]

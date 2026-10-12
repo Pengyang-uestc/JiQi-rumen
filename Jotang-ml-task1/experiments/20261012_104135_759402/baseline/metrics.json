@@ -1,0 +1,14 @@
+{
+  "name": "baseline",
+  "noise": 0.2,
+  "learning_rate": 0.01,
+  "best_epoch": 300,
+  "best_val_loss": 0.1077444776892662,
+  "test_loss": 0.08046744018793106,
+  "test_accuracy": 0.9800000190734863,
+  "training_seconds": 1.1141614997759461,
+  "ms_per_epoch": 3.7138716659198203,
+  "peak_gpu_tensor_mib": null,
+  "device": "cpu",
+  "parameters": 65
+}

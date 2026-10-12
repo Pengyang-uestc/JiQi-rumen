@@ -1,0 +1,173 @@
+{
+  "environment": {
+    "python": "3.11.16",
+    "torch": "2.13.0+cu130",
+    "numpy": "1.23.5",
+    "sklearn": "1.5.2",
+    "seed": 42,
+    "device": "cpu",
+    "threads": 1
+  },
+  "imbalanced": {
+    "loss": 0.0957401916384697,
+    "accuracy": 0.96,
+    "balanced_accuracy": 0.6473684210526316,
+    "recall": [
+      0.9947368421052631,
+      0.3
+    ],
+    "confusion_matrix": [
+      [
+        189,
+        1
+      ],
+      [
+        7,
+        3
+      ]
+    ]
+  },
+  "weighted": {
+    "loss": 0.2965567708015442,
+    "accuracy": 0.875,
+    "balanced_accuracy": 0.8868421052631579,
+    "recall": [
+      0.8736842105263158,
+      0.9
+    ],
+    "confusion_matrix": [
+      [
+        166,
+        24
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  "clean_small": {
+    "train": {
+      "loss": 0.05158489942550659,
+      "accuracy": 1.0,
+      "balanced_accuracy": 1.0,
+      "recall": [
+        1.0,
+        1.0
+      ],
+      "confusion_matrix": [
+        [
+          30,
+          0
+        ],
+        [
+          0,
+          30
+        ]
+      ]
+    },
+    "validation": {
+      "loss": 0.11513865739107132,
+      "accuracy": 0.9638297872340426,
+      "balanced_accuracy": 0.9638297872340426,
+      "recall": [
+        0.9574468085106383,
+        0.9702127659574468
+      ],
+      "confusion_matrix": [
+        [
+          225,
+          10
+        ],
+        [
+          7,
+          228
+        ]
+      ]
+    },
+    "test": {
+      "loss": 0.12051217257976532,
+      "accuracy": 0.9574468085106383,
+      "balanced_accuracy": 0.9574468085106383,
+      "recall": [
+        0.9574468085106383,
+        0.9574468085106383
+      ],
+      "confusion_matrix": [
+        [
+          225,
+          10
+        ],
+        [
+          10,
+          225
+        ]
+      ]
+    },
+    "best_val_epoch": 300,
+    "best_val_loss": 0.11513865739107132,
+    "final_val_loss": 0.11513865739107132
+  },
+  "overfit": {
+    "train": {
+      "loss": 1.3904346474191698e-07,
+      "accuracy": 1.0,
+      "balanced_accuracy": 1.0,
+      "recall": [
+        1.0,
+        1.0
+      ],
+      "confusion_matrix": [
+        [
+          27,
+          0
+        ],
+        [
+          0,
+          33
+        ]
+      ]
+    },
+    "validation": {
+      "loss": 27.68514633178711,
+      "accuracy": 0.5893617021276596,
+      "balanced_accuracy": 0.5893617021276596,
+      "recall": [
+        0.4978723404255319,
+        0.6808510638297872
+      ],
+      "confusion_matrix": [
+        [
+          117,
+          118
+        ],
+        [
+          75,
+          160
+        ]
+      ]
+    },
+    "test": {
+      "loss": 30.170856475830078,
+      "accuracy": 0.6127659574468085,
+      "balanced_accuracy": 0.6127659574468085,
+      "recall": [
+        0.5276595744680851,
+        0.6978723404255319
+      ],
+      "confusion_matrix": [
+        [
+          124,
+          111
+        ],
+        [
+          71,
+          164
+        ]
+      ]
+    },
+    "best_val_epoch": 4,
+    "best_val_loss": 0.4387066662311554,
+    "final_val_loss": 27.68514633178711
+  }
+}
