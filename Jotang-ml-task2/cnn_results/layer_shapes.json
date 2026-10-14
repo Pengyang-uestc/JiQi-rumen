@@ -1,0 +1,339 @@
+{
+  "sample": "Cat/4284.jpg",
+  "layers": [
+    {
+      "layer": "features.0",
+      "type": "Conv2d",
+      "input": [
+        1,
+        3,
+        128,
+        128
+      ],
+      "output": [
+        1,
+        16,
+        128,
+        128
+      ]
+    },
+    {
+      "layer": "features.1",
+      "type": "BatchNorm2d",
+      "input": [
+        1,
+        16,
+        128,
+        128
+      ],
+      "output": [
+        1,
+        16,
+        128,
+        128
+      ]
+    },
+    {
+      "layer": "features.2",
+      "type": "ReLU",
+      "input": [
+        1,
+        16,
+        128,
+        128
+      ],
+      "output": [
+        1,
+        16,
+        128,
+        128
+      ]
+    },
+    {
+      "layer": "features.3",
+      "type": "MaxPool2d",
+      "input": [
+        1,
+        16,
+        128,
+        128
+      ],
+      "output": [
+        1,
+        16,
+        64,
+        64
+      ]
+    },
+    {
+      "layer": "features.4",
+      "type": "Conv2d",
+      "input": [
+        1,
+        16,
+        64,
+        64
+      ],
+      "output": [
+        1,
+        32,
+        64,
+        64
+      ]
+    },
+    {
+      "layer": "features.5",
+      "type": "BatchNorm2d",
+      "input": [
+        1,
+        32,
+        64,
+        64
+      ],
+      "output": [
+        1,
+        32,
+        64,
+        64
+      ]
+    },
+    {
+      "layer": "features.6",
+      "type": "ReLU",
+      "input": [
+        1,
+        32,
+        64,
+        64
+      ],
+      "output": [
+        1,
+        32,
+        64,
+        64
+      ]
+    },
+    {
+      "layer": "features.7",
+      "type": "MaxPool2d",
+      "input": [
+        1,
+        32,
+        64,
+        64
+      ],
+      "output": [
+        1,
+        32,
+        32,
+        32
+      ]
+    },
+    {
+      "layer": "features.8",
+      "type": "Conv2d",
+      "input": [
+        1,
+        32,
+        32,
+        32
+      ],
+      "output": [
+        1,
+        64,
+        32,
+        32
+      ]
+    },
+    {
+      "layer": "features.9",
+      "type": "BatchNorm2d",
+      "input": [
+        1,
+        64,
+        32,
+        32
+      ],
+      "output": [
+        1,
+        64,
+        32,
+        32
+      ]
+    },
+    {
+      "layer": "features.10",
+      "type": "ReLU",
+      "input": [
+        1,
+        64,
+        32,
+        32
+      ],
+      "output": [
+        1,
+        64,
+        32,
+        32
+      ]
+    },
+    {
+      "layer": "features.11",
+      "type": "MaxPool2d",
+      "input": [
+        1,
+        64,
+        32,
+        32
+      ],
+      "output": [
+        1,
+        64,
+        16,
+        16
+      ]
+    },
+    {
+      "layer": "features.12",
+      "type": "Conv2d",
+      "input": [
+        1,
+        64,
+        16,
+        16
+      ],
+      "output": [
+        1,
+        128,
+        16,
+        16
+      ]
+    },
+    {
+      "layer": "features.13",
+      "type": "BatchNorm2d",
+      "input": [
+        1,
+        128,
+        16,
+        16
+      ],
+      "output": [
+        1,
+        128,
+        16,
+        16
+      ]
+    },
+    {
+      "layer": "features.14",
+      "type": "ReLU",
+      "input": [
+        1,
+        128,
+        16,
+        16
+      ],
+      "output": [
+        1,
+        128,
+        16,
+        16
+      ]
+    },
+    {
+      "layer": "features.15",
+      "type": "MaxPool2d",
+      "input": [
+        1,
+        128,
+        16,
+        16
+      ],
+      "output": [
+        1,
+        128,
+        8,
+        8
+      ]
+    },
+    {
+      "layer": "classifier.0",
+      "type": "AvgPool2d",
+      "input": [
+        1,
+        128,
+        8,
+        8
+      ],
+      "output": [
+        1,
+        128,
+        4,
+        4
+      ]
+    },
+    {
+      "layer": "classifier.1",
+      "type": "Flatten",
+      "input": [
+        1,
+        128,
+        4,
+        4
+      ],
+      "output": [
+        1,
+        2048
+      ]
+    },
+    {
+      "layer": "classifier.2",
+      "type": "Linear",
+      "input": [
+        1,
+        2048
+      ],
+      "output": [
+        1,
+        128
+      ]
+    },
+    {
+      "layer": "classifier.3",
+      "type": "ReLU",
+      "input": [
+        1,
+        128
+      ],
+      "output": [
+        1,
+        128
+      ]
+    },
+    {
+      "layer": "classifier.4",
+      "type": "Dropout",
+      "input": [
+        1,
+        128
+      ],
+      "output": [
+        1,
+        128
+      ]
+    },
+    {
+      "layer": "classifier.5",
+      "type": "Linear",
+      "input": [
+        1,
+        128
+      ],
+      "output": [
+        1,
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.idea/
+archive.zip
+data/
+cnn_results/*.npy
+cnn_results/**/*.pt
+cnn_results/*.pt

@@ -1,0 +1,7380 @@
+[
+  {
+    "path": "Dog/4500.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 269,
+    "sha256": "05d2589f3233945147b7bf944a95f16e9ea7c7a9803759e1f7f512a7f36f71f4",
+    "cache_index": 18867,
+    "prediction": 0,
+    "confidence": 0.9992615580558777,
+    "probabilities": [
+      0.9992615580558777,
+      0.0007384592317976058
+    ]
+  },
+  {
+    "path": "Dog/8337.jpg",
+    "label": 1,
+    "width": 307,
+    "height": 409,
+    "sha256": "63db1de8b7c19a8a71e4887f167d2fe99dc985f26b8ad6646f2a96fcd174a8f0",
+    "cache_index": 23124,
+    "prediction": 0,
+    "confidence": 0.9992350339889526,
+    "probabilities": [
+      0.9992350339889526,
+      0.0007649550680071115
+    ]
+  },
+  {
+    "path": "Dog/505.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "a1fb919aeb9faf282ed09c263566282313f5c0d85c17beb1c44aedd2dc46a7d7",
+    "cache_index": 19477,
+    "prediction": 0,
+    "confidence": 0.9988821148872375,
+    "probabilities": [
+      0.9988821148872375,
+      0.0011178943095728755
+    ]
+  },
+  {
+    "path": "Dog/7510.jpg",
+    "label": 1,
+    "width": 360,
+    "height": 270,
+    "sha256": "6087775f60ece2d040eaa03aafa23ab94465dec0237dfb755b7db5676b5f0ae7",
+    "cache_index": 22208,
+    "prediction": 0,
+    "confidence": 0.998764157295227,
+    "probabilities": [
+      0.998764157295227,
+      0.0012358528329059482
+    ]
+  },
+  {
+    "path": "Dog/9687.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 355,
+    "sha256": "eab9821b7760e536e47ac61eb64e0831a60d0f0846052742d15bf33eca413fe9",
+    "cache_index": 24621,
+    "prediction": 0,
+    "confidence": 0.9958598017692566,
+    "probabilities": [
+      0.9958598017692566,
+      0.0041401684284210205
+    ]
+  },
+  {
+    "path": "Dog/9324.jpg",
+    "label": 1,
+    "width": 401,
+    "height": 500,
+    "sha256": "206f950a86a18a7d5cfd0e701498adc63cdf6b87e946f44b080664442b0b80be",
+    "cache_index": 24219,
+    "prediction": 0,
+    "confidence": 0.9954125285148621,
+    "probabilities": [
+      0.9954125285148621,
+      0.004587531555444002
+    ]
+  },
+  {
+    "path": "Dog/11088.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "6c7cc056bd5263f3e3357da17bd2eae4511d9032ad6d47551cfa725c51fa918b",
+    "cache_index": 13690,
+    "prediction": 0,
+    "confidence": 0.9946626424789429,
+    "probabilities": [
+      0.9946626424789429,
+      0.005337313283234835
+    ]
+  },
+  {
+    "path": "Dog/4730.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 250,
+    "sha256": "821b0516fa3a9100d33b86ae6c34f09a62b410db9520857e7b5333ae5f9b1e83",
+    "cache_index": 19122,
+    "prediction": 0,
+    "confidence": 0.9946615099906921,
+    "probabilities": [
+      0.9946615099906921,
+      0.005338518880307674
+    ]
+  },
+  {
+    "path": "Dog/561.jpg",
+    "label": 1,
+    "width": 100,
+    "height": 112,
+    "sha256": "0f74e07f6cf949ad94269273bdaf3da52fd074fc0dfc9f7b31b7a44d8b838f93",
+    "cache_index": 20099,
+    "prediction": 0,
+    "confidence": 0.9944213032722473,
+    "probabilities": [
+      0.9944213032722473,
+      0.005578671582043171
+    ]
+  },
+  {
+    "path": "Dog/684.jpg",
+    "label": 1,
+    "width": 417,
+    "height": 377,
+    "sha256": "6264445875f92c2a563fe4fa6dee091063c0492a43530d60617d20a75ab685ef",
+    "cache_index": 21463,
+    "prediction": 0,
+    "confidence": 0.9943641424179077,
+    "probabilities": [
+      0.9943641424179077,
+      0.005635865963995457
+    ]
+  },
+  {
+    "path": "Dog/297.jpg",
+    "label": 1,
+    "width": 160,
+    "height": 200,
+    "sha256": "d9b9609765b0a3d7f20f3018af448fcd82c54d7a972ddfdf67ca2f10cb5686e7",
+    "cache_index": 17166,
+    "prediction": 0,
+    "confidence": 0.9941111207008362,
+    "probabilities": [
+      0.9941111207008362,
+      0.005888910032808781
+    ]
+  },
+  {
+    "path": "Dog/9389.jpg",
+    "label": 1,
+    "width": 469,
+    "height": 500,
+    "sha256": "34062208590c3ff75f9875a40bd86f97088adb46ffd459c8c998c1d768f83e54",
+    "cache_index": 24290,
+    "prediction": 0,
+    "confidence": 0.9940947890281677,
+    "probabilities": [
+      0.9940947890281677,
+      0.005905297584831715
+    ]
+  },
+  {
+    "path": "Dog/1925.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "9f6bf2c400a955be43fa3cb5eb022ee7778c0dee284f8e862f84146554908dad",
+    "cache_index": 16007,
+    "prediction": 0,
+    "confidence": 0.99397873878479,
+    "probabilities": [
+      0.99397873878479,
+      0.0060212984681129456
+    ]
+  },
+  {
+    "path": "Dog/5484.jpg",
+    "label": 1,
+    "width": 376,
+    "height": 299,
+    "sha256": "fb5cc404c8aa95c2642c6a1a38adc553a4cbfc732774a41573ae93b4a12a1972",
+    "cache_index": 19959,
+    "prediction": 0,
+    "confidence": 0.9931852221488953,
+    "probabilities": [
+      0.9931852221488953,
+      0.006814789026975632
+    ]
+  },
+  {
+    "path": "Dog/681.jpg",
+    "label": 1,
+    "width": 480,
+    "height": 360,
+    "sha256": "1f598c0483bf2a47d6eacc2e2a9dfccea3993777989c07d692a1a5e4bc3b32bb",
+    "cache_index": 21430,
+    "prediction": 0,
+    "confidence": 0.9924901127815247,
+    "probabilities": [
+      0.9924901127815247,
+      0.007509920746088028
+    ]
+  },
+  {
+    "path": "Dog/2807.jpg",
+    "label": 1,
+    "width": 330,
+    "height": 500,
+    "sha256": "421e0ffa4a716c65faaa912f14818680dde818be79b4ec035af25f46b9ba5ca5",
+    "cache_index": 16987,
+    "prediction": 0,
+    "confidence": 0.9917803406715393,
+    "probabilities": [
+      0.9917803406715393,
+      0.008219670504331589
+    ]
+  },
+  {
+    "path": "Dog/9416.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "b7834521c91c93a72ec156ceab58e2f59c074286d5255f874aa15478606635cd",
+    "cache_index": 24321,
+    "prediction": 0,
+    "confidence": 0.9911779761314392,
+    "probabilities": [
+      0.9911779761314392,
+      0.00882205180823803
+    ]
+  },
+  {
+    "path": "Dog/6469.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "156043c008945699db0d94f4a02b9503fe9091c552a1d440fa401865d20b0023",
+    "cache_index": 21052,
+    "prediction": 0,
+    "confidence": 0.9909441471099854,
+    "probabilities": [
+      0.9909441471099854,
+      0.009055854752659798
+    ]
+  },
+  {
+    "path": "Dog/4142.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 424,
+    "sha256": "66adeb4c87c9cc8691dcc90b8118f3a862fc67dda0cebdb4aea756417c476026",
+    "cache_index": 18469,
+    "prediction": 0,
+    "confidence": 0.9897023439407349,
+    "probabilities": [
+      0.9897023439407349,
+      0.01029764674603939
+    ]
+  },
+  {
+    "path": "Dog/11484.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "4eaac10c2177a93a6e1452aa67dd81c5f539eb2fe448e94ff7ea300c6bc2fee0",
+    "cache_index": 14130,
+    "prediction": 0,
+    "confidence": 0.9889931082725525,
+    "probabilities": [
+      0.9889931082725525,
+      0.011006915010511875
+    ]
+  },
+  {
+    "path": "Dog/8836.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 240,
+    "sha256": "5a241f5d27d125759d21c61e6a495af5683c75d8f32ac7f3a3189215464a1338",
+    "cache_index": 23676,
+    "prediction": 0,
+    "confidence": 0.9881751537322998,
+    "probabilities": [
+      0.9881751537322998,
+      0.011824889108538628
+    ]
+  },
+  {
+    "path": "Cat/5795.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "981caabe328f9ba104a36efb0146fe02f17ce49c62caa694ba2e216fa8a8c860",
+    "cache_index": 7818,
+    "prediction": 1,
+    "confidence": 0.9877769947052002,
+    "probabilities": [
+      0.012222989462316036,
+      0.9877769947052002
+    ]
+  },
+  {
+    "path": "Dog/9167.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "b5ba5ac1c323bd5f8813d55c6546ddeb2a15cb4329028c24badc3e21b4c3dadc",
+    "cache_index": 24044,
+    "prediction": 0,
+    "confidence": 0.9868065714836121,
+    "probabilities": [
+      0.9868065714836121,
+      0.013193407095968723
+    ]
+  },
+  {
+    "path": "Dog/3328.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 299,
+    "sha256": "9fb51a521f2a705216391060dc67d154f5ec441ff48485eb8dad5a6834662c43",
+    "cache_index": 17564,
+    "prediction": 0,
+    "confidence": 0.9866884350776672,
+    "probabilities": [
+      0.9866884350776672,
+      0.013311588205397129
+    ]
+  },
+  {
+    "path": "Dog/12327.jpg",
+    "label": 1,
+    "width": 352,
+    "height": 336,
+    "sha256": "72c9c641603f66777ffdd249b02975df496c4f996e1ae1928493bccba5533d87",
+    "cache_index": 15066,
+    "prediction": 0,
+    "confidence": 0.9864041805267334,
+    "probabilities": [
+      0.9864041805267334,
+      0.013595834374427795
+    ]
+  },
+  {
+    "path": "Dog/9136.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "a9f826032c9fd8942d449172a9c51ff37313d4e23636c5760217e0c93ded4416",
+    "cache_index": 24010,
+    "prediction": 0,
+    "confidence": 0.9859602451324463,
+    "probabilities": [
+      0.9859602451324463,
+      0.014039766043424606
+    ]
+  },
+  {
+    "path": "Dog/5216.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "71b9aa93177b82322c1b91be62d11f52a5a4f2e71a41f161fe8cd212bb5832ca",
+    "cache_index": 19662,
+    "prediction": 0,
+    "confidence": 0.9859480857849121,
+    "probabilities": [
+      0.9859480857849121,
+      0.014051856473088264
+    ]
+  },
+  {
+    "path": "Dog/10631.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "78ef336c2f4efeca12f24beda25a4fa500d1a5e67478edcea73eeba1a493edc8",
+    "cache_index": 13184,
+    "prediction": 0,
+    "confidence": 0.9856113195419312,
+    "probabilities": [
+      0.9856113195419312,
+      0.01438862830400467
+    ]
+  },
+  {
+    "path": "Dog/5765.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "bd44e617151b05ebe796609c66450d813f50a20aba75ebef1f12060e7efd4338",
+    "cache_index": 20271,
+    "prediction": 0,
+    "confidence": 0.9854705333709717,
+    "probabilities": [
+      0.9854705333709717,
+      0.014529488980770111
+    ]
+  },
+  {
+    "path": "Dog/8593.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "cc985f809951900fdeb196c2427807a49392304190765b136bebecfc83d4c139",
+    "cache_index": 23407,
+    "prediction": 0,
+    "confidence": 0.9843201041221619,
+    "probabilities": [
+      0.9843201041221619,
+      0.01567990332841873
+    ]
+  },
+  {
+    "path": "Dog/10355.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 400,
+    "sha256": "d3a72374b3334f2b979875d894704e5f2f8fdf1db1c2fc4982536f17f2fc5c99",
+    "cache_index": 12878,
+    "prediction": 0,
+    "confidence": 0.983989953994751,
+    "probabilities": [
+      0.983989953994751,
+      0.016010010614991188
+    ]
+  },
+  {
+    "path": "Dog/6414.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 400,
+    "sha256": "727853e121ac2b2aa9ba72e9793f04d4dfdc3137c64e7571748f1a0aca2c5ff2",
+    "cache_index": 20992,
+    "prediction": 0,
+    "confidence": 0.9838150143623352,
+    "probabilities": [
+      0.9838150143623352,
+      0.01618499681353569
+    ]
+  },
+  {
+    "path": "Dog/4779.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 362,
+    "sha256": "74129499c113df85afdccb3ee58b3400d042e18dd75f092da6561d74eec99ad2",
+    "cache_index": 19175,
+    "prediction": 0,
+    "confidence": 0.983562171459198,
+    "probabilities": [
+      0.983562171459198,
+      0.016437867656350136
+    ]
+  },
+  {
+    "path": "Dog/11346.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 273,
+    "sha256": "a6322cf4873098e55a540c6b88706d57a1a054be85ec817d6042f7332a5fe77d",
+    "cache_index": 13977,
+    "prediction": 0,
+    "confidence": 0.9832377433776855,
+    "probabilities": [
+      0.9832377433776855,
+      0.016762197017669678
+    ]
+  },
+  {
+    "path": "Cat/4308.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 333,
+    "sha256": "cff2b7865dd020f0ab2d6891a70539cf0ed26835e85131403aad4acb3378707b",
+    "cache_index": 6171,
+    "prediction": 1,
+    "confidence": 0.9830566048622131,
+    "probabilities": [
+      0.01694336161017418,
+      0.9830566048622131
+    ]
+  },
+  {
+    "path": "Dog/3087.jpg",
+    "label": 1,
+    "width": 256,
+    "height": 180,
+    "sha256": "54ff7f7f9ae628886b6a88c01e9939c8f4d9af075fea5d8bacb1ba4c4fe88450",
+    "cache_index": 17296,
+    "prediction": 0,
+    "confidence": 0.9824986457824707,
+    "probabilities": [
+      0.9824986457824707,
+      0.01750129647552967
+    ]
+  },
+  {
+    "path": "Dog/9456.jpg",
+    "label": 1,
+    "width": 96,
+    "height": 72,
+    "sha256": "a6f41db55893089c9f827b23742cb6204706749bcc2336c96ee2e689e45729f3",
+    "cache_index": 24365,
+    "prediction": 0,
+    "confidence": 0.9824876189231873,
+    "probabilities": [
+      0.9824876189231873,
+      0.01751241274178028
+    ]
+  },
+  {
+    "path": "Dog/412.jpg",
+    "label": 1,
+    "width": 162,
+    "height": 241,
+    "sha256": "17c7512d7d8d91bb12ece66d524eea789031cdb209a87f428c5f6ec61b0bbe70",
+    "cache_index": 18444,
+    "prediction": 0,
+    "confidence": 0.9815100431442261,
+    "probabilities": [
+      0.9815100431442261,
+      0.01848996989428997
+    ]
+  },
+  {
+    "path": "Dog/8029.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 240,
+    "sha256": "8e4705acb7c51ce0ff287c31d71f37ed04f2b88c10635147af2ed8c4d4eb2293",
+    "cache_index": 22784,
+    "prediction": 0,
+    "confidence": 0.9812684655189514,
+    "probabilities": [
+      0.9812684655189514,
+      0.018731480464339256
+    ]
+  },
+  {
+    "path": "Dog/1822.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 331,
+    "sha256": "5d0909662147c2323fc71a40d05808cf19cc690cc387d1111ae20d23ae650067",
+    "cache_index": 15893,
+    "prediction": 0,
+    "confidence": 0.981031060218811,
+    "probabilities": [
+      0.981031060218811,
+      0.0189689751714468
+    ]
+  },
+  {
+    "path": "Dog/8698.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 398,
+    "sha256": "f382f76fc632e6b05118e0153be54257e3faebf6b64ae9fbfb6daf853cf9c7eb",
+    "cache_index": 23523,
+    "prediction": 0,
+    "confidence": 0.980381965637207,
+    "probabilities": [
+      0.980381965637207,
+      0.019618002697825432
+    ]
+  },
+  {
+    "path": "Dog/3590.jpg",
+    "label": 1,
+    "width": 192,
+    "height": 200,
+    "sha256": "e2fafb7cad3b5c4e9e5622c71dcded004d28fb93e59107c95f251c66e9eb2ed2",
+    "cache_index": 17855,
+    "prediction": 0,
+    "confidence": 0.9791327118873596,
+    "probabilities": [
+      0.9791327118873596,
+      0.020867222920060158
+    ]
+  },
+  {
+    "path": "Dog/3054.jpg",
+    "label": 1,
+    "width": 361,
+    "height": 500,
+    "sha256": "a99e9bddc0ea99b3f0d7a9402650b1caeed6bdf14cdfb2ba56161ac5493aefbc",
+    "cache_index": 17261,
+    "prediction": 0,
+    "confidence": 0.9786435961723328,
+    "probabilities": [
+      0.9786435961723328,
+      0.021356437355279922
+    ]
+  },
+  {
+    "path": "Dog/3262.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "8727cd49542a170d90bf94b47a85ae795a2eb63a7981f3218c86310ea86829d4",
+    "cache_index": 17491,
+    "prediction": 0,
+    "confidence": 0.9785037636756897,
+    "probabilities": [
+      0.9785037636756897,
+      0.021496199071407318
+    ]
+  },
+  {
+    "path": "Dog/7305.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 399,
+    "sha256": "37d465cb13258f040f8bbf943bfcb81e7c3933fa7c25bf1f15d198c0da8bd050",
+    "cache_index": 21981,
+    "prediction": 0,
+    "confidence": 0.9784621000289917,
+    "probabilities": [
+      0.9784621000289917,
+      0.021537892520427704
+    ]
+  },
+  {
+    "path": "Dog/8536.jpg",
+    "label": 1,
+    "width": 480,
+    "height": 360,
+    "sha256": "1572d9fe078e0d108d40ac538b8ec778175a65e7b625e9263d94bcd762d413f3",
+    "cache_index": 23345,
+    "prediction": 0,
+    "confidence": 0.9784380197525024,
+    "probabilities": [
+      0.9784380197525024,
+      0.02156200259923935
+    ]
+  },
+  {
+    "path": "Dog/9735.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "894a212c8ba476e2429f2f3418d160f38c4cbbf3a0ab36937398074d0a82ae89",
+    "cache_index": 24675,
+    "prediction": 0,
+    "confidence": 0.9782101511955261,
+    "probabilities": [
+      0.9782101511955261,
+      0.02178989350795746
+    ]
+  },
+  {
+    "path": "Dog/9977.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "2b68a76589db335550681d2f693fcd5a113bd3d410d3b55c68bb07e8e567227b",
+    "cache_index": 24941,
+    "prediction": 0,
+    "confidence": 0.9780248403549194,
+    "probabilities": [
+      0.9780248403549194,
+      0.02197512984275818
+    ]
+  },
+  {
+    "path": "Dog/4987.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "092b6221b7e99ec72e2f1158c95c923dfbf6ab58b43bb39d6ddecff664ed55f7",
+    "cache_index": 19406,
+    "prediction": 0,
+    "confidence": 0.9775930643081665,
+    "probabilities": [
+      0.9775930643081665,
+      0.02240687422454357
+    ]
+  },
+  {
+    "path": "Dog/8770.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "d3c1cf34a506b6cb0cbad08f0bccff818f6ca1ab05e3e1fe2bbae28d3a20c239",
+    "cache_index": 23603,
+    "prediction": 0,
+    "confidence": 0.9774065017700195,
+    "probabilities": [
+      0.9774065017700195,
+      0.022593507543206215
+    ]
+  },
+  {
+    "path": "Dog/12073.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "7ab87c3a439841c6b1871b497b58a891e643fd2a6cf065538a60009287769b17",
+    "cache_index": 14784,
+    "prediction": 0,
+    "confidence": 0.9772124886512756,
+    "probabilities": [
+      0.9772124886512756,
+      0.02278747782111168
+    ]
+  },
+  {
+    "path": "Dog/2243.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "fbe2d2f862534e6ecc8cf121d6edf06a4796a05c151f36af06988b8faa3af1d3",
+    "cache_index": 16361,
+    "prediction": 0,
+    "confidence": 0.977143406867981,
+    "probabilities": [
+      0.977143406867981,
+      0.02285660058259964
+    ]
+  },
+  {
+    "path": "Dog/469.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 333,
+    "sha256": "65060bb743c9700310199264fdc98cf298ff18a39feef95c44b48e4087857667",
+    "cache_index": 19076,
+    "prediction": 0,
+    "confidence": 0.977042555809021,
+    "probabilities": [
+      0.977042555809021,
+      0.022957490757107735
+    ]
+  },
+  {
+    "path": "Dog/5959.jpg",
+    "label": 1,
+    "width": 331,
+    "height": 388,
+    "sha256": "129daf0dbe62a09a1d37d8e123ab5dded005c99d4f2447be6fcba6543571141f",
+    "cache_index": 20486,
+    "prediction": 0,
+    "confidence": 0.9760918021202087,
+    "probabilities": [
+      0.9760918021202087,
+      0.02390822023153305
+    ]
+  },
+  {
+    "path": "Dog/2664.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 297,
+    "sha256": "a462c2c59ec7ae5d02891e8c85ed4ff3b39463e806daf622171c7507f77ac6ad",
+    "cache_index": 16828,
+    "prediction": 0,
+    "confidence": 0.9757900238037109,
+    "probabilities": [
+      0.9757900238037109,
+      0.024209951981902122
+    ]
+  },
+  {
+    "path": "Dog/11731.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 332,
+    "sha256": "1739fc19e26e7daaaed86adeccd0eeb5eb7db99270932507284d784757ad445a",
+    "cache_index": 14404,
+    "prediction": 0,
+    "confidence": 0.9742707014083862,
+    "probabilities": [
+      0.9742707014083862,
+      0.025729313492774963
+    ]
+  },
+  {
+    "path": "Dog/6927.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "3839858a1eb4b6f968c1835c75fd10c3aabe073a85da805255a3232a12fb6997",
+    "cache_index": 21560,
+    "prediction": 0,
+    "confidence": 0.9737996459007263,
+    "probabilities": [
+      0.9737996459007263,
+      0.026200370863080025
+    ]
+  },
+  {
+    "path": "Dog/9189.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 377,
+    "sha256": "5d1c26af7271b3cb4e4b39a6a15cf543586c3454c9605149743b9eb5226045c3",
+    "cache_index": 24068,
+    "prediction": 0,
+    "confidence": 0.9727321863174438,
+    "probabilities": [
+      0.9727321863174438,
+      0.027267800644040108
+    ]
+  },
+  {
+    "path": "Dog/10898.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 500,
+    "sha256": "36d0779f011576c3fa965772beeb597a188787e1407c90e542cce08500dd2a43",
+    "cache_index": 13478,
+    "prediction": 0,
+    "confidence": 0.9717062711715698,
+    "probabilities": [
+      0.9717062711715698,
+      0.028293706476688385
+    ]
+  },
+  {
+    "path": "Dog/3777.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "30748d3df0eb120b971ce879b86da31c654626167433759698d5188948f30bd0",
+    "cache_index": 18062,
+    "prediction": 0,
+    "confidence": 0.970876157283783,
+    "probabilities": [
+      0.970876157283783,
+      0.029123853892087936
+    ]
+  },
+  {
+    "path": "Dog/11624.jpg",
+    "label": 1,
+    "width": 389,
+    "height": 333,
+    "sha256": "426705ab29632aa67406db00217d71a61941e471f653bbc2e07934842d88e49f",
+    "cache_index": 14286,
+    "prediction": 0,
+    "confidence": 0.9696102142333984,
+    "probabilities": [
+      0.9696102142333984,
+      0.03038979321718216
+    ]
+  },
+  {
+    "path": "Dog/3205.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "67e6243ce7a4312377e0cf38297d2dd7e050f7037eb75fb2533e837e63356209",
+    "cache_index": 17428,
+    "prediction": 0,
+    "confidence": 0.9682429432868958,
+    "probabilities": [
+      0.9682429432868958,
+      0.03175704553723335
+    ]
+  },
+  {
+    "path": "Dog/2506.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "66e3e030480cebc556868f1f975d2d46de5f342f7f1ca5cde06e192fd69ca974",
+    "cache_index": 16653,
+    "prediction": 0,
+    "confidence": 0.9681676030158997,
+    "probabilities": [
+      0.9681676030158997,
+      0.03183237090706825
+    ]
+  },
+  {
+    "path": "Dog/1498.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 240,
+    "sha256": "73b4e35b44ec54695bd472411da4dec57d9fda78de1e549533db8e75b340bd60",
+    "cache_index": 15532,
+    "prediction": 0,
+    "confidence": 0.9681429266929626,
+    "probabilities": [
+      0.9681429266929626,
+      0.03185708448290825
+    ]
+  },
+  {
+    "path": "Dog/843.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 374,
+    "sha256": "be90939e754932f2625220543eec37c0cbffe0ba84291cdd2b288397ec2c2c35",
+    "cache_index": 23227,
+    "prediction": 0,
+    "confidence": 0.9670323133468628,
+    "probabilities": [
+      0.9670323133468628,
+      0.03296763822436333
+    ]
+  },
+  {
+    "path": "Dog/10252.jpg",
+    "label": 1,
+    "width": 191,
+    "height": 200,
+    "sha256": "5bf09873f1424cb3068518e2149ad7e3172c1ba0881c847ae3b03f682fd3677a",
+    "cache_index": 12764,
+    "prediction": 0,
+    "confidence": 0.9668406248092651,
+    "probabilities": [
+      0.9668406248092651,
+      0.03315933793783188
+    ]
+  },
+  {
+    "path": "Dog/6683.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "06a3dc9fff8a9ba2c7efc40a2c78fc1eb4c16e1dbe769a635793f8a62884c3b6",
+    "cache_index": 21290,
+    "prediction": 0,
+    "confidence": 0.9651493430137634,
+    "probabilities": [
+      0.9651493430137634,
+      0.034850623458623886
+    ]
+  },
+  {
+    "path": "Dog/9995.jpg",
+    "label": 1,
+    "width": 300,
+    "height": 225,
+    "sha256": "c7fdb67f20df997aa7a9d717d1dc2db6a026add2d8fb443e89b55bc9ae213535",
+    "cache_index": 24961,
+    "prediction": 0,
+    "confidence": 0.9649975895881653,
+    "probabilities": [
+      0.9649975895881653,
+      0.0350024476647377
+    ]
+  },
+  {
+    "path": "Dog/4357.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "9f39dc9018a9ba224272b099ac53a828a6fe8298bb0115b7521c64f90bbb2fae",
+    "cache_index": 18707,
+    "prediction": 0,
+    "confidence": 0.963413417339325,
+    "probabilities": [
+      0.963413417339325,
+      0.03658659756183624
+    ]
+  },
+  {
+    "path": "Dog/4670.jpg",
+    "label": 1,
+    "width": 286,
+    "height": 216,
+    "sha256": "8249e507db765f938e78db080b100403c9b2f4f62f8f578c784785b6c4be48e2",
+    "cache_index": 19055,
+    "prediction": 0,
+    "confidence": 0.9628361463546753,
+    "probabilities": [
+      0.9628361463546753,
+      0.0371638722717762
+    ]
+  },
+  {
+    "path": "Dog/5048.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "5fa39cea0fd4ff6248743392ff0814c0ac47afd635be7aa6555a97c9e5eb7c40",
+    "cache_index": 19475,
+    "prediction": 0,
+    "confidence": 0.9613204002380371,
+    "probabilities": [
+      0.9613204002380371,
+      0.03867952525615692
+    ]
+  },
+  {
+    "path": "Dog/216.jpg",
+    "label": 1,
+    "width": 283,
+    "height": 500,
+    "sha256": "707adf6675dbc37804ed76aa852630f81582059575133ddee96958b92d02b43c",
+    "cache_index": 16268,
+    "prediction": 0,
+    "confidence": 0.9593818187713623,
+    "probabilities": [
+      0.9593818187713623,
+      0.0406181775033474
+    ]
+  },
+  {
+    "path": "Dog/10272.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "da2ef5321c611019a54d21d28b26cdd4a9f24dff4b6191bd95054835b23e75cc",
+    "cache_index": 12786,
+    "prediction": 0,
+    "confidence": 0.9589024186134338,
+    "probabilities": [
+      0.9589024186134338,
+      0.041097547858953476
+    ]
+  },
+  {
+    "path": "Dog/10087.jpg",
+    "label": 1,
+    "width": 423,
+    "height": 480,
+    "sha256": "7e750da922e48b291f04d3f095e31bce88a8a21139de124ed4633f0de19b8b20",
+    "cache_index": 12580,
+    "prediction": 0,
+    "confidence": 0.9585140347480774,
+    "probabilities": [
+      0.9585140347480774,
+      0.041486017405986786
+    ]
+  },
+  {
+    "path": "Dog/11856.jpg",
+    "label": 1,
+    "width": 220,
+    "height": 162,
+    "sha256": "30440dbec2071d19390735b980f4b334d1d6ea32f6c6b1f3f62af7960acea1e7",
+    "cache_index": 14542,
+    "prediction": 0,
+    "confidence": 0.9582134485244751,
+    "probabilities": [
+      0.9582134485244751,
+      0.04178653657436371
+    ]
+  },
+  {
+    "path": "Dog/11541.jpg",
+    "label": 1,
+    "width": 480,
+    "height": 491,
+    "sha256": "b720ef4d0b0ca049f0c93cbf418ebbfd2fa6e42865a0b3cf013ebecba70045c1",
+    "cache_index": 14194,
+    "prediction": 0,
+    "confidence": 0.9579735994338989,
+    "probabilities": [
+      0.9579735994338989,
+      0.04202642664313316
+    ]
+  },
+  {
+    "path": "Dog/8126.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 225,
+    "sha256": "0e4a49b41f6dff7fc27dcfb0d0d7ef17254e9fb8e5334a848591dfe0fc6de6d3",
+    "cache_index": 22890,
+    "prediction": 0,
+    "confidence": 0.9576895833015442,
+    "probabilities": [
+      0.9576895833015442,
+      0.04231041297316551
+    ]
+  },
+  {
+    "path": "Dog/7738.jpg",
+    "label": 1,
+    "width": 150,
+    "height": 114,
+    "sha256": "353cc90a66a05ceeb29241d1b63ed3c91f76bfa49997e180229963c587dc1aa3",
+    "cache_index": 22460,
+    "prediction": 0,
+    "confidence": 0.9574381709098816,
+    "probabilities": [
+      0.9574381709098816,
+      0.042561814188957214
+    ]
+  },
+  {
+    "path": "Dog/12223.jpg",
+    "label": 1,
+    "width": 108,
+    "height": 101,
+    "sha256": "287d32ced634c19156e0bdc188179bb0ee63d6f9a2cd5cc1350568ec859aabc9",
+    "cache_index": 14951,
+    "prediction": 0,
+    "confidence": 0.9560350179672241,
+    "probabilities": [
+      0.9560350179672241,
+      0.04396491497755051
+    ]
+  },
+  {
+    "path": "Dog/1573.jpg",
+    "label": 1,
+    "width": 175,
+    "height": 175,
+    "sha256": "af99e88527eef6e9a40f87b7065c1ad525a964fcead1474ece7c6d794db8ba8a",
+    "cache_index": 15616,
+    "prediction": 0,
+    "confidence": 0.9548810720443726,
+    "probabilities": [
+      0.9548810720443726,
+      0.04511899873614311
+    ]
+  },
+  {
+    "path": "Dog/918.jpg",
+    "label": 1,
+    "width": 480,
+    "height": 312,
+    "sha256": "442c961c4ab851cd4fbc702a5077297e7fbef60afc5f83cb0d37578b3cc1d8b5",
+    "cache_index": 24058,
+    "prediction": 0,
+    "confidence": 0.9548447132110596,
+    "probabilities": [
+      0.9548447132110596,
+      0.045155253261327744
+    ]
+  },
+  {
+    "path": "Dog/7984.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "c10272d6324391a4e0a5d7ffd112d2b1343aec06a6a9c622c99cf2cd8ab381b7",
+    "cache_index": 22733,
+    "prediction": 0,
+    "confidence": 0.954616904258728,
+    "probabilities": [
+      0.954616904258728,
+      0.045383136719465256
+    ]
+  },
+  {
+    "path": "Dog/1397.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 262,
+    "sha256": "71267bf71238d2e088157c495bbd2a2ed99bacb1298b173e7d9e058a19906e22",
+    "cache_index": 15420,
+    "prediction": 0,
+    "confidence": 0.9543271064758301,
+    "probabilities": [
+      0.9543271064758301,
+      0.04567289724946022
+    ]
+  },
+  {
+    "path": "Dog/366.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "7dbafc4670a75b2ce7de85f94254b18cab881c8e88682c8da91d4ceabcda9e4a",
+    "cache_index": 17932,
+    "prediction": 0,
+    "confidence": 0.9539229869842529,
+    "probabilities": [
+      0.9539229869842529,
+      0.046077046543359756
+    ]
+  },
+  {
+    "path": "Dog/1994.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 243,
+    "sha256": "d438015f0dbd188719027c465afe0e4f0a9f15775ec4b12b70aebfb6f02592ea",
+    "cache_index": 16083,
+    "prediction": 0,
+    "confidence": 0.953683078289032,
+    "probabilities": [
+      0.953683078289032,
+      0.04631687328219414
+    ]
+  },
+  {
+    "path": "Dog/1690.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 333,
+    "sha256": "ad15f01a5636fa67f88623e1438f5ea9d66d5b097bd081500a5ae2b3f9fa97d2",
+    "cache_index": 15746,
+    "prediction": 0,
+    "confidence": 0.9517203569412231,
+    "probabilities": [
+      0.9517203569412231,
+      0.04827957600355148
+    ]
+  },
+  {
+    "path": "Dog/8252.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 497,
+    "sha256": "6d700d7dc571d18b1bd4182a7102793662f782cb97937a89f882088e1a929837",
+    "cache_index": 23030,
+    "prediction": 0,
+    "confidence": 0.9502695202827454,
+    "probabilities": [
+      0.9502695202827454,
+      0.04973042383790016
+    ]
+  },
+  {
+    "path": "Dog/2147.jpg",
+    "label": 1,
+    "width": 464,
+    "height": 352,
+    "sha256": "c1606218d1413f508c068a3e86dee4b417476baf713ffd8a8ec1024ccb6b9178",
+    "cache_index": 16254,
+    "prediction": 0,
+    "confidence": 0.9502594470977783,
+    "probabilities": [
+      0.9502594470977783,
+      0.04974055290222168
+    ]
+  },
+  {
+    "path": "Cat/2693.jpg",
+    "label": 0,
+    "width": 225,
+    "height": 300,
+    "sha256": "2b13507159fae1ae065a033ee3dbc341f26afc0d7b480bd0be34d35e5d0d3144",
+    "cache_index": 4378,
+    "prediction": 1,
+    "confidence": 0.9501951932907104,
+    "probabilities": [
+      0.04980478435754776,
+      0.9501951932907104
+    ]
+  },
+  {
+    "path": "Cat/1275.jpg",
+    "label": 0,
+    "width": 179,
+    "height": 200,
+    "sha256": "252ed5a6ba7ba80b7f0d1ec4b205e02de27edeee4c94680df696240eee5cc4f7",
+    "cache_index": 2806,
+    "prediction": 1,
+    "confidence": 0.9490700364112854,
+    "probabilities": [
+      0.05092993751168251,
+      0.9490700364112854
+    ]
+  },
+  {
+    "path": "Dog/12441.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "bb785ec4ce1d0c5ea5b6be64c0642063834425ed152b70102fae85d071a71696",
+    "cache_index": 15193,
+    "prediction": 0,
+    "confidence": 0.9487894177436829,
+    "probabilities": [
+      0.9487894177436829,
+      0.05121060833334923
+    ]
+  },
+  {
+    "path": "Dog/9804.jpg",
+    "label": 1,
+    "width": 319,
+    "height": 500,
+    "sha256": "e607efed51ad21d5713d0a75d7ac6612cf90d5a2a1a9adb614615d70f41776be",
+    "cache_index": 24751,
+    "prediction": 0,
+    "confidence": 0.9482494592666626,
+    "probabilities": [
+      0.9482494592666626,
+      0.051750559359788895
+    ]
+  },
+  {
+    "path": "Dog/10690.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "fc108bb74310c6497e13da9998ffdb430918d34b421c88f333956eed6da54f20",
+    "cache_index": 13249,
+    "prediction": 0,
+    "confidence": 0.9467470645904541,
+    "probabilities": [
+      0.9467470645904541,
+      0.05325290933251381
+    ]
+  },
+  {
+    "path": "Cat/3151.jpg",
+    "label": 0,
+    "width": 250,
+    "height": 381,
+    "sha256": "10539e8f98112566eb07d3b50a2a1bc949aad8f52eaefb57c5f2c49516518857",
+    "cache_index": 4888,
+    "prediction": 1,
+    "confidence": 0.9466378688812256,
+    "probabilities": [
+      0.053362101316452026,
+      0.9466378688812256
+    ]
+  },
+  {
+    "path": "Dog/8243.jpg",
+    "label": 1,
+    "width": 404,
+    "height": 480,
+    "sha256": "da6da77af193122fb8b94c4b98b4aee5e1dad6950961e10924e6f2309f274591",
+    "cache_index": 23020,
+    "prediction": 0,
+    "confidence": 0.9464921951293945,
+    "probabilities": [
+      0.9464921951293945,
+      0.05350784212350845
+    ]
+  },
+  {
+    "path": "Dog/10915.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "97840d49f6c30f4a5eebc364eb73946323387b317c2a70ff2cf8bd1d1fe2dc8d",
+    "cache_index": 13498,
+    "prediction": 0,
+    "confidence": 0.9461579322814941,
+    "probabilities": [
+      0.9461579322814941,
+      0.05384201556444168
+    ]
+  },
+  {
+    "path": "Dog/1124.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 374,
+    "sha256": "f6486d3d540fcc8458466889cecb604661d33b7d1eaf554a946900dc139d2214",
+    "cache_index": 13859,
+    "prediction": 0,
+    "confidence": 0.945927619934082,
+    "probabilities": [
+      0.945927619934082,
+      0.054072387516498566
+    ]
+  },
+  {
+    "path": "Dog/7536.jpg",
+    "label": 1,
+    "width": 308,
+    "height": 231,
+    "sha256": "9ea42ad270a3ea76b47c6785f8614e84db0570d1db64b56b14f87e22436beb06",
+    "cache_index": 22236,
+    "prediction": 0,
+    "confidence": 0.9444090723991394,
+    "probabilities": [
+      0.9444090723991394,
+      0.0555909238755703
+    ]
+  },
+  {
+    "path": "Dog/4706.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 399,
+    "sha256": "de66548977ee8762cfa3694ccd253c9d9d1abf616e94b9135b7562d714dbe985",
+    "cache_index": 19095,
+    "prediction": 0,
+    "confidence": 0.9441156387329102,
+    "probabilities": [
+      0.9441156387329102,
+      0.055884383618831635
+    ]
+  },
+  {
+    "path": "Dog/4024.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 435,
+    "sha256": "6e9fc9343497e4823d1b78533834a35c1ceeb9e8490d0fb7958db9908ce0098c",
+    "cache_index": 18338,
+    "prediction": 0,
+    "confidence": 0.9440357089042664,
+    "probabilities": [
+      0.9440357089042664,
+      0.05596427619457245
+    ]
+  },
+  {
+    "path": "Dog/6644.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 299,
+    "sha256": "16cb8d0731c038e7ccdfd630ffb766b3ec5af2a904a70728e0c2eea95f1c27c7",
+    "cache_index": 21247,
+    "prediction": 0,
+    "confidence": 0.9439073801040649,
+    "probabilities": [
+      0.9439073801040649,
+      0.05609263479709625
+    ]
+  },
+  {
+    "path": "Dog/1557.jpg",
+    "label": 1,
+    "width": 366,
+    "height": 283,
+    "sha256": "866f100fd8fe9d998f16ef9f4c4cce0a285094cd66d2a34317aa3c90bc6241f6",
+    "cache_index": 15598,
+    "prediction": 0,
+    "confidence": 0.9426311254501343,
+    "probabilities": [
+      0.9426311254501343,
+      0.057368915528059006
+    ]
+  },
+  {
+    "path": "Dog/1945.jpg",
+    "label": 1,
+    "width": 216,
+    "height": 310,
+    "sha256": "70ac437ff7565d1c9fc153f1a54b0a722739a4897343f390ae1f01114e46d51f",
+    "cache_index": 16029,
+    "prediction": 0,
+    "confidence": 0.9423800110816956,
+    "probabilities": [
+      0.9423800110816956,
+      0.05761997029185295
+    ]
+  },
+  {
+    "path": "Dog/7834.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 500,
+    "sha256": "39802c90f96e3dcc7d78cf368fb03766129b019a5536d0efbdb711864918eafe",
+    "cache_index": 22567,
+    "prediction": 0,
+    "confidence": 0.9407628178596497,
+    "probabilities": [
+      0.9407628178596497,
+      0.05923718959093094
+    ]
+  },
+  {
+    "path": "Dog/6015.jpg",
+    "label": 1,
+    "width": 360,
+    "height": 364,
+    "sha256": "af40d15217af8d05556df881fb901e4971f68f4c582b924b4461870d21b8ff1c",
+    "cache_index": 20550,
+    "prediction": 0,
+    "confidence": 0.9386543035507202,
+    "probabilities": [
+      0.9386543035507202,
+      0.0613456554710865
+    ]
+  },
+  {
+    "path": "Dog/10886.jpg",
+    "label": 1,
+    "width": 499,
+    "height": 408,
+    "sha256": "d34497497e25f13e44bd47c9e8298c6fae0b33df4542fdb79c9697a7eb197373",
+    "cache_index": 13465,
+    "prediction": 0,
+    "confidence": 0.9381004571914673,
+    "probabilities": [
+      0.9381004571914673,
+      0.06189956143498421
+    ]
+  },
+  {
+    "path": "Dog/5919.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "4e322aecbd236cda165ff477984cd0bdd33218fff88df54d1f6eace4003881ee",
+    "cache_index": 20442,
+    "prediction": 0,
+    "confidence": 0.937648355960846,
+    "probabilities": [
+      0.937648355960846,
+      0.06235169246792793
+    ]
+  },
+  {
+    "path": "Dog/2784.jpg",
+    "label": 1,
+    "width": 276,
+    "height": 500,
+    "sha256": "87f816fbe5438199382f8d697d4f9cf64d51156d55ede296158cc72a10c9db37",
+    "cache_index": 16961,
+    "prediction": 0,
+    "confidence": 0.9371699094772339,
+    "probabilities": [
+      0.9371699094772339,
+      0.06283003091812134
+    ]
+  },
+  {
+    "path": "Dog/892.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "0f92d4215341165ec25b95758507f49192c7b795209c1ae83af609755118652d",
+    "cache_index": 23769,
+    "prediction": 0,
+    "confidence": 0.936525285243988,
+    "probabilities": [
+      0.936525285243988,
+      0.06347467750310898
+    ]
+  },
+  {
+    "path": "Dog/3.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "f3af8f2ebac669d0ee1bdafde1870a3dbf95dc7fc2e54db761fa75ad9b29279e",
+    "cache_index": 17199,
+    "prediction": 0,
+    "confidence": 0.93612140417099,
+    "probabilities": [
+      0.93612140417099,
+      0.06387858092784882
+    ]
+  },
+  {
+    "path": "Dog/255.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "5a6d600f3d3b90eed420f1b9e16d7f4ce530c14598cccd647e30c62f50e83aa1",
+    "cache_index": 16701,
+    "prediction": 0,
+    "confidence": 0.9356933832168579,
+    "probabilities": [
+      0.9356933832168579,
+      0.0643065944314003
+    ]
+  },
+  {
+    "path": "Cat/9307.jpg",
+    "label": 0,
+    "width": 318,
+    "height": 257,
+    "sha256": "59f39993546eaa4515e871cb7fe3438a70511c5f039445fcad37c01386742b06",
+    "cache_index": 11714,
+    "prediction": 1,
+    "confidence": 0.935158371925354,
+    "probabilities": [
+      0.0648416206240654,
+      0.935158371925354
+    ]
+  },
+  {
+    "path": "Dog/4152.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "29083144c8ae2b5cb8aaa77479852fa7892b6bcc72259bb9aad5581f394b2f23",
+    "cache_index": 18480,
+    "prediction": 0,
+    "confidence": 0.9350711107254028,
+    "probabilities": [
+      0.9350711107254028,
+      0.06492891162633896
+    ]
+  },
+  {
+    "path": "Cat/5355.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "c2b6fee38df9cd1e31b2aa386679f38e192e0e518ae261c0a7f87c692fb3ff94",
+    "cache_index": 7330,
+    "prediction": 1,
+    "confidence": 0.9343457221984863,
+    "probabilities": [
+      0.06565425544977188,
+      0.9343457221984863
+    ]
+  },
+  {
+    "path": "Dog/4456.jpg",
+    "label": 1,
+    "width": 300,
+    "height": 225,
+    "sha256": "880b8a9a91fabf172fdf7ebe47066dabe4b74fccfbb1db0f0898536ebb19dff7",
+    "cache_index": 18817,
+    "prediction": 0,
+    "confidence": 0.9341755509376526,
+    "probabilities": [
+      0.9341755509376526,
+      0.0658244639635086
+    ]
+  },
+  {
+    "path": "Dog/9746.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 377,
+    "sha256": "fe48714a79870620e605d6f5c2976e9bb8346065e61ed8c4d3efdc9bc13d97cf",
+    "cache_index": 24687,
+    "prediction": 0,
+    "confidence": 0.9336495995521545,
+    "probabilities": [
+      0.9336495995521545,
+      0.06635038554668427
+    ]
+  },
+  {
+    "path": "Dog/6167.jpg",
+    "label": 1,
+    "width": 262,
+    "height": 500,
+    "sha256": "0638ac78f43f359efcc4be0046de2d5cc32122f3a581017ab84fa3bee149475d",
+    "cache_index": 20717,
+    "prediction": 0,
+    "confidence": 0.932523787021637,
+    "probabilities": [
+      0.932523787021637,
+      0.06747622042894363
+    ]
+  },
+  {
+    "path": "Dog/1020.jpg",
+    "label": 1,
+    "width": 426,
+    "height": 402,
+    "sha256": "fbef6a0194bb2f32603d203ece26497de322d520d3ebe66fd55d60f5205976cb",
+    "cache_index": 12706,
+    "prediction": 0,
+    "confidence": 0.9321834444999695,
+    "probabilities": [
+      0.9321834444999695,
+      0.06781651824712753
+    ]
+  },
+  {
+    "path": "Dog/2618.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 330,
+    "sha256": "f63c33f4beb1c95ba5ba341c87761f4fa3459a3107e4182867f0a7f91fdcb764",
+    "cache_index": 16777,
+    "prediction": 0,
+    "confidence": 0.9317291378974915,
+    "probabilities": [
+      0.9317291378974915,
+      0.06827083230018616
+    ]
+  },
+  {
+    "path": "Cat/5964.jpg",
+    "label": 0,
+    "width": 228,
+    "height": 500,
+    "sha256": "9410307dc0ddd08c10dea12c056b9905821c2b920203407399076940bf350f1c",
+    "cache_index": 8006,
+    "prediction": 1,
+    "confidence": 0.9314054250717163,
+    "probabilities": [
+      0.06859462708234787,
+      0.9314054250717163
+    ]
+  },
+  {
+    "path": "Dog/2397.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "0c339db92c4447376b77fae2c2d5e3051fa18bb19d020b625c248be3c7281350",
+    "cache_index": 16531,
+    "prediction": 0,
+    "confidence": 0.9284304976463318,
+    "probabilities": [
+      0.9284304976463318,
+      0.07156955450773239
+    ]
+  },
+  {
+    "path": "Dog/673.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "bf79bf3a2c45674e091387084d59485ccda508cdced4f5faa6aa7d3f8c91070f",
+    "cache_index": 21341,
+    "prediction": 0,
+    "confidence": 0.9279423356056213,
+    "probabilities": [
+      0.9279423356056213,
+      0.07205770164728165
+    ]
+  },
+  {
+    "path": "Dog/3996.jpg",
+    "label": 1,
+    "width": 360,
+    "height": 270,
+    "sha256": "0789d185aefacad0e3483616935f6c6b5325ab528e52ff31165f81f4cab5ff5f",
+    "cache_index": 18305,
+    "prediction": 0,
+    "confidence": 0.9268715977668762,
+    "probabilities": [
+      0.9268715977668762,
+      0.0731283500790596
+    ]
+  },
+  {
+    "path": "Dog/2133.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 280,
+    "sha256": "98f5d0c863912872ad68063f3f6725d77dca4c52bb05876bf03f3f7e940791d6",
+    "cache_index": 16239,
+    "prediction": 0,
+    "confidence": 0.925028383731842,
+    "probabilities": [
+      0.925028383731842,
+      0.07497157156467438
+    ]
+  },
+  {
+    "path": "Dog/7725.jpg",
+    "label": 1,
+    "width": 304,
+    "height": 480,
+    "sha256": "5d056b62133af571a66e4a2984c418465eddf5e34df121906f915d65defcba51",
+    "cache_index": 22446,
+    "prediction": 0,
+    "confidence": 0.9246277809143066,
+    "probabilities": [
+      0.9246277809143066,
+      0.07537216693162918
+    ]
+  },
+  {
+    "path": "Dog/4764.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "5c25fc470ec7ed87c5b861a6ddee239c0f41fc2a1b68e449ae1328f48b5ab5d9",
+    "cache_index": 19159,
+    "prediction": 0,
+    "confidence": 0.923886239528656,
+    "probabilities": [
+      0.923886239528656,
+      0.07611380517482758
+    ]
+  },
+  {
+    "path": "Dog/10655.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 262,
+    "sha256": "bde6cb89e4e89429b7d28d714ac49c6317558ff1103e558d8e156acf17be7bc2",
+    "cache_index": 13210,
+    "prediction": 0,
+    "confidence": 0.9230595231056213,
+    "probabilities": [
+      0.9230595231056213,
+      0.07694047689437866
+    ]
+  },
+  {
+    "path": "Cat/3566.jpg",
+    "label": 0,
+    "width": 313,
+    "height": 233,
+    "sha256": "3551888ca17da9ae3209eed621012a0e85722e61beae537edb1d65e2c3a05d76",
+    "cache_index": 5347,
+    "prediction": 1,
+    "confidence": 0.9213807582855225,
+    "probabilities": [
+      0.07861927151679993,
+      0.9213807582855225
+    ]
+  },
+  {
+    "path": "Dog/9878.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "94d34ef33d90b3bc1028a16df902e0957a39027903cdf1c38ab2eff2048678fc",
+    "cache_index": 24832,
+    "prediction": 0,
+    "confidence": 0.9210590720176697,
+    "probabilities": [
+      0.9210590720176697,
+      0.0789409652352333
+    ]
+  },
+  {
+    "path": "Dog/845.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "7e629c1910ec9d84cc0bbb3f1af2d8c1267c98eec7ea77194ab3aa2e22350bba",
+    "cache_index": 23249,
+    "prediction": 0,
+    "confidence": 0.9206817150115967,
+    "probabilities": [
+      0.9206817150115967,
+      0.07931829243898392
+    ]
+  },
+  {
+    "path": "Dog/1772.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "06d5e3234d20128224a1b15ccf6bfad8049e8884f76590ea51b9e0fa570cbb9e",
+    "cache_index": 15837,
+    "prediction": 0,
+    "confidence": 0.9203697443008423,
+    "probabilities": [
+      0.9203697443008423,
+      0.07963022589683533
+    ]
+  },
+  {
+    "path": "Dog/11324.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "308e0ee9c231371c0c9530e429b691bc0e3e43fc6f61abc17fa446b193f6a2ae",
+    "cache_index": 13953,
+    "prediction": 0,
+    "confidence": 0.9197287559509277,
+    "probabilities": [
+      0.9197287559509277,
+      0.08027123659849167
+    ]
+  },
+  {
+    "path": "Dog/4285.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 240,
+    "sha256": "0c087700c5761e5ecddc61937aa48f07401370fd1989c59985837f5ea6afe5e9",
+    "cache_index": 18627,
+    "prediction": 0,
+    "confidence": 0.9193536043167114,
+    "probabilities": [
+      0.9193536043167114,
+      0.08064640313386917
+    ]
+  },
+  {
+    "path": "Dog/2885.jpg",
+    "label": 1,
+    "width": 357,
+    "height": 500,
+    "sha256": "47baad57631352a9343cd13c14ec3a5659c8e3b882330666af82510494f0424b",
+    "cache_index": 17072,
+    "prediction": 0,
+    "confidence": 0.9189819693565369,
+    "probabilities": [
+      0.9189819693565369,
+      0.08101803809404373
+    ]
+  },
+  {
+    "path": "Dog/9497.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "e29d7fa7e452de0fd17b487ff6da173a70d01c087809ce766d1ebfa61ecb4e95",
+    "cache_index": 24410,
+    "prediction": 0,
+    "confidence": 0.9177476167678833,
+    "probabilities": [
+      0.9177476167678833,
+      0.08225242048501968
+    ]
+  },
+  {
+    "path": "Dog/5795.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "e097b769c9e8bf9863db9eb02944caba5b670346beffb9cb40b2c98b57cb43c9",
+    "cache_index": 20304,
+    "prediction": 0,
+    "confidence": 0.9175843000411987,
+    "probabilities": [
+      0.9175843000411987,
+      0.08241567760705948
+    ]
+  },
+  {
+    "path": "Dog/165.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 376,
+    "sha256": "46608c5c0fddbdceb8959bb7d54dc827810e5527a1f9adf748c13d2d965f06fd",
+    "cache_index": 15701,
+    "prediction": 0,
+    "confidence": 0.915804386138916,
+    "probabilities": [
+      0.915804386138916,
+      0.0841955617070198
+    ]
+  },
+  {
+    "path": "Dog/11035.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "06e1d653deb26e81e0b26e6a81a54e315fc0453804c7b53333de92f982001f94",
+    "cache_index": 13632,
+    "prediction": 0,
+    "confidence": 0.9130268692970276,
+    "probabilities": [
+      0.9130268692970276,
+      0.08697310090065002
+    ]
+  },
+  {
+    "path": "Dog/8657.jpg",
+    "label": 1,
+    "width": 440,
+    "height": 440,
+    "sha256": "0dd283c62f1be2052988709c38257118bf8dc2c7479dcb353d05f632556e2d62",
+    "cache_index": 23478,
+    "prediction": 0,
+    "confidence": 0.9095242619514465,
+    "probabilities": [
+      0.9095242619514465,
+      0.09047575294971466
+    ]
+  },
+  {
+    "path": "Dog/11360.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 469,
+    "sha256": "996f3cc87d032f08c9ce53eaa3ee4d94c1328209d1feb5f792080459af68c04f",
+    "cache_index": 13993,
+    "prediction": 0,
+    "confidence": 0.9094840288162231,
+    "probabilities": [
+      0.9094840288162231,
+      0.09051600098609924
+    ]
+  },
+  {
+    "path": "Dog/7327.jpg",
+    "label": 1,
+    "width": 281,
+    "height": 431,
+    "sha256": "540ca27726b2d92df4bd13547dd0696e96d69fea02e156208e5edb0768eaad19",
+    "cache_index": 22005,
+    "prediction": 0,
+    "confidence": 0.9093794226646423,
+    "probabilities": [
+      0.9093794226646423,
+      0.09062054008245468
+    ]
+  },
+  {
+    "path": "Dog/1649.jpg",
+    "label": 1,
+    "width": 498,
+    "height": 500,
+    "sha256": "f3740feaf30fab5dd688c7103cdb79cdb9f4e9f06806da1514c05e349dff5030",
+    "cache_index": 15700,
+    "prediction": 0,
+    "confidence": 0.9091044068336487,
+    "probabilities": [
+      0.9091044068336487,
+      0.0908956304192543
+    ]
+  },
+  {
+    "path": "Dog/11961.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 240,
+    "sha256": "2d7fc14dc823fdacfc4ea68bd73fbaf31b9871b30fefb7f58569adb0a56839af",
+    "cache_index": 14659,
+    "prediction": 0,
+    "confidence": 0.90809565782547,
+    "probabilities": [
+      0.90809565782547,
+      0.09190431237220764
+    ]
+  },
+  {
+    "path": "Dog/4340.jpg",
+    "label": 1,
+    "width": 242,
+    "height": 400,
+    "sha256": "ea8504c0aefdbd3e6e38c3ac0870009056d4adc654359164fd7298c9d318559a",
+    "cache_index": 18689,
+    "prediction": 0,
+    "confidence": 0.9075937867164612,
+    "probabilities": [
+      0.9075937867164612,
+      0.092406265437603
+    ]
+  },
+  {
+    "path": "Dog/7878.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "93bb09d148b8ef7f4f6cffb5f7518d215bdc597f37665661f90cf9f0f9725851",
+    "cache_index": 22615,
+    "prediction": 0,
+    "confidence": 0.9063833951950073,
+    "probabilities": [
+      0.9063833951950073,
+      0.09361661970615387
+    ]
+  },
+  {
+    "path": "Dog/7784.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "7b01be758930174f7622a97f14d08b5605e0399d04bc0fa024a76aa4eb59bbb1",
+    "cache_index": 22511,
+    "prediction": 0,
+    "confidence": 0.9062376618385315,
+    "probabilities": [
+      0.9062376618385315,
+      0.09376232326030731
+    ]
+  },
+  {
+    "path": "Dog/3935.jpg",
+    "label": 1,
+    "width": 414,
+    "height": 500,
+    "sha256": "be3c9a979ba2c611a7e59038f3b081edb40b8c70e2933f03f15d082c3acf4779",
+    "cache_index": 18238,
+    "prediction": 0,
+    "confidence": 0.9037439227104187,
+    "probabilities": [
+      0.9037439227104187,
+      0.09625612199306488
+    ]
+  },
+  {
+    "path": "Dog/10770.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 370,
+    "sha256": "92caa4ee0f87e9c43c181e0ace0fe005e1052baf36cf15ef00754fed9920a317",
+    "cache_index": 13338,
+    "prediction": 0,
+    "confidence": 0.9035568237304688,
+    "probabilities": [
+      0.9035568237304688,
+      0.09644313901662827
+    ]
+  },
+  {
+    "path": "Dog/2399.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 259,
+    "sha256": "137beb4232f066d7b8bb30727a6f38afcab2a3dcfef6a79af17c6ae98a621943",
+    "cache_index": 16533,
+    "prediction": 0,
+    "confidence": 0.902681291103363,
+    "probabilities": [
+      0.902681291103363,
+      0.09731874614953995
+    ]
+  },
+  {
+    "path": "Dog/1269.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 333,
+    "sha256": "99bf247dd70dcf61df3b5d1491a60aae2a36cad2fad9cd51a1d957989d1c9d0f",
+    "cache_index": 15278,
+    "prediction": 0,
+    "confidence": 0.902421772480011,
+    "probabilities": [
+      0.902421772480011,
+      0.09757815301418304
+    ]
+  },
+  {
+    "path": "Dog/3530.jpg",
+    "label": 1,
+    "width": 482,
+    "height": 500,
+    "sha256": "2837cc6bc0779f05b944f2e13e755bf40294d14d5e423844925efd451a4cd07a",
+    "cache_index": 17789,
+    "prediction": 0,
+    "confidence": 0.9011741876602173,
+    "probabilities": [
+      0.9011741876602173,
+      0.09882580488920212
+    ]
+  },
+  {
+    "path": "Cat/6145.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "5b00b6924d59463b3f79311a57cde80c18630a806c6c697b4772ed28b1767a9d",
+    "cache_index": 8208,
+    "prediction": 1,
+    "confidence": 0.9011043310165405,
+    "probabilities": [
+      0.09889571368694305,
+      0.9011043310165405
+    ]
+  },
+  {
+    "path": "Dog/2834.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "a8028e939c2fd93d2768f978ce087f6e08071e5585ebd2412e77327867d621d4",
+    "cache_index": 17017,
+    "prediction": 0,
+    "confidence": 0.9007577300071716,
+    "probabilities": [
+      0.9007577300071716,
+      0.09924224764108658
+    ]
+  },
+  {
+    "path": "Dog/7212.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 480,
+    "sha256": "7f3e8a1b86184c6c2ee6aca5bcee1bc3b342f1a4832eb7e3b470040ab539cbdf",
+    "cache_index": 21878,
+    "prediction": 0,
+    "confidence": 0.8991813659667969,
+    "probabilities": [
+      0.8991813659667969,
+      0.10081858187913895
+    ]
+  },
+  {
+    "path": "Dog/10257.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "b1602b4027c2e184dc1c4c2ce5cd62f326adaef2c55d42f0634873bc36535dd1",
+    "cache_index": 12769,
+    "prediction": 0,
+    "confidence": 0.8964956998825073,
+    "probabilities": [
+      0.8964956998825073,
+      0.10350430756807327
+    ]
+  },
+  {
+    "path": "Cat/5613.jpg",
+    "label": 0,
+    "width": 379,
+    "height": 466,
+    "sha256": "c296641c3f045c4ee89c77ac7a19983f74aa5c6395a08b0d0e857b5473bec0c2",
+    "cache_index": 7617,
+    "prediction": 1,
+    "confidence": 0.8964863419532776,
+    "probabilities": [
+      0.10351371765136719,
+      0.8964863419532776
+    ]
+  },
+  {
+    "path": "Dog/6733.jpg",
+    "label": 1,
+    "width": 85,
+    "height": 113,
+    "sha256": "e5fdbcac2fd824ca4afdd5ad5b2dd88d0f3244d58881355b56aba463d24fba6c",
+    "cache_index": 21345,
+    "prediction": 0,
+    "confidence": 0.8962001204490662,
+    "probabilities": [
+      0.8962001204490662,
+      0.10379989445209503
+    ]
+  },
+  {
+    "path": "Dog/5264.jpg",
+    "label": 1,
+    "width": 220,
+    "height": 331,
+    "sha256": "9ad5f5c9821ae1512776ba0be53f0c4e2ed2a8f406180040c7ad826ff3615178",
+    "cache_index": 19715,
+    "prediction": 0,
+    "confidence": 0.8953653573989868,
+    "probabilities": [
+      0.8953653573989868,
+      0.10463471710681915
+    ]
+  },
+  {
+    "path": "Dog/5791.jpg",
+    "label": 1,
+    "width": 185,
+    "height": 330,
+    "sha256": "42b517f3ad32f139b448f126d7594ab49c971dae1a6382e1b1620588d0d56b3f",
+    "cache_index": 20300,
+    "prediction": 0,
+    "confidence": 0.8953409790992737,
+    "probabilities": [
+      0.8953409790992737,
+      0.10465904325246811
+    ]
+  },
+  {
+    "path": "Dog/3943.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "63533d4783a5b3b31f810809b6978fb4972808e039e3551d5709161d8f0e61c9",
+    "cache_index": 18247,
+    "prediction": 0,
+    "confidence": 0.8953268527984619,
+    "probabilities": [
+      0.8953268527984619,
+      0.10467315465211868
+    ]
+  },
+  {
+    "path": "Dog/3001.jpg",
+    "label": 1,
+    "width": 360,
+    "height": 270,
+    "sha256": "83c858b209cfbf903944e270afec936a7896dfcdd1d4fe08e16b8ac8a210074f",
+    "cache_index": 17203,
+    "prediction": 0,
+    "confidence": 0.893406093120575,
+    "probabilities": [
+      0.893406093120575,
+      0.10659385472536087
+    ]
+  },
+  {
+    "path": "Dog/562.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 390,
+    "sha256": "6c2c821cdc012199e562d77d5159b7bda5af723df07d6204461dfb1a9992b377",
+    "cache_index": 20110,
+    "prediction": 0,
+    "confidence": 0.8930282592773438,
+    "probabilities": [
+      0.8930282592773438,
+      0.10697172582149506
+    ]
+  },
+  {
+    "path": "Cat/10908.jpg",
+    "label": 0,
+    "width": 450,
+    "height": 400,
+    "sha256": "58d817325d111f0c033d0369d0e95bcb6995330939766499bb0aa8167ade3cd6",
+    "cache_index": 1012,
+    "prediction": 1,
+    "confidence": 0.8914066553115845,
+    "probabilities": [
+      0.1085934042930603,
+      0.8914066553115845
+    ]
+  },
+  {
+    "path": "Dog/2067.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "ccdc75431fe668131ff8ee753dfc9a6af953f186ba68ac425358724e63882d81",
+    "cache_index": 16165,
+    "prediction": 0,
+    "confidence": 0.8909367918968201,
+    "probabilities": [
+      0.8909367918968201,
+      0.10906323045492172
+    ]
+  },
+  {
+    "path": "Cat/3567.jpg",
+    "label": 0,
+    "width": 90,
+    "height": 200,
+    "sha256": "6eb6fa8452c374607671c2c57d4c3d77dfe2b56c74f7ef1c3f2a14dfb523601c",
+    "cache_index": 5348,
+    "prediction": 1,
+    "confidence": 0.8891658782958984,
+    "probabilities": [
+      0.11083414405584335,
+      0.8891658782958984
+    ]
+  },
+  {
+    "path": "Dog/276.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "d9a3c0f4cc2a37af46a66b3c9f5b07aecc62baa955c0f8a6e8e1339591fd25fe",
+    "cache_index": 16934,
+    "prediction": 0,
+    "confidence": 0.888654887676239,
+    "probabilities": [
+      0.888654887676239,
+      0.1113450825214386
+    ]
+  },
+  {
+    "path": "Dog/1519.jpg",
+    "label": 1,
+    "width": 480,
+    "height": 360,
+    "sha256": "e686c77c9c941af1374b6b0190cf6b264c51425384283a2198c0052dceb28fd4",
+    "cache_index": 15556,
+    "prediction": 0,
+    "confidence": 0.8877604007720947,
+    "probabilities": [
+      0.8877604007720947,
+      0.11223957687616348
+    ]
+  },
+  {
+    "path": "Dog/8089.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 332,
+    "sha256": "e5e6e4687264699ebed83daaac88e4575abb22b5b476cdb01a2c7ce808581d67",
+    "cache_index": 22848,
+    "prediction": 0,
+    "confidence": 0.8873682618141174,
+    "probabilities": [
+      0.8873682618141174,
+      0.11263173073530197
+    ]
+  },
+  {
+    "path": "Dog/6198.jpg",
+    "label": 1,
+    "width": 326,
+    "height": 270,
+    "sha256": "f2c7c0e2fc056abf983cfd6ff75de33e0c13a2790aab9780a97a61261dfdf7ba",
+    "cache_index": 20751,
+    "prediction": 0,
+    "confidence": 0.8871694803237915,
+    "probabilities": [
+      0.8871694803237915,
+      0.11283056437969208
+    ]
+  },
+  {
+    "path": "Cat/5665.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 497,
+    "sha256": "d0919dccdf953362b760d0722d52cf6d1ee00c089474caccc8f3c1008c899af1",
+    "cache_index": 7674,
+    "prediction": 1,
+    "confidence": 0.8865023255348206,
+    "probabilities": [
+      0.11349766701459885,
+      0.8865023255348206
+    ]
+  },
+  {
+    "path": "Dog/9889.jpg",
+    "label": 1,
+    "width": 135,
+    "height": 180,
+    "sha256": "10b34dd2a82f1ddeb8bb5758c28767214c9a8446d5d6ad8f56008a2d3ca0181b",
+    "cache_index": 24844,
+    "prediction": 0,
+    "confidence": 0.8864502310752869,
+    "probabilities": [
+      0.8864502310752869,
+      0.11354970932006836
+    ]
+  },
+  {
+    "path": "Dog/9015.jpg",
+    "label": 1,
+    "width": 275,
+    "height": 238,
+    "sha256": "3a77dbb5259060eaafd6abe04e9c50ff384926136135d7f25bbaad723227ed0a",
+    "cache_index": 23876,
+    "prediction": 0,
+    "confidence": 0.8862583637237549,
+    "probabilities": [
+      0.8862583637237549,
+      0.11374165117740631
+    ]
+  },
+  {
+    "path": "Dog/4819.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 299,
+    "sha256": "1e8c1ea34132146a2fa65eeebfa2a02da5aa9b4ea7934a69f9486e58f42d0dc5",
+    "cache_index": 19220,
+    "prediction": 0,
+    "confidence": 0.886041522026062,
+    "probabilities": [
+      0.886041522026062,
+      0.11395849287509918
+    ]
+  },
+  {
+    "path": "Dog/3990.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "8d30d9c481d2a5fad8a4739439d3579134cbf86f65259375a188b8ecb8ca3399",
+    "cache_index": 18299,
+    "prediction": 0,
+    "confidence": 0.8858723640441895,
+    "probabilities": [
+      0.8858723640441895,
+      0.11412767320871353
+    ]
+  },
+  {
+    "path": "Dog/8906.jpg",
+    "label": 1,
+    "width": 404,
+    "height": 465,
+    "sha256": "4f8a6afa6b74764b49abbb421c56395d634e867edec6c8024f14b326d590a3b7",
+    "cache_index": 23754,
+    "prediction": 0,
+    "confidence": 0.8829639554023743,
+    "probabilities": [
+      0.8829639554023743,
+      0.11703607439994812
+    ]
+  },
+  {
+    "path": "Dog/7343.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 262,
+    "sha256": "8b8d1adf7f4d2a617db432c3af006580c6c50c3f86f4c5b06442aeafed80dc8f",
+    "cache_index": 22023,
+    "prediction": 0,
+    "confidence": 0.8825094699859619,
+    "probabilities": [
+      0.8825094699859619,
+      0.11749055981636047
+    ]
+  },
+  {
+    "path": "Dog/2354.jpg",
+    "label": 1,
+    "width": 293,
+    "height": 500,
+    "sha256": "92e98a6c1648d2657d1641b6c309269da643d79c568d187bade2cde1a5f70d59",
+    "cache_index": 16484,
+    "prediction": 0,
+    "confidence": 0.8812459111213684,
+    "probabilities": [
+      0.8812459111213684,
+      0.118754081428051
+    ]
+  },
+  {
+    "path": "Cat/8114.jpg",
+    "label": 0,
+    "width": 476,
+    "height": 500,
+    "sha256": "271e1ca6376d2379e7ece88e72f65f833996db88d6fce4a546e185731273768f",
+    "cache_index": 10392,
+    "prediction": 1,
+    "confidence": 0.8806275725364685,
+    "probabilities": [
+      0.11937247216701508,
+      0.8806275725364685
+    ]
+  },
+  {
+    "path": "Cat/9891.jpg",
+    "label": 0,
+    "width": 350,
+    "height": 479,
+    "sha256": "5004021ab2adb6d57a8274e9682b0d478f79375920141fd44e36b8d0389800ca",
+    "cache_index": 12361,
+    "prediction": 1,
+    "confidence": 0.8806262612342834,
+    "probabilities": [
+      0.11937377601861954,
+      0.8806262612342834
+    ]
+  },
+  {
+    "path": "Dog/12391.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 431,
+    "sha256": "2e8e9e8d893d8a8b09c0a2462c8810d8fe55880b20577f4c855ba8ecd09ce304",
+    "cache_index": 15137,
+    "prediction": 0,
+    "confidence": 0.8804463148117065,
+    "probabilities": [
+      0.8804463148117065,
+      0.11955372244119644
+    ]
+  },
+  {
+    "path": "Cat/11515.jpg",
+    "label": 0,
+    "width": 418,
+    "height": 233,
+    "sha256": "62663f7472f477b4264f59866dd6b57f658dc6a3b2b9f54634836adcc88c2792",
+    "cache_index": 1687,
+    "prediction": 1,
+    "confidence": 0.8798835277557373,
+    "probabilities": [
+      0.12011649459600449,
+      0.8798835277557373
+    ]
+  },
+  {
+    "path": "Cat/8449.jpg",
+    "label": 0,
+    "width": 300,
+    "height": 200,
+    "sha256": "c3851a34a58e49661a3151cd93153d4cd614aea358fce05e98181bf1d2f071c3",
+    "cache_index": 10762,
+    "prediction": 1,
+    "confidence": 0.877964437007904,
+    "probabilities": [
+      0.12203551828861237,
+      0.877964437007904
+    ]
+  },
+  {
+    "path": "Dog/9833.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 278,
+    "sha256": "38224e25eb953d06bf6b93151589bcc370eef3c2f3700002d977b5c80e0388a6",
+    "cache_index": 24783,
+    "prediction": 0,
+    "confidence": 0.8769726157188416,
+    "probabilities": [
+      0.8769726157188416,
+      0.12302736937999725
+    ]
+  },
+  {
+    "path": "Dog/7629.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 463,
+    "sha256": "adef43ac9e552d77f4c3460a8567997de4343d8d8cf039fa6783c01ed2bd01fa",
+    "cache_index": 22339,
+    "prediction": 0,
+    "confidence": 0.8764283657073975,
+    "probabilities": [
+      0.8764283657073975,
+      0.12357162684202194
+    ]
+  },
+  {
+    "path": "Dog/10097.jpg",
+    "label": 1,
+    "width": 448,
+    "height": 336,
+    "sha256": "6e04db8f47f40e96063b51a68a5ddd3b8d052be7667200a9962bdd7899ef6995",
+    "cache_index": 12591,
+    "prediction": 0,
+    "confidence": 0.8755911588668823,
+    "probabilities": [
+      0.8755911588668823,
+      0.12440887838602066
+    ]
+  },
+  {
+    "path": "Dog/3719.jpg",
+    "label": 1,
+    "width": 232,
+    "height": 174,
+    "sha256": "78916a5c413a74e372886ad01c384297f1f526e9458906db1ef2960c41418f15",
+    "cache_index": 17998,
+    "prediction": 0,
+    "confidence": 0.8744331002235413,
+    "probabilities": [
+      0.8744331002235413,
+      0.12556694447994232
+    ]
+  },
+  {
+    "path": "Dog/7769.jpg",
+    "label": 1,
+    "width": 442,
+    "height": 500,
+    "sha256": "0fa67bb1c8dfc945605f202750f06e5e779e4ab386cde8ffdf7f69f4e5681195",
+    "cache_index": 22494,
+    "prediction": 0,
+    "confidence": 0.8741021752357483,
+    "probabilities": [
+      0.8741021752357483,
+      0.1258978694677353
+    ]
+  },
+  {
+    "path": "Cat/6277.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 491,
+    "sha256": "80efdc63b025efe719f8be3d20e85e877edb5357fcd95ff2f57ba1d4b05636af",
+    "cache_index": 8353,
+    "prediction": 1,
+    "confidence": 0.8738523125648499,
+    "probabilities": [
+      0.12614771723747253,
+      0.8738523125648499
+    ]
+  },
+  {
+    "path": "Dog/5592.jpg",
+    "label": 1,
+    "width": 160,
+    "height": 120,
+    "sha256": "1c795461c4aa6e121b469a50c92b329e96fc3b418980113adccdd1e1ce3b1252",
+    "cache_index": 20079,
+    "prediction": 0,
+    "confidence": 0.8724589347839355,
+    "probabilities": [
+      0.8724589347839355,
+      0.12754108011722565
+    ]
+  },
+  {
+    "path": "Cat/7784.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "d03d611ee33494a0f269752b39655ccd47f7b3775566c3dc4ef2f4910276aa33",
+    "cache_index": 10025,
+    "prediction": 1,
+    "confidence": 0.872195303440094,
+    "probabilities": [
+      0.1278047114610672,
+      0.872195303440094
+    ]
+  },
+  {
+    "path": "Dog/2965.jpg",
+    "label": 1,
+    "width": 58,
+    "height": 50,
+    "sha256": "31019447f90511ab7b82b9e85ce1f9cfb0f6e30edd685b62bb5052d177005be0",
+    "cache_index": 17161,
+    "prediction": 0,
+    "confidence": 0.8711820244789124,
+    "probabilities": [
+      0.8711820244789124,
+      0.12881800532341003
+    ]
+  },
+  {
+    "path": "Cat/5300.jpg",
+    "label": 0,
+    "width": 250,
+    "height": 357,
+    "sha256": "6e5315c62de788c4fad253ef78c525b1efd28ba4dc339f0aebe31e0a51d6fa76",
+    "cache_index": 7270,
+    "prediction": 1,
+    "confidence": 0.8701446056365967,
+    "probabilities": [
+      0.12985539436340332,
+      0.8701446056365967
+    ]
+  },
+  {
+    "path": "Dog/8868.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 453,
+    "sha256": "fe93bb231229ff6cefacd73c162d46c5d442a99a863f0ccf02fcd4f617df1b5f",
+    "cache_index": 23711,
+    "prediction": 0,
+    "confidence": 0.8699809908866882,
+    "probabilities": [
+      0.8699809908866882,
+      0.13001906871795654
+    ]
+  },
+  {
+    "path": "Dog/233.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 300,
+    "sha256": "aa11fcea26b01503db66e754b6d3c1e18cc92d850f21ff74c8b7f9371093aff5",
+    "cache_index": 16457,
+    "prediction": 0,
+    "confidence": 0.8692817687988281,
+    "probabilities": [
+      0.8692817687988281,
+      0.13071829080581665
+    ]
+  },
+  {
+    "path": "Dog/8766.jpg",
+    "label": 1,
+    "width": 310,
+    "height": 206,
+    "sha256": "782e5549b26920f7e479d372c5a691ea310bcbffcc40282616fedad0f7d30ee9",
+    "cache_index": 23598,
+    "prediction": 0,
+    "confidence": 0.8681056499481201,
+    "probabilities": [
+      0.8681056499481201,
+      0.13189435005187988
+    ]
+  },
+  {
+    "path": "Dog/3820.jpg",
+    "label": 1,
+    "width": 392,
+    "height": 500,
+    "sha256": "1028fc186f316d97760635d171033c970490ce387a5a34ccddbccd0778c7e0ca",
+    "cache_index": 18111,
+    "prediction": 0,
+    "confidence": 0.8674736618995667,
+    "probabilities": [
+      0.8674736618995667,
+      0.13252638280391693
+    ]
+  },
+  {
+    "path": "Dog/4310.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "10daeb3f764650deed7c3de29eb1fc18627526c5827b152d3416405eab85b12e",
+    "cache_index": 18656,
+    "prediction": 0,
+    "confidence": 0.8672480583190918,
+    "probabilities": [
+      0.8672480583190918,
+      0.132751926779747
+    ]
+  },
+  {
+    "path": "Dog/5856.jpg",
+    "label": 1,
+    "width": 264,
+    "height": 298,
+    "sha256": "150a9eb87a5bdbf90f46478236f2bdcf494fa3122adecdbd4a95601c0d6d0de8",
+    "cache_index": 20372,
+    "prediction": 0,
+    "confidence": 0.8671037554740906,
+    "probabilities": [
+      0.8671037554740906,
+      0.132896289229393
+    ]
+  },
+  {
+    "path": "Dog/9123.jpg",
+    "label": 1,
+    "width": 419,
+    "height": 322,
+    "sha256": "2d8cccf000e4ceb78015049a0aac8ffde6fd40124c12f7a56e01e4d038d47849",
+    "cache_index": 23996,
+    "prediction": 0,
+    "confidence": 0.8662356734275818,
+    "probabilities": [
+      0.8662356734275818,
+      0.13376429677009583
+    ]
+  },
+  {
+    "path": "Dog/8334.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "92e33da5aa7166a9e8d536fa652183da2f6617e15a7eb6ea09056afa3a6e6716",
+    "cache_index": 23121,
+    "prediction": 0,
+    "confidence": 0.8645340800285339,
+    "probabilities": [
+      0.8645340800285339,
+      0.13546593487262726
+    ]
+  },
+  {
+    "path": "Dog/2340.jpg",
+    "label": 1,
+    "width": 421,
+    "height": 351,
+    "sha256": "145938fd0098d2771963e2d87a07f591b4d6195e39f00e670017c38033be2132",
+    "cache_index": 16469,
+    "prediction": 0,
+    "confidence": 0.863483190536499,
+    "probabilities": [
+      0.863483190536499,
+      0.1365167647600174
+    ]
+  },
+  {
+    "path": "Dog/7516.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 260,
+    "sha256": "b8366514d1ff818f1233fc06d2f1186fc32b17d46219a5f6d92532e949b3ec8f",
+    "cache_index": 22214,
+    "prediction": 0,
+    "confidence": 0.8631717562675476,
+    "probabilities": [
+      0.8631717562675476,
+      0.13682821393013
+    ]
+  },
+  {
+    "path": "Dog/3521.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "5db7e6db380693d79305c9a460bd143676f46eb0ecae29e6689dbf2a5f9620ec",
+    "cache_index": 17779,
+    "prediction": 0,
+    "confidence": 0.8617976307868958,
+    "probabilities": [
+      0.8617976307868958,
+      0.13820241391658783
+    ]
+  },
+  {
+    "path": "Dog/1667.jpg",
+    "label": 1,
+    "width": 491,
+    "height": 500,
+    "sha256": "0e033ebe46df60329e387c7d1c84eb59e17bc5ecba9d279d3989c600ee5dfbfe",
+    "cache_index": 15720,
+    "prediction": 0,
+    "confidence": 0.8606413006782532,
+    "probabilities": [
+      0.8606413006782532,
+      0.13935868442058563
+    ]
+  },
+  {
+    "path": "Dog/8696.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "f330cb4fe64bc20981ed39e3de11d20656d034eb9083116f049bbdc64215a91f",
+    "cache_index": 23521,
+    "prediction": 0,
+    "confidence": 0.8587843179702759,
+    "probabilities": [
+      0.8587843179702759,
+      0.14121562242507935
+    ]
+  },
+  {
+    "path": "Dog/4186.jpg",
+    "label": 1,
+    "width": 181,
+    "height": 351,
+    "sha256": "c41adf9b217cc9731b3b13fa5d2016f068e45d2533061389adcf73553a7bbf55",
+    "cache_index": 18517,
+    "prediction": 0,
+    "confidence": 0.8586394786834717,
+    "probabilities": [
+      0.8586394786834717,
+      0.14136052131652832
+    ]
+  },
+  {
+    "path": "Dog/7816.jpg",
+    "label": 1,
+    "width": 325,
+    "height": 214,
+    "sha256": "18273b09109e1dc56c24ad76b0911c31b27d5254f1e21851d3888582b9ec1193",
+    "cache_index": 22547,
+    "prediction": 0,
+    "confidence": 0.8585659265518188,
+    "probabilities": [
+      0.8585659265518188,
+      0.14143408834934235
+    ]
+  },
+  {
+    "path": "Dog/7839.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 345,
+    "sha256": "3a174b8432de53e2dfb2f3c29e897e5a7fab2f30cd96019de9873163adf4cc06",
+    "cache_index": 22572,
+    "prediction": 0,
+    "confidence": 0.8552525639533997,
+    "probabilities": [
+      0.8552525639533997,
+      0.14474745094776154
+    ]
+  },
+  {
+    "path": "Dog/4248.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 333,
+    "sha256": "56ee9666f37dd1acdc352e9d27eb55f6f0446e4c32ae2d45e2870da48022253b",
+    "cache_index": 18586,
+    "prediction": 0,
+    "confidence": 0.8526964783668518,
+    "probabilities": [
+      0.8526964783668518,
+      0.1473034769296646
+    ]
+  },
+  {
+    "path": "Dog/5913.jpg",
+    "label": 1,
+    "width": 441,
+    "height": 330,
+    "sha256": "83643e05ec09a0c5cc5bcf0d5b7e7b3cc96fa8ebfcb7b5635d7c99b7066f7bf0",
+    "cache_index": 20436,
+    "prediction": 0,
+    "confidence": 0.8517901301383972,
+    "probabilities": [
+      0.8517901301383972,
+      0.14820992946624756
+    ]
+  },
+  {
+    "path": "Dog/657.jpg",
+    "label": 1,
+    "width": 441,
+    "height": 500,
+    "sha256": "9987caa9c1c3fe8c6a832848423704e82d20fa54ae47c83b26e10b434e3fbd31",
+    "cache_index": 21164,
+    "prediction": 0,
+    "confidence": 0.8513755202293396,
+    "probabilities": [
+      0.8513755202293396,
+      0.148624449968338
+    ]
+  },
+  {
+    "path": "Dog/254.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 248,
+    "sha256": "29b576ea5421cc23aba64a894f676211f54dc6065b7627c83403ace7f90efa66",
+    "cache_index": 16690,
+    "prediction": 0,
+    "confidence": 0.8498206734657288,
+    "probabilities": [
+      0.8498206734657288,
+      0.15017932653427124
+    ]
+  },
+  {
+    "path": "Dog/12004.jpg",
+    "label": 1,
+    "width": 479,
+    "height": 306,
+    "sha256": "00da4811cc0029706c4de80458d338bd3419f21e651eee633c816ca9a5772f26",
+    "cache_index": 14708,
+    "prediction": 0,
+    "confidence": 0.8493363261222839,
+    "probabilities": [
+      0.8493363261222839,
+      0.1506635993719101
+    ]
+  },
+  {
+    "path": "Dog/1126.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 460,
+    "sha256": "45f6be240a3cfcc3571c254f9329a612fd78f2d628fe53dfc8e8a7b3bf72dfc0",
+    "cache_index": 13881,
+    "prediction": 0,
+    "confidence": 0.8493177890777588,
+    "probabilities": [
+      0.8493177890777588,
+      0.15068219602108002
+    ]
+  },
+  {
+    "path": "Dog/7746.jpg",
+    "label": 1,
+    "width": 200,
+    "height": 111,
+    "sha256": "04f40bedacbb92bc6b81a38fa6d2561965615343be8be841491d4d18ad5a10c5",
+    "cache_index": 22469,
+    "prediction": 0,
+    "confidence": 0.8491650819778442,
+    "probabilities": [
+      0.8491650819778442,
+      0.15083488821983337
+    ]
+  },
+  {
+    "path": "Dog/11663.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "9164007560a430019ead2fca4a4852c679877c8543049fa6ca2b3d8c52851d72",
+    "cache_index": 14329,
+    "prediction": 0,
+    "confidence": 0.8489957451820374,
+    "probabilities": [
+      0.8489957451820374,
+      0.15100428462028503
+    ]
+  },
+  {
+    "path": "Dog/655.jpg",
+    "label": 1,
+    "width": 363,
+    "height": 280,
+    "sha256": "f84c9374627274a8b3db6eb8db521367b482f26f953ef131f694e548d5f2b7b6",
+    "cache_index": 21142,
+    "prediction": 0,
+    "confidence": 0.8462511897087097,
+    "probabilities": [
+      0.8462511897087097,
+      0.1537487804889679
+    ]
+  },
+  {
+    "path": "Dog/10847.jpg",
+    "label": 1,
+    "width": 267,
+    "height": 200,
+    "sha256": "210a90807ec389ba2525e0d2f3eeedb700486604e3e84030b9c036648e349b56",
+    "cache_index": 13422,
+    "prediction": 0,
+    "confidence": 0.8455379009246826,
+    "probabilities": [
+      0.8455379009246826,
+      0.15446211397647858
+    ]
+  },
+  {
+    "path": "Dog/10680.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "f60453e8ca51e312209f6e2d5c2cd94d168049cbd76b9acfc0122a54d71b362a",
+    "cache_index": 13238,
+    "prediction": 0,
+    "confidence": 0.8442287445068359,
+    "probabilities": [
+      0.8442287445068359,
+      0.15577121078968048
+    ]
+  },
+  {
+    "path": "Dog/389.jpg",
+    "label": 1,
+    "width": 300,
+    "height": 371,
+    "sha256": "4e27ae26d8261523b06b1fd2a65c59c6728462173abdd14a58497a911ab172c7",
+    "cache_index": 18187,
+    "prediction": 0,
+    "confidence": 0.842976987361908,
+    "probabilities": [
+      0.842976987361908,
+      0.15702305734157562
+    ]
+  },
+  {
+    "path": "Dog/7963.jpg",
+    "label": 1,
+    "width": 153,
+    "height": 180,
+    "sha256": "5f68e36067a825585b0b8c9813137ef1b25bd80eea096420f45d9cea4a0e078f",
+    "cache_index": 22710,
+    "prediction": 0,
+    "confidence": 0.8426274061203003,
+    "probabilities": [
+      0.8426274061203003,
+      0.15737254917621613
+    ]
+  },
+  {
+    "path": "Dog/147.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "7ed1c378733f0fd86a399be01c6caf6dd8b60ce9ba8f06a4cbc4dee3e7ca40e9",
+    "cache_index": 15501,
+    "prediction": 0,
+    "confidence": 0.8412166237831116,
+    "probabilities": [
+      0.8412166237831116,
+      0.15878336131572723
+    ]
+  },
+  {
+    "path": "Dog/11480.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 458,
+    "sha256": "b9e8416a2dffe9e358298a7604b8b94199ee3d707e754093930dea777236800c",
+    "cache_index": 14126,
+    "prediction": 0,
+    "confidence": 0.8410735130310059,
+    "probabilities": [
+      0.8410735130310059,
+      0.15892648696899414
+    ]
+  },
+  {
+    "path": "Dog/768.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "c99ae85a07b4dcb2bcc826cfb2db7cb8276b4e76f12669b5e7d99af895321d16",
+    "cache_index": 22395,
+    "prediction": 0,
+    "confidence": 0.8410037755966187,
+    "probabilities": [
+      0.8410037755966187,
+      0.15899622440338135
+    ]
+  },
+  {
+    "path": "Dog/2555.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 435,
+    "sha256": "4b9aae8879349f1ac36ced96ad822cc380fc3d1a077bb7afe04404866708d920",
+    "cache_index": 16707,
+    "prediction": 0,
+    "confidence": 0.8407894968986511,
+    "probabilities": [
+      0.8407894968986511,
+      0.15921051800251007
+    ]
+  },
+  {
+    "path": "Cat/12242.jpg",
+    "label": 0,
+    "width": 333,
+    "height": 500,
+    "sha256": "5cd8f5d847a3ed3157dfef9de60eb842ce40ed26fab86b5f7570956ab1921dea",
+    "cache_index": 2493,
+    "prediction": 1,
+    "confidence": 0.8381520509719849,
+    "probabilities": [
+      0.16184791922569275,
+      0.8381520509719849
+    ]
+  },
+  {
+    "path": "Dog/11064.jpg",
+    "label": 1,
+    "width": 431,
+    "height": 270,
+    "sha256": "5b95be9e3c2522d2ae587dd3f3d574b4630a39e8a60e1cd1ccbc4a72a83cb4d9",
+    "cache_index": 13664,
+    "prediction": 0,
+    "confidence": 0.837712287902832,
+    "probabilities": [
+      0.837712287902832,
+      0.16228769719600677
+    ]
+  },
+  {
+    "path": "Dog/6951.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "f31d19d4686c5b09180cba6929786580a5bdc3b806f3cc1dae69bd9774a79e63",
+    "cache_index": 21587,
+    "prediction": 0,
+    "confidence": 0.8370853662490845,
+    "probabilities": [
+      0.8370853662490845,
+      0.1629147082567215
+    ]
+  },
+  {
+    "path": "Dog/5914.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 291,
+    "sha256": "18c19837acc00be4ea96faa5b65e4a4e8be678dcba3caa7f5f12ec0e04b9256f",
+    "cache_index": 20437,
+    "prediction": 0,
+    "confidence": 0.8367869853973389,
+    "probabilities": [
+      0.8367869853973389,
+      0.16321304440498352
+    ]
+  },
+  {
+    "path": "Dog/2670.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "e5efd65fca262a3dd0a66781ab0e9ea514410c6e209a7631a6eb49d859175631",
+    "cache_index": 16835,
+    "prediction": 0,
+    "confidence": 0.8366918563842773,
+    "probabilities": [
+      0.8366918563842773,
+      0.16330811381340027
+    ]
+  },
+  {
+    "path": "Dog/2923.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 456,
+    "sha256": "4565aeb72ac3da3ce002cb0e237b6f10905feccee26b46a4f5de742c852ca813",
+    "cache_index": 17115,
+    "prediction": 0,
+    "confidence": 0.8342946767807007,
+    "probabilities": [
+      0.8342946767807007,
+      0.16570529341697693
+    ]
+  },
+  {
+    "path": "Cat/7605.jpg",
+    "label": 0,
+    "width": 266,
+    "height": 333,
+    "sha256": "796ba3779a536003b3c99db9f15a8c4bbc1d9f0bfcd1dba160425e2be2470923",
+    "cache_index": 9827,
+    "prediction": 1,
+    "confidence": 0.8335545659065247,
+    "probabilities": [
+      0.16644547879695892,
+      0.8335545659065247
+    ]
+  },
+  {
+    "path": "Cat/1250.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "2653b66df7b0154f59f4a1c90ff2e8eab39ec8e1b27dbc43481cc2ff7bc4db31",
+    "cache_index": 2779,
+    "prediction": 1,
+    "confidence": 0.8324707746505737,
+    "probabilities": [
+      0.16752922534942627,
+      0.8324707746505737
+    ]
+  },
+  {
+    "path": "Dog/6812.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "7a1a35a25ab0d3755ab1cf0902bfb3c0031856582ac694111d873f7fe0258f21",
+    "cache_index": 21433,
+    "prediction": 0,
+    "confidence": 0.8324218392372131,
+    "probabilities": [
+      0.8324218392372131,
+      0.16757820546627045
+    ]
+  },
+  {
+    "path": "Dog/1430.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "9dc6e33a224312461def8f1f748ab5b17847bc4b8ce7d90803ae52b7fc20e3e7",
+    "cache_index": 15458,
+    "prediction": 0,
+    "confidence": 0.8313664197921753,
+    "probabilities": [
+      0.8313664197921753,
+      0.16863353550434113
+    ]
+  },
+  {
+    "path": "Dog/9122.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "93a1a8fd214fcd1d5915f49687e017cb5ef6999d8787cd53861ddb54991351a4",
+    "cache_index": 23995,
+    "prediction": 0,
+    "confidence": 0.8292651772499084,
+    "probabilities": [
+      0.8292651772499084,
+      0.17073482275009155
+    ]
+  },
+  {
+    "path": "Dog/118.jpg",
+    "label": 1,
+    "width": 298,
+    "height": 398,
+    "sha256": "a631aff53cdfb798744c53e4438cb34f6769793a976037a02f1ca013203f58cb",
+    "cache_index": 14479,
+    "prediction": 0,
+    "confidence": 0.8286192417144775,
+    "probabilities": [
+      0.8286192417144775,
+      0.17138078808784485
+    ]
+  },
+  {
+    "path": "Dog/10864.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 250,
+    "sha256": "625cd6fd858e186e69b78a7daa58072db284bc533b4532109e89bac029902c26",
+    "cache_index": 13441,
+    "prediction": 0,
+    "confidence": 0.8282020688056946,
+    "probabilities": [
+      0.8282020688056946,
+      0.17179793119430542
+    ]
+  },
+  {
+    "path": "Dog/1646.jpg",
+    "label": 1,
+    "width": 360,
+    "height": 240,
+    "sha256": "cb1a3f4f28c48aa7c862059e3407a28d878b5956a61e057521d0c0f2ab6bc460",
+    "cache_index": 15697,
+    "prediction": 0,
+    "confidence": 0.8279646039009094,
+    "probabilities": [
+      0.8279646039009094,
+      0.17203541100025177
+    ]
+  },
+  {
+    "path": "Dog/11391.jpg",
+    "label": 1,
+    "width": 240,
+    "height": 320,
+    "sha256": "c6332653a1df37dfe98d343b76b25eee579465ab60479061625fc77db9567ea4",
+    "cache_index": 14027,
+    "prediction": 0,
+    "confidence": 0.8259511590003967,
+    "probabilities": [
+      0.8259511590003967,
+      0.1740487962961197
+    ]
+  },
+  {
+    "path": "Dog/7713.jpg",
+    "label": 1,
+    "width": 250,
+    "height": 187,
+    "sha256": "99addccb60481b8fe5cd84b47397438f893c025e865baeef276c275b7c4dad9c",
+    "cache_index": 22433,
+    "prediction": 0,
+    "confidence": 0.8253376483917236,
+    "probabilities": [
+      0.8253376483917236,
+      0.17466239631175995
+    ]
+  },
+  {
+    "path": "Dog/11293.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 269,
+    "sha256": "e6975663e00912da5a4adfd4d9bc28b247c21ab44ed0c2648a17d7db3f2ee078",
+    "cache_index": 13918,
+    "prediction": 0,
+    "confidence": 0.8231103420257568,
+    "probabilities": [
+      0.8231103420257568,
+      0.17688965797424316
+    ]
+  },
+  {
+    "path": "Cat/7531.jpg",
+    "label": 0,
+    "width": 401,
+    "height": 488,
+    "sha256": "931f6d63a7208bf671e4608e3373342e9aae5feba8cb26c83dbe15f1751c73d9",
+    "cache_index": 9746,
+    "prediction": 1,
+    "confidence": 0.8206337094306946,
+    "probabilities": [
+      0.17936629056930542,
+      0.8206337094306946
+    ]
+  },
+  {
+    "path": "Cat/8931.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 407,
+    "sha256": "b723a1cd4cd18098346f65b084e7cbd7462b5092befc91ff5df0dbaccadca81b",
+    "cache_index": 11297,
+    "prediction": 1,
+    "confidence": 0.8205269575119019,
+    "probabilities": [
+      0.17947308719158173,
+      0.8205269575119019
+    ]
+  },
+  {
+    "path": "Dog/5449.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 443,
+    "sha256": "45c25dd8fa21aeaed17d491794c8da3c8cb6be378eaa7986b229e2d1870aa313",
+    "cache_index": 19920,
+    "prediction": 0,
+    "confidence": 0.8200259804725647,
+    "probabilities": [
+      0.8200259804725647,
+      0.1799740046262741
+    ]
+  },
+  {
+    "path": "Dog/9406.jpg",
+    "label": 1,
+    "width": 200,
+    "height": 200,
+    "sha256": "5907c0c7113da471881cd1e8201a939218678fd6dd08fb0124105597a25792cb",
+    "cache_index": 24310,
+    "prediction": 0,
+    "confidence": 0.8196674585342407,
+    "probabilities": [
+      0.8196674585342407,
+      0.18033255636692047
+    ]
+  },
+  {
+    "path": "Dog/5494.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 300,
+    "sha256": "a761ee27b0ee1f7e24f36c5ad89a60b5a2c24e122f9c5d30cdd12f7ca5131f28",
+    "cache_index": 19970,
+    "prediction": 0,
+    "confidence": 0.8178486227989197,
+    "probabilities": [
+      0.8178486227989197,
+      0.18215139210224152
+    ]
+  },
+  {
+    "path": "Cat/4863.jpg",
+    "label": 0,
+    "width": 365,
+    "height": 335,
+    "sha256": "7dc165d7350c4d8ff4fb43e9ba7f632d9c2620f23b466713cdf7e6991a72c099",
+    "cache_index": 6783,
+    "prediction": 1,
+    "confidence": 0.8156384229660034,
+    "probabilities": [
+      0.18436159193515778,
+      0.8156384229660034
+    ]
+  },
+  {
+    "path": "Cat/10167.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "9105703a71e32d3ca51cb188008148acb0d18507a233598f03011f585d515f1f",
+    "cache_index": 189,
+    "prediction": 1,
+    "confidence": 0.8148182034492493,
+    "probabilities": [
+      0.18518179655075073,
+      0.8148182034492493
+    ]
+  },
+  {
+    "path": "Dog/640.jpg",
+    "label": 1,
+    "width": 480,
+    "height": 389,
+    "sha256": "12defdf57a66ada0470c556b16ca46af0f4413588c4ec5c3a83001983f9969d8",
+    "cache_index": 20976,
+    "prediction": 0,
+    "confidence": 0.8136606812477112,
+    "probabilities": [
+      0.8136606812477112,
+      0.18633928894996643
+    ]
+  },
+  {
+    "path": "Dog/11600.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "c7088020baac216a5a6363e66f99de133cf35ccdc931cf568deaf191dca01c96",
+    "cache_index": 14260,
+    "prediction": 0,
+    "confidence": 0.813107430934906,
+    "probabilities": [
+      0.813107430934906,
+      0.186892569065094
+    ]
+  },
+  {
+    "path": "Cat/5570.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 330,
+    "sha256": "691bc81451bac9400026806e73ecf05b6c3521be736ee1c5ca307b70a90dec5b",
+    "cache_index": 7569,
+    "prediction": 1,
+    "confidence": 0.8129875659942627,
+    "probabilities": [
+      0.1870124787092209,
+      0.8129875659942627
+    ]
+  },
+  {
+    "path": "Dog/11116.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 408,
+    "sha256": "bde321567ec6ffb79e33feb007b17ea2f2ec28d120636ddced22cc145c06f821",
+    "cache_index": 13722,
+    "prediction": 0,
+    "confidence": 0.8114973306655884,
+    "probabilities": [
+      0.8114973306655884,
+      0.18850265443325043
+    ]
+  },
+  {
+    "path": "Dog/3233.jpg",
+    "label": 1,
+    "width": 384,
+    "height": 262,
+    "sha256": "2ddf7f9760ea824993ac89d5b1bc1646992dd616f6bd5f85fe4c3d282299c376",
+    "cache_index": 17459,
+    "prediction": 0,
+    "confidence": 0.811162531375885,
+    "probabilities": [
+      0.811162531375885,
+      0.18883749842643738
+    ]
+  },
+  {
+    "path": "Dog/8824.jpg",
+    "label": 1,
+    "width": 239,
+    "height": 229,
+    "sha256": "86c639ca40cc903d6f80998ee977201bb3c0fdfd442be3c64ad5757bc90bcc0c",
+    "cache_index": 23663,
+    "prediction": 0,
+    "confidence": 0.8106454610824585,
+    "probabilities": [
+      0.8106454610824585,
+      0.1893545687198639
+    ]
+  },
+  {
+    "path": "Dog/2461.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "79522eb2b0707ea303d818e571ca669291a5a29247970d9f394e13e8e2151e3d",
+    "cache_index": 16603,
+    "prediction": 0,
+    "confidence": 0.807876467704773,
+    "probabilities": [
+      0.807876467704773,
+      0.19212353229522705
+    ]
+  },
+  {
+    "path": "Dog/11439.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "a6b8bf21099045357c6a39339d3863b61ad880f89e22a028a003b42a39d82eac",
+    "cache_index": 14080,
+    "prediction": 0,
+    "confidence": 0.8073723316192627,
+    "probabilities": [
+      0.8073723316192627,
+      0.1926276981830597
+    ]
+  },
+  {
+    "path": "Dog/7813.jpg",
+    "label": 1,
+    "width": 278,
+    "height": 314,
+    "sha256": "210011c1a0be717b964feca7c654a656141c1efd4e08a7c2ca6dedf95652cc99",
+    "cache_index": 22544,
+    "prediction": 0,
+    "confidence": 0.8067226409912109,
+    "probabilities": [
+      0.8067226409912109,
+      0.19327735900878906
+    ]
+  },
+  {
+    "path": "Dog/9801.jpg",
+    "label": 1,
+    "width": 342,
+    "height": 300,
+    "sha256": "b886ba9e3412fe9a321d8c534ac8b5707bc90094d8718dc54f177e62194afaac",
+    "cache_index": 24748,
+    "prediction": 0,
+    "confidence": 0.806477963924408,
+    "probabilities": [
+      0.806477963924408,
+      0.19352199137210846
+    ]
+  },
+  {
+    "path": "Dog/11197.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "91ab7422c1fdcd274bafe68ea26daef9ce705e29166e7b0e834cd750e5789476",
+    "cache_index": 13811,
+    "prediction": 0,
+    "confidence": 0.803257942199707,
+    "probabilities": [
+      0.803257942199707,
+      0.19674211740493774
+    ]
+  },
+  {
+    "path": "Dog/9192.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 496,
+    "sha256": "31166e4e0d1445b56f330d3dc3b26ff31f3221b681fe290af5b124beca4050d1",
+    "cache_index": 24072,
+    "prediction": 0,
+    "confidence": 0.8007482290267944,
+    "probabilities": [
+      0.8007482290267944,
+      0.19925172626972198
+    ]
+  },
+  {
+    "path": "Dog/5469.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 416,
+    "sha256": "a784bd4a879796adba16c0947bd05f7a355b104ba763e2e656f1a134ca9734fb",
+    "cache_index": 19942,
+    "prediction": 0,
+    "confidence": 0.8003512620925903,
+    "probabilities": [
+      0.8003512620925903,
+      0.19964875280857086
+    ]
+  },
+  {
+    "path": "Dog/6211.jpg",
+    "label": 1,
+    "width": 480,
+    "height": 360,
+    "sha256": "768e4338b4757bafeedafecfa0b5016d8fae50fca8927f323c947cb40f10e635",
+    "cache_index": 20767,
+    "prediction": 0,
+    "confidence": 0.8003010153770447,
+    "probabilities": [
+      0.8003010153770447,
+      0.1996990144252777
+    ]
+  },
+  {
+    "path": "Dog/10297.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "d17463ac7852b9313f1ee87f1e2bc7a83d7d3d0c02c8966cf9c4b54ff90e5f88",
+    "cache_index": 12813,
+    "prediction": 0,
+    "confidence": 0.7992727160453796,
+    "probabilities": [
+      0.7992727160453796,
+      0.20072725415229797
+    ]
+  },
+  {
+    "path": "Cat/4633.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "96ca2faad27339e768c9621d4a54272cbfd6bc7c48e839740778ac306133636a",
+    "cache_index": 6530,
+    "prediction": 1,
+    "confidence": 0.7990334630012512,
+    "probabilities": [
+      0.20096656680107117,
+      0.7990334630012512
+    ]
+  },
+  {
+    "path": "Dog/8484.jpg",
+    "label": 1,
+    "width": 370,
+    "height": 500,
+    "sha256": "9a369f9f4e4a5ff2f5f618afb76f03f567334e1b866043a57845297fc401dd80",
+    "cache_index": 23287,
+    "prediction": 0,
+    "confidence": 0.798353374004364,
+    "probabilities": [
+      0.798353374004364,
+      0.20164664089679718
+    ]
+  },
+  {
+    "path": "Dog/7985.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 354,
+    "sha256": "e1c3bdb1f5cabceb540a91a5cce6e130b82d2d90e3dffa3376a3d43052895129",
+    "cache_index": 22734,
+    "prediction": 0,
+    "confidence": 0.7981783747673035,
+    "probabilities": [
+      0.7981783747673035,
+      0.20182165503501892
+    ]
+  },
+  {
+    "path": "Dog/11827.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "ef4d8afca91abd3e00c343896cad250cf827661238dc7fa78f1d448745e8c0fb",
+    "cache_index": 14510,
+    "prediction": 0,
+    "confidence": 0.7980401515960693,
+    "probabilities": [
+      0.7980401515960693,
+      0.20195986330509186
+    ]
+  },
+  {
+    "path": "Dog/7694.jpg",
+    "label": 1,
+    "width": 358,
+    "height": 386,
+    "sha256": "a548f5f4a0d9463a7f1c42773b2b659275c78d8269da1f70e0e5532bb87e0fd2",
+    "cache_index": 22411,
+    "prediction": 0,
+    "confidence": 0.7969163060188293,
+    "probabilities": [
+      0.7969163060188293,
+      0.20308366417884827
+    ]
+  },
+  {
+    "path": "Cat/8351.jpg",
+    "label": 0,
+    "width": 222,
+    "height": 222,
+    "sha256": "85d15c51e78af898fe724187e4c973999d82b22ffe63d14cff4c8855f41716b4",
+    "cache_index": 10654,
+    "prediction": 1,
+    "confidence": 0.7962754368782043,
+    "probabilities": [
+      0.20372454822063446,
+      0.7962754368782043
+    ]
+  },
+  {
+    "path": "Cat/1742.jpg",
+    "label": 0,
+    "width": 350,
+    "height": 262,
+    "sha256": "1a89888d68b05663275e6697d9e89902759a9316e00c045df9dc92d4c36419c5",
+    "cache_index": 3324,
+    "prediction": 1,
+    "confidence": 0.796181321144104,
+    "probabilities": [
+      0.20381861925125122,
+      0.796181321144104
+    ]
+  },
+  {
+    "path": "Cat/4978.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 334,
+    "sha256": "7a0af36d62dc5275637f05633ea4cfbc09dc5fe1ef2bafd2fccc065e58a8e51d",
+    "cache_index": 6910,
+    "prediction": 1,
+    "confidence": 0.7953776121139526,
+    "probabilities": [
+      0.20462241768836975,
+      0.7953776121139526
+    ]
+  },
+  {
+    "path": "Dog/1481.jpg",
+    "label": 1,
+    "width": 251,
+    "height": 182,
+    "sha256": "0a57255f8c3f381004108ea5053c7588eaaabc1b0f445aaa26c6153bf9c3a1c8",
+    "cache_index": 15514,
+    "prediction": 0,
+    "confidence": 0.7930687665939331,
+    "probabilities": [
+      0.7930687665939331,
+      0.2069312036037445
+    ]
+  },
+  {
+    "path": "Cat/10554.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "d6b68bcbc32bbc1d8dfe5ab5c2872a796e735a3bfa6c90b61e494d4a3737ca5d",
+    "cache_index": 619,
+    "prediction": 1,
+    "confidence": 0.7924774289131165,
+    "probabilities": [
+      0.20752258598804474,
+      0.7924774289131165
+    ]
+  },
+  {
+    "path": "Cat/8877.jpg",
+    "label": 0,
+    "width": 200,
+    "height": 150,
+    "sha256": "bc07a69b1ec99c51d9f5b263048d1d03059dc9973c50238e54c24a1c1c1e4209",
+    "cache_index": 11236,
+    "prediction": 1,
+    "confidence": 0.7894162535667419,
+    "probabilities": [
+      0.21058376133441925,
+      0.7894162535667419
+    ]
+  },
+  {
+    "path": "Dog/6835.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "df08dbf30b4172b1fbf0a0b0718c1da24e64b9ea98f52e9efc3a5c91969f9910",
+    "cache_index": 21458,
+    "prediction": 0,
+    "confidence": 0.788817286491394,
+    "probabilities": [
+      0.788817286491394,
+      0.21118266880512238
+    ]
+  },
+  {
+    "path": "Dog/10832.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "8aa2aa5f07fa18a1c5e56100422f0d1e82a8b412e132fc02afdee067c63cb3df",
+    "cache_index": 13406,
+    "prediction": 0,
+    "confidence": 0.7872312664985657,
+    "probabilities": [
+      0.7872312664985657,
+      0.21276871860027313
+    ]
+  },
+  {
+    "path": "Dog/5083.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "7b70fb313bbd2055d4d8c1bbe53a90fd03e7524ec7cf6595ac16bd88b80630e6",
+    "cache_index": 19514,
+    "prediction": 0,
+    "confidence": 0.7870112657546997,
+    "probabilities": [
+      0.7870112657546997,
+      0.21298880875110626
+    ]
+  },
+  {
+    "path": "Dog/8482.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "55e80d71859223eb1aaf56e7b974429bd0d3dd4194e75d3a2fae5102226ce975",
+    "cache_index": 23285,
+    "prediction": 0,
+    "confidence": 0.7860081195831299,
+    "probabilities": [
+      0.7860081195831299,
+      0.2139919102191925
+    ]
+  },
+  {
+    "path": "Dog/8761.jpg",
+    "label": 1,
+    "width": 439,
+    "height": 368,
+    "sha256": "ec088e9f390245a08992b542c13f447e627bcea68383c7ba4f5a40ea2727bae3",
+    "cache_index": 23593,
+    "prediction": 0,
+    "confidence": 0.7827985882759094,
+    "probabilities": [
+      0.7827985882759094,
+      0.21720145642757416
+    ]
+  },
+  {
+    "path": "Dog/11258.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "b9b341bfa6359654acec30bfaf0aa7e9c5d3235a4e87fc42415325324436d2b1",
+    "cache_index": 13879,
+    "prediction": 0,
+    "confidence": 0.7824485898017883,
+    "probabilities": [
+      0.7824485898017883,
+      0.21755138039588928
+    ]
+  },
+  {
+    "path": "Dog/2621.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "f14fdfe5abe1843ab78bbe380ccb3489ae924845e922fc87cd55bd1dcc998e7d",
+    "cache_index": 16781,
+    "prediction": 0,
+    "confidence": 0.7822991013526917,
+    "probabilities": [
+      0.7822991013526917,
+      0.21770091354846954
+    ]
+  },
+  {
+    "path": "Dog/1181.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 477,
+    "sha256": "124a9a55d71447c1225f90c82c06e5d72497c3656790b2998fffa3400969b379",
+    "cache_index": 14491,
+    "prediction": 0,
+    "confidence": 0.7817630171775818,
+    "probabilities": [
+      0.7817630171775818,
+      0.21823695302009583
+    ]
+  },
+  {
+    "path": "Dog/7644.jpg",
+    "label": 1,
+    "width": 380,
+    "height": 314,
+    "sha256": "b44a9f18af5b415a378f39f794dcc5dda1ab58657ba407cfa5b03e7bd0b131f2",
+    "cache_index": 22356,
+    "prediction": 0,
+    "confidence": 0.7801392674446106,
+    "probabilities": [
+      0.7801392674446106,
+      0.21986077725887299
+    ]
+  },
+  {
+    "path": "Cat/8126.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "859d5a9ac62f0e3c49e8ee88ffa12be2c91475f432138bed024abaf898682917",
+    "cache_index": 10405,
+    "prediction": 1,
+    "confidence": 0.779899001121521,
+    "probabilities": [
+      0.220100998878479,
+      0.779899001121521
+    ]
+  },
+  {
+    "path": "Dog/10672.jpg",
+    "label": 1,
+    "width": 412,
+    "height": 499,
+    "sha256": "200f31359294e6345712b80e6811adc14985a2b4221f5f793af195786ef8b8ba",
+    "cache_index": 13229,
+    "prediction": 0,
+    "confidence": 0.7773415446281433,
+    "probabilities": [
+      0.7773415446281433,
+      0.22265847027301788
+    ]
+  },
+  {
+    "path": "Dog/7831.jpg",
+    "label": 1,
+    "width": 317,
+    "height": 500,
+    "sha256": "0b16ad95c65ec04b9c5376d1f2ec3a612dca07a809c64f08d0d1433118bdf293",
+    "cache_index": 22564,
+    "prediction": 0,
+    "confidence": 0.7771278619766235,
+    "probabilities": [
+      0.7771278619766235,
+      0.22287212312221527
+    ]
+  },
+  {
+    "path": "Dog/8286.jpg",
+    "label": 1,
+    "width": 437,
+    "height": 499,
+    "sha256": "1cbbe92b3b42d079b85de5245edd4e812e79cb50525085b3705276c5c5ae40dd",
+    "cache_index": 23067,
+    "prediction": 0,
+    "confidence": 0.7727394700050354,
+    "probabilities": [
+      0.7727394700050354,
+      0.2272605299949646
+    ]
+  },
+  {
+    "path": "Cat/5962.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 357,
+    "sha256": "9af51447707a163ad5f114b2b25b842b4f24bdc957e0b911199f1b20636418d4",
+    "cache_index": 8004,
+    "prediction": 1,
+    "confidence": 0.7719277143478394,
+    "probabilities": [
+      0.22807228565216064,
+      0.7719277143478394
+    ]
+  },
+  {
+    "path": "Dog/9562.jpg",
+    "label": 1,
+    "width": 380,
+    "height": 285,
+    "sha256": "eb953d13cb4de0a874ce0467e87f877b27f66ecbef8828a1639a80e70e7529c4",
+    "cache_index": 24483,
+    "prediction": 0,
+    "confidence": 0.7718262672424316,
+    "probabilities": [
+      0.7718262672424316,
+      0.22817367315292358
+    ]
+  },
+  {
+    "path": "Cat/3123.jpg",
+    "label": 0,
+    "width": 385,
+    "height": 383,
+    "sha256": "b91c67e2dcc215e46e1c6725253fd259e9a3366a658e1f4aeac2c71f46cff230",
+    "cache_index": 4857,
+    "prediction": 1,
+    "confidence": 0.7716778516769409,
+    "probabilities": [
+      0.22832216322422028,
+      0.7716778516769409
+    ]
+  },
+  {
+    "path": "Dog/2264.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "a5246cb7bf60c849f768fe599178feb05f285a41198e5841e07ab06740d00878",
+    "cache_index": 16384,
+    "prediction": 0,
+    "confidence": 0.769188404083252,
+    "probabilities": [
+      0.769188404083252,
+      0.23081159591674805
+    ]
+  },
+  {
+    "path": "Dog/5288.jpg",
+    "label": 1,
+    "width": 227,
+    "height": 183,
+    "sha256": "68220238fa3973d6cd56f03b8ec36a77947cc708f6a6dab85c85db3ee477b5dc",
+    "cache_index": 19741,
+    "prediction": 0,
+    "confidence": 0.7679906487464905,
+    "probabilities": [
+      0.7679906487464905,
+      0.23200935125350952
+    ]
+  },
+  {
+    "path": "Dog/10077.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "4d2aafab896e3de09f33283f0f1944da6c24710bc4ade01f4ac4ccc67e053fd6",
+    "cache_index": 12569,
+    "prediction": 0,
+    "confidence": 0.7670667767524719,
+    "probabilities": [
+      0.7670667767524719,
+      0.2329331785440445
+    ]
+  },
+  {
+    "path": "Dog/6246.jpg",
+    "label": 1,
+    "width": 360,
+    "height": 270,
+    "sha256": "6573592c0ddc1fd0aa2ba523f7e175d780e8f3681663cfc0de8fc3940f056064",
+    "cache_index": 20805,
+    "prediction": 0,
+    "confidence": 0.7657864093780518,
+    "probabilities": [
+      0.7657864093780518,
+      0.23421362042427063
+    ]
+  },
+  {
+    "path": "Dog/10611.jpg",
+    "label": 1,
+    "width": 493,
+    "height": 380,
+    "sha256": "f004a26a04c5e472a4e4ec7a90652849cd6381a565417190bb72e767cc912a62",
+    "cache_index": 13162,
+    "prediction": 0,
+    "confidence": 0.7655742764472961,
+    "probabilities": [
+      0.7655742764472961,
+      0.23442570865154266
+    ]
+  },
+  {
+    "path": "Dog/6411.jpg",
+    "label": 1,
+    "width": 257,
+    "height": 253,
+    "sha256": "5693d7df811f04a54eaef7d0c7005981a28a3eb21b58c06180e7284ef727441e",
+    "cache_index": 20989,
+    "prediction": 0,
+    "confidence": 0.7650271654129028,
+    "probabilities": [
+      0.7650271654129028,
+      0.2349727898836136
+    ]
+  },
+  {
+    "path": "Dog/571.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "ef202ae229d260c66ad2d5f59946bed95c5261986812971de464c33512b46a60",
+    "cache_index": 20210,
+    "prediction": 0,
+    "confidence": 0.7649325728416443,
+    "probabilities": [
+      0.7649325728416443,
+      0.23506738245487213
+    ]
+  },
+  {
+    "path": "Cat/7884.jpg",
+    "label": 0,
+    "width": 363,
+    "height": 400,
+    "sha256": "af32b92ce21c81873fd8914fbcea7be0c1565e0287b7a6456fa7548c205d9cf5",
+    "cache_index": 10136,
+    "prediction": 1,
+    "confidence": 0.763832151889801,
+    "probabilities": [
+      0.23616783320903778,
+      0.763832151889801
+    ]
+  },
+  {
+    "path": "Dog/9869.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "3381d75a6060f9d5c53e76b13608b5b4fa0cef2797c39d9d625df99e16dab287",
+    "cache_index": 24822,
+    "prediction": 0,
+    "confidence": 0.762922465801239,
+    "probabilities": [
+      0.762922465801239,
+      0.237077534198761
+    ]
+  },
+  {
+    "path": "Dog/3593.jpg",
+    "label": 1,
+    "width": 318,
+    "height": 380,
+    "sha256": "833587d3c49a793b49e81ff2cc68854e9b148f5fe47b816cbec108dac3d83f08",
+    "cache_index": 17858,
+    "prediction": 0,
+    "confidence": 0.7614486813545227,
+    "probabilities": [
+      0.7614486813545227,
+      0.23855134844779968
+    ]
+  },
+  {
+    "path": "Dog/162.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "1853db8653dc1f9e3b84e8a582c81e22d5ca389f52a474eb34c45862b2882304",
+    "cache_index": 15668,
+    "prediction": 0,
+    "confidence": 0.7609317302703857,
+    "probabilities": [
+      0.7609317302703857,
+      0.23906826972961426
+    ]
+  },
+  {
+    "path": "Dog/8653.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 305,
+    "sha256": "b38e9c2514531bd7d24f076ef476a1615e46ef7addb2d5962d34078aece43477",
+    "cache_index": 23474,
+    "prediction": 0,
+    "confidence": 0.7599459886550903,
+    "probabilities": [
+      0.7599459886550903,
+      0.24005401134490967
+    ]
+  },
+  {
+    "path": "Dog/9609.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 355,
+    "sha256": "3d9e1c4490420e00de7b1e8016093eb5ef887c2fa7f7277d77df46b493da761c",
+    "cache_index": 24535,
+    "prediction": 0,
+    "confidence": 0.7598164081573486,
+    "probabilities": [
+      0.7598164081573486,
+      0.24018359184265137
+    ]
+  },
+  {
+    "path": "Dog/6788.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "1405796b247bd71408ebc9318b5905fb415c5117420d20e1334c28eb308e2a08",
+    "cache_index": 21405,
+    "prediction": 0,
+    "confidence": 0.759071946144104,
+    "probabilities": [
+      0.759071946144104,
+      0.2409280389547348
+    ]
+  },
+  {
+    "path": "Dog/11011.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "4926f0a26547feba70bb1a66455c7701e06dcfd6752e0aa0293081a34a6f1b2e",
+    "cache_index": 13606,
+    "prediction": 0,
+    "confidence": 0.7584716081619263,
+    "probabilities": [
+      0.7584716081619263,
+      0.2415284365415573
+    ]
+  },
+  {
+    "path": "Dog/584.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 333,
+    "sha256": "c34e4fd7d41ec7de25ee636de423b43c757994c6e0581326bb00f9c47b0dec43",
+    "cache_index": 20354,
+    "prediction": 0,
+    "confidence": 0.7563143372535706,
+    "probabilities": [
+      0.7563143372535706,
+      0.24368569254875183
+    ]
+  },
+  {
+    "path": "Dog/7764.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 374,
+    "sha256": "80b2aee72d5abad8c2b5dc48d4cd9d45787d56eeb77c2360942bda9b3255a8a1",
+    "cache_index": 22489,
+    "prediction": 0,
+    "confidence": 0.7552590370178223,
+    "probabilities": [
+      0.7552590370178223,
+      0.24474091827869415
+    ]
+  },
+  {
+    "path": "Dog/12351.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "bd9bd502cdfab3d0b7e02a787586ae1d3350392eae76cd26575feef86d1e944d",
+    "cache_index": 15093,
+    "prediction": 0,
+    "confidence": 0.7550566792488098,
+    "probabilities": [
+      0.7550566792488098,
+      0.2449432909488678
+    ]
+  },
+  {
+    "path": "Dog/7685.jpg",
+    "label": 1,
+    "width": 185,
+    "height": 138,
+    "sha256": "08ec5ececd7e3a6e542a0f3834ba9d79e1ce947209ddf9a9b2fe70035ecd274a",
+    "cache_index": 22401,
+    "prediction": 0,
+    "confidence": 0.7521079778671265,
+    "probabilities": [
+      0.7521079778671265,
+      0.24789197742938995
+    ]
+  },
+  {
+    "path": "Dog/8835.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "992a5f413c011d91f0d99291fdec1b2dda1ce750b59b5638f4489121ab0fb66a",
+    "cache_index": 23675,
+    "prediction": 0,
+    "confidence": 0.7518280148506165,
+    "probabilities": [
+      0.7518280148506165,
+      0.24817197024822235
+    ]
+  },
+  {
+    "path": "Dog/6078.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "88f9fa6e5d794d0c38c9daab31f29b8b888cb52f96b200389611330fa181caf8",
+    "cache_index": 20618,
+    "prediction": 0,
+    "confidence": 0.7510627508163452,
+    "probabilities": [
+      0.7510627508163452,
+      0.24893726408481598
+    ]
+  },
+  {
+    "path": "Dog/5169.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "27e02689c6ce6fa9aae7c3233b4da3f278de9ea1b0aaf3e52b01ca8a2f9ed4cd",
+    "cache_index": 19609,
+    "prediction": 0,
+    "confidence": 0.7507153153419495,
+    "probabilities": [
+      0.7507153153419495,
+      0.24928468465805054
+    ]
+  },
+  {
+    "path": "Dog/4785.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "ad7751a6dfded4d83708ed97a281c6ebae65315279eacbb603e43047c84f2113",
+    "cache_index": 19182,
+    "prediction": 0,
+    "confidence": 0.7477256655693054,
+    "probabilities": [
+      0.7477256655693054,
+      0.2522743046283722
+    ]
+  },
+  {
+    "path": "Dog/3275.jpg",
+    "label": 1,
+    "width": 324,
+    "height": 438,
+    "sha256": "bf2ea7302cfaac9323a9e9ad598c2912f1c9e7a5019150954a7100299349f904",
+    "cache_index": 17505,
+    "prediction": 0,
+    "confidence": 0.7470654249191284,
+    "probabilities": [
+      0.7470654249191284,
+      0.2529345750808716
+    ]
+  },
+  {
+    "path": "Dog/3834.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "4c7b60150a3434ae9ac335d657bc005b9671422667effc134c3c229627926a10",
+    "cache_index": 18126,
+    "prediction": 0,
+    "confidence": 0.7470149993896484,
+    "probabilities": [
+      0.7470149993896484,
+      0.2529849708080292
+    ]
+  },
+  {
+    "path": "Dog/3024.jpg",
+    "label": 1,
+    "width": 448,
+    "height": 336,
+    "sha256": "303021593fdb04d9498991278ea9036a7ed4bfbb84bf4f520af8312f6248ce87",
+    "cache_index": 17228,
+    "prediction": 0,
+    "confidence": 0.7463290691375732,
+    "probabilities": [
+      0.7463290691375732,
+      0.25367093086242676
+    ]
+  },
+  {
+    "path": "Dog/6395.jpg",
+    "label": 1,
+    "width": 370,
+    "height": 278,
+    "sha256": "ce5a54c8a2f90b73ac7f39255f875a1411f1a742329d90a8869e5acc4bf91247",
+    "cache_index": 20970,
+    "prediction": 0,
+    "confidence": 0.7455152869224548,
+    "probabilities": [
+      0.7455152869224548,
+      0.25448471307754517
+    ]
+  },
+  {
+    "path": "Dog/2624.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 432,
+    "sha256": "cb2e45715dfd81e1fa10f7f39d679122039865edc774dca0e6346d5fa330f770",
+    "cache_index": 16784,
+    "prediction": 0,
+    "confidence": 0.7454322576522827,
+    "probabilities": [
+      0.7454322576522827,
+      0.2545677423477173
+    ]
+  },
+  {
+    "path": "Dog/6444.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "fc7ea2c25994d5833e6446a0d4d03f0a53ab0d10b67491361ae84bb91fdbdf9e",
+    "cache_index": 21025,
+    "prediction": 0,
+    "confidence": 0.7450404167175293,
+    "probabilities": [
+      0.7450404167175293,
+      0.2549596130847931
+    ]
+  },
+  {
+    "path": "Dog/7110.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "f75d6d3c9e983e11f4398aaa8b749e86db13c245a857b2a1ca91a1283379406b",
+    "cache_index": 21765,
+    "prediction": 0,
+    "confidence": 0.7432998418807983,
+    "probabilities": [
+      0.7432998418807983,
+      0.2567001283168793
+    ]
+  },
+  {
+    "path": "Dog/10271.jpg",
+    "label": 1,
+    "width": 330,
+    "height": 330,
+    "sha256": "30180b2a09cff349e70864d01657051f721d8b558aae6445ba129360144c8c0b",
+    "cache_index": 12785,
+    "prediction": 0,
+    "confidence": 0.741395890712738,
+    "probabilities": [
+      0.741395890712738,
+      0.25860413908958435
+    ]
+  },
+  {
+    "path": "Dog/4198.jpg",
+    "label": 1,
+    "width": 206,
+    "height": 270,
+    "sha256": "3285e0166b9e63e3183f9faf83299c0164598f5d3cab4e85ea5d4d6c11021376",
+    "cache_index": 18530,
+    "prediction": 0,
+    "confidence": 0.7412225008010864,
+    "probabilities": [
+      0.7412225008010864,
+      0.2587774395942688
+    ]
+  },
+  {
+    "path": "Dog/10047.jpg",
+    "label": 1,
+    "width": 182,
+    "height": 182,
+    "sha256": "4369763e9cb9e1a7a5add75b79c4eb2512444c05e724719a79e2a2ebc9461a51",
+    "cache_index": 12536,
+    "prediction": 0,
+    "confidence": 0.7398098111152649,
+    "probabilities": [
+      0.7398098111152649,
+      0.2601902186870575
+    ]
+  },
+  {
+    "path": "Cat/9818.jpg",
+    "label": 0,
+    "width": 344,
+    "height": 500,
+    "sha256": "1632a5747ed269a79c25d42282891d5d146dd7d4720ef55f1f6074a8552f37c6",
+    "cache_index": 12280,
+    "prediction": 1,
+    "confidence": 0.7393475770950317,
+    "probabilities": [
+      0.2606523931026459,
+      0.7393475770950317
+    ]
+  },
+  {
+    "path": "Dog/3736.jpg",
+    "label": 1,
+    "width": 390,
+    "height": 307,
+    "sha256": "3444357b1b1cc916f00d38fd9609aa336eeef0e6f2e3885a880467919767cfd4",
+    "cache_index": 18017,
+    "prediction": 0,
+    "confidence": 0.7367762923240662,
+    "probabilities": [
+      0.7367762923240662,
+      0.26322367787361145
+    ]
+  },
+  {
+    "path": "Dog/12395.jpg",
+    "label": 1,
+    "width": 158,
+    "height": 120,
+    "sha256": "eebd3b235aa49aa38f9f3afb4cea023aa86fd4bba58293608b8bd434c15633a8",
+    "cache_index": 15141,
+    "prediction": 0,
+    "confidence": 0.736746072769165,
+    "probabilities": [
+      0.736746072769165,
+      0.26325392723083496
+    ]
+  },
+  {
+    "path": "Cat/4868.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 319,
+    "sha256": "ad3c3f248cd0022aaf0267a59228422107717f34f930ac697058512102ec8aaa",
+    "cache_index": 6788,
+    "prediction": 1,
+    "confidence": 0.733603298664093,
+    "probabilities": [
+      0.2663966715335846,
+      0.733603298664093
+    ]
+  },
+  {
+    "path": "Dog/925.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 240,
+    "sha256": "623ae16e40eafe3ea73e37f535b0659cd932fa9844f7d0389f662e33a6aceff1",
+    "cache_index": 24136,
+    "prediction": 0,
+    "confidence": 0.731818675994873,
+    "probabilities": [
+      0.731818675994873,
+      0.2681812644004822
+    ]
+  },
+  {
+    "path": "Cat/5170.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 333,
+    "sha256": "685394d53a9946e5f78a5f297612f36d164daab202bfe422efbe557db24b2bbb",
+    "cache_index": 7125,
+    "prediction": 1,
+    "confidence": 0.7301211357116699,
+    "probabilities": [
+      0.2698788344860077,
+      0.7301211357116699
+    ]
+  },
+  {
+    "path": "Dog/3167.jpg",
+    "label": 1,
+    "width": 473,
+    "height": 448,
+    "sha256": "b6d94d68b7ba4f82a296983b2fedd9666b2cdfe416da180429c2631ae49e21b6",
+    "cache_index": 17385,
+    "prediction": 0,
+    "confidence": 0.7299398183822632,
+    "probabilities": [
+      0.7299398183822632,
+      0.27006015181541443
+    ]
+  },
+  {
+    "path": "Dog/12338.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "3ae1531739d293c209c32add3f23b5ba4452cd1992eed1a72e303ffa7b3199ac",
+    "cache_index": 15078,
+    "prediction": 0,
+    "confidence": 0.7298293113708496,
+    "probabilities": [
+      0.7298293113708496,
+      0.270170658826828
+    ]
+  },
+  {
+    "path": "Dog/11254.jpg",
+    "label": 1,
+    "width": 468,
+    "height": 500,
+    "sha256": "739dc6a3f57fb6c025d31901fe03e8276969f44b72f7370b0cab7c0bf985c487",
+    "cache_index": 13875,
+    "prediction": 0,
+    "confidence": 0.726651668548584,
+    "probabilities": [
+      0.726651668548584,
+      0.2733483612537384
+    ]
+  },
+  {
+    "path": "Cat/12155.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 333,
+    "sha256": "608ce22d0f6c08abac8e9f8d8b2d713ac69248ad9a64c133a37c71a6433a8314",
+    "cache_index": 2396,
+    "prediction": 1,
+    "confidence": 0.7255181074142456,
+    "probabilities": [
+      0.2744819223880768,
+      0.7255181074142456
+    ]
+  },
+  {
+    "path": "Dog/516.jpg",
+    "label": 1,
+    "width": 252,
+    "height": 113,
+    "sha256": "1f53f60b16e3ac99680c8780ffa303db5498c9bf54298ea25c0a75f0f045156b",
+    "cache_index": 19599,
+    "prediction": 0,
+    "confidence": 0.7240856885910034,
+    "probabilities": [
+      0.7240856885910034,
+      0.2759142816066742
+    ]
+  },
+  {
+    "path": "Dog/8381.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 334,
+    "sha256": "37e41cedb7ba1a83ba8e2d4d8e4124976b2948a2d1894893228e6eaf83a0306a",
+    "cache_index": 23173,
+    "prediction": 0,
+    "confidence": 0.7240846157073975,
+    "probabilities": [
+      0.7240846157073975,
+      0.27591535449028015
+    ]
+  },
+  {
+    "path": "Dog/7675.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 280,
+    "sha256": "18622d9b0d2b36da2cd911aa61c35c039641719cdd726610da868948ac71f672",
+    "cache_index": 22390,
+    "prediction": 0,
+    "confidence": 0.7239721417427063,
+    "probabilities": [
+      0.7239721417427063,
+      0.2760278880596161
+    ]
+  },
+  {
+    "path": "Cat/635.jpg",
+    "label": 0,
+    "width": 375,
+    "height": 500,
+    "sha256": "b31208fd19ad036b0f99f1ac0ed2cd185966d318c9b6c76ece7db84a14235ad7",
+    "cache_index": 8434,
+    "prediction": 1,
+    "confidence": 0.722325325012207,
+    "probabilities": [
+      0.27767473459243774,
+      0.722325325012207
+    ]
+  },
+  {
+    "path": "Dog/1040.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "b26832b017c26d7eb6c6941637e537aa1a0169bc4273126c368c627cf038a5d8",
+    "cache_index": 12928,
+    "prediction": 0,
+    "confidence": 0.7221895456314087,
+    "probabilities": [
+      0.7221895456314087,
+      0.2778104543685913
+    ]
+  },
+  {
+    "path": "Dog/7447.jpg",
+    "label": 1,
+    "width": 463,
+    "height": 500,
+    "sha256": "0944b5084d798903ddfca61e3e34bfab03e7738523627ff9eb37fca9777e3f14",
+    "cache_index": 22137,
+    "prediction": 0,
+    "confidence": 0.7217727899551392,
+    "probabilities": [
+      0.7217727899551392,
+      0.27822721004486084
+    ]
+  },
+  {
+    "path": "Dog/6480.jpg",
+    "label": 1,
+    "width": 200,
+    "height": 150,
+    "sha256": "7113383586279ddf2d241e823cdb60f7f791e4b640a5bbb9584bce7f3e8625ad",
+    "cache_index": 21065,
+    "prediction": 0,
+    "confidence": 0.7209346294403076,
+    "probabilities": [
+      0.7209346294403076,
+      0.2790653109550476
+    ]
+  },
+  {
+    "path": "Cat/10220.jpg",
+    "label": 0,
+    "width": 400,
+    "height": 300,
+    "sha256": "e9f808d458487987559c7c2950ad0111a4f874ee180546138006c938b2639e95",
+    "cache_index": 249,
+    "prediction": 1,
+    "confidence": 0.7207048535346985,
+    "probabilities": [
+      0.2792951464653015,
+      0.7207048535346985
+    ]
+  },
+  {
+    "path": "Dog/2570.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "081032cb3ccc5a4e78a5f45b214438f9c255f6ce5bf62bef0c2d98028d66bc85",
+    "cache_index": 16724,
+    "prediction": 0,
+    "confidence": 0.7198619246482849,
+    "probabilities": [
+      0.7198619246482849,
+      0.2801380753517151
+    ]
+  },
+  {
+    "path": "Cat/6798.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 457,
+    "sha256": "3bb36d7ba1195c58291b1988b5505f100294826dd645073df39f9ff6ce6f13d6",
+    "cache_index": 8930,
+    "prediction": 1,
+    "confidence": 0.7165791392326355,
+    "probabilities": [
+      0.2834208607673645,
+      0.7165791392326355
+    ]
+  },
+  {
+    "path": "Dog/10472.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "6a5bab104e1e13c2b783e4d41fcf39d90f1040501e68a780eebf539b69cd341d",
+    "cache_index": 13007,
+    "prediction": 0,
+    "confidence": 0.7153757810592651,
+    "probabilities": [
+      0.7153757810592651,
+      0.28462424874305725
+    ]
+  },
+  {
+    "path": "Dog/9928.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 333,
+    "sha256": "32794ee31a4b33fffec9df2984ad6e622cf43fbc0a558db8bdb3b58019ffda11",
+    "cache_index": 24888,
+    "prediction": 0,
+    "confidence": 0.7145094275474548,
+    "probabilities": [
+      0.7145094275474548,
+      0.2854905426502228
+    ]
+  },
+  {
+    "path": "Dog/7900.jpg",
+    "label": 1,
+    "width": 360,
+    "height": 480,
+    "sha256": "efd08b318c74c00db719bf419946d457e3ce1448357168602cef028f202e9fe0",
+    "cache_index": 22641,
+    "prediction": 0,
+    "confidence": 0.7127366065979004,
+    "probabilities": [
+      0.7127366065979004,
+      0.28726333379745483
+    ]
+  },
+  {
+    "path": "Dog/4579.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "0b2e76075aa423e174d465708a00b2a5a66f9d590c6ea51724cd3991b51d1982",
+    "cache_index": 18953,
+    "prediction": 0,
+    "confidence": 0.7106097340583801,
+    "probabilities": [
+      0.7106097340583801,
+      0.2893902659416199
+    ]
+  },
+  {
+    "path": "Dog/1252.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "24eb27bc21f07e1a2f1fb6525c2c58ff3bacb59054c3531dfcaf68e5356a24f5",
+    "cache_index": 15260,
+    "prediction": 0,
+    "confidence": 0.7094787955284119,
+    "probabilities": [
+      0.7094787955284119,
+      0.29052117466926575
+    ]
+  },
+  {
+    "path": "Dog/6706.jpg",
+    "label": 1,
+    "width": 418,
+    "height": 500,
+    "sha256": "86827ad64e3a2a8497adfbc748e929a3361055b123406ccf7ec18838f74e77f2",
+    "cache_index": 21315,
+    "prediction": 0,
+    "confidence": 0.7089988589286804,
+    "probabilities": [
+      0.7089988589286804,
+      0.2910010814666748
+    ]
+  },
+  {
+    "path": "Dog/11459.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "3fca5e09625f58973deae2f29fc9eedc23096f3701df50fb854487337b4ce6da",
+    "cache_index": 14102,
+    "prediction": 0,
+    "confidence": 0.7085527181625366,
+    "probabilities": [
+      0.7085527181625366,
+      0.291447252035141
+    ]
+  },
+  {
+    "path": "Dog/9948.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 333,
+    "sha256": "a4b9fd8f27a1b7c5deb5210eb98c5a851a2f2b7235ea9c178123a620e761c018",
+    "cache_index": 24910,
+    "prediction": 0,
+    "confidence": 0.7071994543075562,
+    "probabilities": [
+      0.7071994543075562,
+      0.29280057549476624
+    ]
+  },
+  {
+    "path": "Dog/1541.jpg",
+    "label": 1,
+    "width": 352,
+    "height": 288,
+    "sha256": "6957653fd5bb796b8ff59c0f4440f7390a3e7087e3ad55d5f026ac5699b30199",
+    "cache_index": 15581,
+    "prediction": 0,
+    "confidence": 0.7055481672286987,
+    "probabilities": [
+      0.7055481672286987,
+      0.29445183277130127
+    ]
+  },
+  {
+    "path": "Dog/11222.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 494,
+    "sha256": "e096f2cd8ae632d7c11152b50bb843eb7c194177471e9f206f9959fa14c1f42b",
+    "cache_index": 13840,
+    "prediction": 0,
+    "confidence": 0.7046319842338562,
+    "probabilities": [
+      0.7046319842338562,
+      0.2953680157661438
+    ]
+  },
+  {
+    "path": "Dog/2077.jpg",
+    "label": 1,
+    "width": 483,
+    "height": 500,
+    "sha256": "cbc4627785c90b76037d402bdc4bdc2daf5777b8b5c75b206fee3e524db7b9b4",
+    "cache_index": 16176,
+    "prediction": 0,
+    "confidence": 0.7040063738822937,
+    "probabilities": [
+      0.7040063738822937,
+      0.2959936261177063
+    ]
+  },
+  {
+    "path": "Dog/2950.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 240,
+    "sha256": "2f27d937bddfb0d14aa4b38800165848097398bb02a2d34da80974b4536d44ba",
+    "cache_index": 17145,
+    "prediction": 0,
+    "confidence": 0.7022994160652161,
+    "probabilities": [
+      0.7022994160652161,
+      0.29770058393478394
+    ]
+  },
+  {
+    "path": "Dog/10855.jpg",
+    "label": 1,
+    "width": 431,
+    "height": 291,
+    "sha256": "d626bf458b99fe1c45e0f0cac24cc27799192063b6e25a8c94600dbb4ba5a0b2",
+    "cache_index": 13431,
+    "prediction": 0,
+    "confidence": 0.6990406513214111,
+    "probabilities": [
+      0.6990406513214111,
+      0.30095937848091125
+    ]
+  },
+  {
+    "path": "Cat/5558.jpg",
+    "label": 0,
+    "width": 240,
+    "height": 240,
+    "sha256": "450cee7d7eeba473cfb155ab4f373e9c1abef8a4d2c8d1fd56056932011dc890",
+    "cache_index": 7555,
+    "prediction": 1,
+    "confidence": 0.6985142230987549,
+    "probabilities": [
+      0.30148574709892273,
+      0.6985142230987549
+    ]
+  },
+  {
+    "path": "Dog/4388.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 378,
+    "sha256": "3e48416f23be23c5824e91d4164fc63fd9fadfbf77e1c42043da82c04554fb15",
+    "cache_index": 18741,
+    "prediction": 0,
+    "confidence": 0.6957014799118042,
+    "probabilities": [
+      0.6957014799118042,
+      0.3042984902858734
+    ]
+  },
+  {
+    "path": "Dog/2106.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 416,
+    "sha256": "89101333c988226c5b613f866bed33a84eb6a29ec2941286c5d4182852894b8b",
+    "cache_index": 16209,
+    "prediction": 0,
+    "confidence": 0.6954843997955322,
+    "probabilities": [
+      0.6954843997955322,
+      0.3045156002044678
+    ]
+  },
+  {
+    "path": "Dog/6527.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 262,
+    "sha256": "df89ff33328ad631e4505c466292583cbc277e6dc806dedd21e10758ac4763ec",
+    "cache_index": 21117,
+    "prediction": 0,
+    "confidence": 0.6936931014060974,
+    "probabilities": [
+      0.6936931014060974,
+      0.306306928396225
+    ]
+  },
+  {
+    "path": "Dog/5626.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 338,
+    "sha256": "3fbbc254eb71d59d463c6d19c676e42a99eaa607014932edf09e348e1edbe0f9",
+    "cache_index": 20117,
+    "prediction": 0,
+    "confidence": 0.6919493675231934,
+    "probabilities": [
+      0.6919493675231934,
+      0.30805066227912903
+    ]
+  },
+  {
+    "path": "Cat/2771.jpg",
+    "label": 0,
+    "width": 429,
+    "height": 398,
+    "sha256": "19b32644a7ce6b420eb8d6c48d1519ec523aac7da647f6420f8913ead181b432",
+    "cache_index": 4465,
+    "prediction": 1,
+    "confidence": 0.6908149123191833,
+    "probabilities": [
+      0.30918511748313904,
+      0.6908149123191833
+    ]
+  },
+  {
+    "path": "Dog/1659.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "24f6465a47bbfe2b883073039d34941ce235b6b89054c01720cb00fcff2205e0",
+    "cache_index": 15711,
+    "prediction": 0,
+    "confidence": 0.6896673440933228,
+    "probabilities": [
+      0.6896673440933228,
+      0.31033265590667725
+    ]
+  },
+  {
+    "path": "Dog/9872.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "9a997cb8436afae4b534c24ead9a20f515f0a64f6e742cb2260f7e2b07ae142c",
+    "cache_index": 24826,
+    "prediction": 0,
+    "confidence": 0.6891272664070129,
+    "probabilities": [
+      0.6891272664070129,
+      0.31087273359298706
+    ]
+  },
+  {
+    "path": "Cat/5161.jpg",
+    "label": 0,
+    "width": 333,
+    "height": 500,
+    "sha256": "eaa5e8f1d0eb0ddd39dea0db08099947e2cdf30827e4c20a5640017dda32f9ab",
+    "cache_index": 7115,
+    "prediction": 1,
+    "confidence": 0.6887601017951965,
+    "probabilities": [
+      0.31123989820480347,
+      0.6887601017951965
+    ]
+  },
+  {
+    "path": "Dog/870.jpg",
+    "label": 1,
+    "width": 410,
+    "height": 334,
+    "sha256": "efb1b4ae9e27953ab911738c7d30a717c222240b45863170f6130f9ea88377ae",
+    "cache_index": 23526,
+    "prediction": 0,
+    "confidence": 0.688138484954834,
+    "probabilities": [
+      0.688138484954834,
+      0.31186145544052124
+    ]
+  },
+  {
+    "path": "Dog/10753.jpg",
+    "label": 1,
+    "width": 428,
+    "height": 389,
+    "sha256": "9f589ffc1819101244126dbac1c402cb2cdd18a8366cf015cfed13daece1b6ca",
+    "cache_index": 13319,
+    "prediction": 0,
+    "confidence": 0.687842607498169,
+    "probabilities": [
+      0.687842607498169,
+      0.31215736269950867
+    ]
+  },
+  {
+    "path": "Dog/9533.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 359,
+    "sha256": "4de73a83220919f421666a499b44da99bb7d7a934a2162ad5774b86e777e31cd",
+    "cache_index": 24451,
+    "prediction": 0,
+    "confidence": 0.68436598777771,
+    "probabilities": [
+      0.68436598777771,
+      0.31563398241996765
+    ]
+  },
+  {
+    "path": "Cat/10488.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 377,
+    "sha256": "5907e827d926279f2a60fa61c00d604b2ce894e5062bd6b0b0554c775b3ffe7e",
+    "cache_index": 545,
+    "prediction": 1,
+    "confidence": 0.6833494305610657,
+    "probabilities": [
+      0.3166505694389343,
+      0.6833494305610657
+    ]
+  },
+  {
+    "path": "Dog/10191.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 400,
+    "sha256": "1523f494eef1eb91174af2d35e2a89848220933869821a3e1a4ed00ee707b68a",
+    "cache_index": 12696,
+    "prediction": 0,
+    "confidence": 0.6832041144371033,
+    "probabilities": [
+      0.6832041144371033,
+      0.31679585576057434
+    ]
+  },
+  {
+    "path": "Dog/9126.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "3c3d8db4e9406f34962984b03fab01ac8a94e9f715d29221e7963f5ef40904bf",
+    "cache_index": 23999,
+    "prediction": 0,
+    "confidence": 0.6816339492797852,
+    "probabilities": [
+      0.6816339492797852,
+      0.31836602091789246
+    ]
+  },
+  {
+    "path": "Dog/6744.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 478,
+    "sha256": "5c08707f865aee086f766935fbdceedad55909d82f095d1b37e58afbaf9adfd5",
+    "cache_index": 21357,
+    "prediction": 0,
+    "confidence": 0.6806922554969788,
+    "probabilities": [
+      0.6806922554969788,
+      0.31930774450302124
+    ]
+  },
+  {
+    "path": "Dog/5231.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 269,
+    "sha256": "00c5d1b4f6a1cbc2de06b3828056004078215fc0611736b4618dfbf2b8237451",
+    "cache_index": 19679,
+    "prediction": 0,
+    "confidence": 0.6790395379066467,
+    "probabilities": [
+      0.6790395379066467,
+      0.32096049189567566
+    ]
+  },
+  {
+    "path": "Dog/5076.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "ab8651a674cd4feaa5bae5c024a1ab4a35cb968daa73b1fbd7951f95c81c727b",
+    "cache_index": 19506,
+    "prediction": 0,
+    "confidence": 0.6782433390617371,
+    "probabilities": [
+      0.6782433390617371,
+      0.32175663113594055
+    ]
+  },
+  {
+    "path": "Dog/586.jpg",
+    "label": 1,
+    "width": 432,
+    "height": 203,
+    "sha256": "973ac78e499ee162263b8258d55ddf978dd7a70f248df1f6b56da97c0471bf4b",
+    "cache_index": 20376,
+    "prediction": 0,
+    "confidence": 0.6754675507545471,
+    "probabilities": [
+      0.6754675507545471,
+      0.3245324492454529
+    ]
+  },
+  {
+    "path": "Cat/5484.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "c3f4be16dbcaed08e28f432a0c14590e8c0940a6047045e6ab0e91e06b3d88e0",
+    "cache_index": 7473,
+    "prediction": 1,
+    "confidence": 0.6714868545532227,
+    "probabilities": [
+      0.32851311564445496,
+      0.6714868545532227
+    ]
+  },
+  {
+    "path": "Dog/9141.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "29983682ca9f849ed599cd9dd01c01d04933d5081ffdd59bd504dfb864bef516",
+    "cache_index": 24016,
+    "prediction": 0,
+    "confidence": 0.6713538765907288,
+    "probabilities": [
+      0.6713538765907288,
+      0.32864609360694885
+    ]
+  },
+  {
+    "path": "Dog/1188.jpg",
+    "label": 1,
+    "width": 331,
+    "height": 270,
+    "sha256": "cf565149ceb407f8bd249fff6f2b0e819b898a0899441901be6158473cfefdd8",
+    "cache_index": 14568,
+    "prediction": 0,
+    "confidence": 0.6694132089614868,
+    "probabilities": [
+      0.6694132089614868,
+      0.3305867910385132
+    ]
+  },
+  {
+    "path": "Dog/1073.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "30082e93f564e33c4505459fb0493c7a4df487d0d73246a36d6831792aee255c",
+    "cache_index": 13293,
+    "prediction": 0,
+    "confidence": 0.6692538261413574,
+    "probabilities": [
+      0.6692538261413574,
+      0.3307461738586426
+    ]
+  },
+  {
+    "path": "Cat/990.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "8900dd3c9bd399dc93b3d7ab4dcf682d0815a4f5bea3a942ff129d849ae1fa7b",
+    "cache_index": 12371,
+    "prediction": 1,
+    "confidence": 0.6677685379981995,
+    "probabilities": [
+      0.33223143219947815,
+      0.6677685379981995
+    ]
+  },
+  {
+    "path": "Cat/9108.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 333,
+    "sha256": "dc7ca93f1967fb0cd6625b188fb1a63267f91ddb1df5ad0643ea221e7a279f0a",
+    "cache_index": 11494,
+    "prediction": 1,
+    "confidence": 0.6670984029769897,
+    "probabilities": [
+      0.33290156722068787,
+      0.6670984029769897
+    ]
+  },
+  {
+    "path": "Dog/2450.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 377,
+    "sha256": "3d8d9d726864ba8784068333665e90d4086b500bb94dc777bd3555baacaee146",
+    "cache_index": 16591,
+    "prediction": 0,
+    "confidence": 0.6623857617378235,
+    "probabilities": [
+      0.6623857617378235,
+      0.3376142680644989
+    ]
+  },
+  {
+    "path": "Dog/207.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 500,
+    "sha256": "5507da97419c60c51848850e86561fdd00b92f77696ac6dda0ad1a6cd9411096",
+    "cache_index": 16168,
+    "prediction": 0,
+    "confidence": 0.6622974872589111,
+    "probabilities": [
+      0.6622974872589111,
+      0.33770254254341125
+    ]
+  },
+  {
+    "path": "Dog/2534.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "5c3cbf4541dda4437bc227583d4410f6cc57ead323ff6d0fe0970423c4ceb388",
+    "cache_index": 16684,
+    "prediction": 0,
+    "confidence": 0.6614230871200562,
+    "probabilities": [
+      0.6614230871200562,
+      0.33857691287994385
+    ]
+  },
+  {
+    "path": "Dog/3304.jpg",
+    "label": 1,
+    "width": 462,
+    "height": 500,
+    "sha256": "8d05ef015211f775e83fa4080c1f85c3c88f8ac3d98e09cf734c2c24e1d3820a",
+    "cache_index": 17538,
+    "prediction": 0,
+    "confidence": 0.660483717918396,
+    "probabilities": [
+      0.660483717918396,
+      0.3395163416862488
+    ]
+  },
+  {
+    "path": "Dog/3903.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 467,
+    "sha256": "58f44dca00281b46ed55ca46978c31e999a1dee5e021c21fb87cbcddbe03a457",
+    "cache_index": 18203,
+    "prediction": 0,
+    "confidence": 0.6595894694328308,
+    "probabilities": [
+      0.6595894694328308,
+      0.3404105305671692
+    ]
+  },
+  {
+    "path": "Dog/7994.jpg",
+    "label": 1,
+    "width": 488,
+    "height": 458,
+    "sha256": "c6e7cc34d80d6f9f90fb87e80d99a5923d6a2047007897d186d135694b64f9d7",
+    "cache_index": 22744,
+    "prediction": 0,
+    "confidence": 0.6591364145278931,
+    "probabilities": [
+      0.6591364145278931,
+      0.3408636152744293
+    ]
+  },
+  {
+    "path": "Cat/12436.jpg",
+    "label": 0,
+    "width": 400,
+    "height": 299,
+    "sha256": "f01564b0cf94dfec7dcea197137e97358d2ec68fd21564860e0930ed33dec5bf",
+    "cache_index": 2708,
+    "prediction": 1,
+    "confidence": 0.6586717963218689,
+    "probabilities": [
+      0.3413282632827759,
+      0.6586717963218689
+    ]
+  },
+  {
+    "path": "Dog/11432.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "105d08078eacd0182ad29e01f9bc3de8357bb5f18119875565f2275ead51b61e",
+    "cache_index": 14073,
+    "prediction": 0,
+    "confidence": 0.6572481393814087,
+    "probabilities": [
+      0.6572481393814087,
+      0.3427518904209137
+    ]
+  },
+  {
+    "path": "Cat/7920.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 371,
+    "sha256": "247d309d3984e7f87119a2b68a16ec99d142df5620c9639d9d6e9f32b1590d32",
+    "cache_index": 10176,
+    "prediction": 1,
+    "confidence": 0.6563408374786377,
+    "probabilities": [
+      0.3436592221260071,
+      0.6563408374786377
+    ]
+  },
+  {
+    "path": "Cat/12378.jpg",
+    "label": 0,
+    "width": 196,
+    "height": 300,
+    "sha256": "2c485c0983f2397d22c2d71582fa6d5a1acef1667ae65ad58a5fe3c824f6c0e4",
+    "cache_index": 2643,
+    "prediction": 1,
+    "confidence": 0.6556673645973206,
+    "probabilities": [
+      0.34433266520500183,
+      0.6556673645973206
+    ]
+  },
+  {
+    "path": "Dog/2225.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "4d3ba5ae27d32fd3c43285e09ccb37c32a1e3ef39292c5df1ce529bbfd54bdd2",
+    "cache_index": 16341,
+    "prediction": 0,
+    "confidence": 0.6549304723739624,
+    "probabilities": [
+      0.6549304723739624,
+      0.3450695276260376
+    ]
+  },
+  {
+    "path": "Dog/5228.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "7ec8c0ebcc712b8a2e04be8405ebac98efcd9d90d26471437a1ea9126a7b6f63",
+    "cache_index": 19675,
+    "prediction": 0,
+    "confidence": 0.6519630551338196,
+    "probabilities": [
+      0.6519630551338196,
+      0.34803688526153564
+    ]
+  },
+  {
+    "path": "Dog/10795.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 405,
+    "sha256": "c34b5ad5c1db28cbd19e84f5d8f76b269ab276b203b65fb86798ff818eaaf925",
+    "cache_index": 13365,
+    "prediction": 0,
+    "confidence": 0.6500480771064758,
+    "probabilities": [
+      0.6500480771064758,
+      0.3499518632888794
+    ]
+  },
+  {
+    "path": "Dog/10225.jpg",
+    "label": 1,
+    "width": 51,
+    "height": 100,
+    "sha256": "411ec2d9700dbc50333673507cf99d64112e9e04852f34da87fc28a56ff1311b",
+    "cache_index": 12734,
+    "prediction": 0,
+    "confidence": 0.6488397717475891,
+    "probabilities": [
+      0.6488397717475891,
+      0.3511602580547333
+    ]
+  },
+  {
+    "path": "Dog/11779.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "4b337192b8be76367d4a87332fb748dbd820430b9579df2229df47f2cd5d5d02",
+    "cache_index": 14456,
+    "prediction": 0,
+    "confidence": 0.6474217772483826,
+    "probabilities": [
+      0.6474217772483826,
+      0.35257819294929504
+    ]
+  },
+  {
+    "path": "Dog/8311.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "c84eca2c22f8cbba027a9d9bb0d58084bb40ed69f0155526d170846e883a054d",
+    "cache_index": 23096,
+    "prediction": 0,
+    "confidence": 0.647313117980957,
+    "probabilities": [
+      0.647313117980957,
+      0.35268694162368774
+    ]
+  },
+  {
+    "path": "Cat/2457.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "59401b6966a932279580c842cdf5eb54a0789c255bf80d9b5b67077536f96271",
+    "cache_index": 4116,
+    "prediction": 1,
+    "confidence": 0.6464635729789734,
+    "probabilities": [
+      0.3535363972187042,
+      0.6464635729789734
+    ]
+  },
+  {
+    "path": "Dog/8543.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "70711e73d9f53342f29da3b1eeccc625e1c60ac7f13f0ade1e4bdefa2ad7b6c1",
+    "cache_index": 23353,
+    "prediction": 0,
+    "confidence": 0.6461872458457947,
+    "probabilities": [
+      0.6461872458457947,
+      0.35381272435188293
+    ]
+  },
+  {
+    "path": "Dog/10132.jpg",
+    "label": 1,
+    "width": 307,
+    "height": 500,
+    "sha256": "d4911295b038183bbab490d562e82833e0974e4df609d99bf17426ca5a7877be",
+    "cache_index": 12631,
+    "prediction": 0,
+    "confidence": 0.6461352705955505,
+    "probabilities": [
+      0.6461352705955505,
+      0.35386472940444946
+    ]
+  },
+  {
+    "path": "Dog/7817.jpg",
+    "label": 1,
+    "width": 206,
+    "height": 270,
+    "sha256": "cb608263f29c51def7bc5200912faa632faad3e4f3615b7f4719701f7444caff",
+    "cache_index": 22548,
+    "prediction": 0,
+    "confidence": 0.6459861397743225,
+    "probabilities": [
+      0.6459861397743225,
+      0.3540138602256775
+    ]
+  },
+  {
+    "path": "Cat/10120.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "60bf91f85983cab9ce99c670e827b8a164d4fd1ff2defec3596548eef1331003",
+    "cache_index": 138,
+    "prediction": 1,
+    "confidence": 0.6438300013542175,
+    "probabilities": [
+      0.3561699390411377,
+      0.6438300013542175
+    ]
+  },
+  {
+    "path": "Dog/5308.jpg",
+    "label": 1,
+    "width": 420,
+    "height": 336,
+    "sha256": "d268c19a66dd4aa2d985d3eefe4f9e54415d1fab32a254040a20a752ab6fade4",
+    "cache_index": 19764,
+    "prediction": 0,
+    "confidence": 0.643608033657074,
+    "probabilities": [
+      0.643608033657074,
+      0.356391966342926
+    ]
+  },
+  {
+    "path": "Dog/7855.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 314,
+    "sha256": "10a9722e9af6b202661abf9737b1fc98551bb8fe2ecdc18213019a4a7a96f26f",
+    "cache_index": 22590,
+    "prediction": 0,
+    "confidence": 0.6414682865142822,
+    "probabilities": [
+      0.6414682865142822,
+      0.358531653881073
+    ]
+  },
+  {
+    "path": "Dog/12419.jpg",
+    "label": 1,
+    "width": 187,
+    "height": 150,
+    "sha256": "ea0ccf749aaeab5102f33d33bc8f84ba7134673c4e22787141eddbbc96a17ff4",
+    "cache_index": 15168,
+    "prediction": 0,
+    "confidence": 0.6407496333122253,
+    "probabilities": [
+      0.6407496333122253,
+      0.35925042629241943
+    ]
+  },
+  {
+    "path": "Dog/5344.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 374,
+    "sha256": "b881b5de1f6950e65e3951f2dda327c579aa028d5a129564d02bdbfceca72275",
+    "cache_index": 19804,
+    "prediction": 0,
+    "confidence": 0.6388846635818481,
+    "probabilities": [
+      0.6388846635818481,
+      0.36111536622047424
+    ]
+  },
+  {
+    "path": "Dog/2414.jpg",
+    "label": 1,
+    "width": 495,
+    "height": 305,
+    "sha256": "a5b8c158577c0a5181ad7fa62427fa174c79ecaf75d5ae447dd23666b946b33f",
+    "cache_index": 16551,
+    "prediction": 0,
+    "confidence": 0.6383575201034546,
+    "probabilities": [
+      0.6383575201034546,
+      0.3616424798965454
+    ]
+  },
+  {
+    "path": "Cat/4380.jpg",
+    "label": 0,
+    "width": 320,
+    "height": 240,
+    "sha256": "9f827ce56cda2afd84f692b87874cbb51565b6dc60bec47f80678d2b68f6daa6",
+    "cache_index": 6251,
+    "prediction": 1,
+    "confidence": 0.6365394592285156,
+    "probabilities": [
+      0.3634605407714844,
+      0.6365394592285156
+    ]
+  },
+  {
+    "path": "Dog/5528.jpg",
+    "label": 1,
+    "width": 360,
+    "height": 224,
+    "sha256": "f46423dc7eb8fdaee3736b0d81b1bcc42e254e897d05ea093d7a22f67e5324a0",
+    "cache_index": 20008,
+    "prediction": 0,
+    "confidence": 0.6354370713233948,
+    "probabilities": [
+      0.6354370713233948,
+      0.36456298828125
+    ]
+  },
+  {
+    "path": "Cat/3817.jpg",
+    "label": 0,
+    "width": 210,
+    "height": 297,
+    "sha256": "c578922e4ee7a3c94c50ad4c232e272fe00a4c3c669d7ea119b42aedc54d881c",
+    "cache_index": 5626,
+    "prediction": 1,
+    "confidence": 0.6352139711380005,
+    "probabilities": [
+      0.3647860586643219,
+      0.6352139711380005
+    ]
+  },
+  {
+    "path": "Dog/1428.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "fdd84ded47b21a4ebc65671df22b40e5bc32af61938250937fca4f088bda5e8b",
+    "cache_index": 15455,
+    "prediction": 0,
+    "confidence": 0.6347804069519043,
+    "probabilities": [
+      0.6347804069519043,
+      0.3652196228504181
+    ]
+  },
+  {
+    "path": "Dog/12496.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "1c483c576dd8c7ee500fff0420dbcf21e73cbc5082281202d22c2fc8bb31868c",
+    "cache_index": 15253,
+    "prediction": 0,
+    "confidence": 0.6340785622596741,
+    "probabilities": [
+      0.6340785622596741,
+      0.3659214675426483
+    ]
+  },
+  {
+    "path": "Dog/5205.jpg",
+    "label": 1,
+    "width": 490,
+    "height": 453,
+    "sha256": "ba8fc947a61b60f450321f970c887889e0582773e10d84d94359f0a4da1298fa",
+    "cache_index": 19650,
+    "prediction": 0,
+    "confidence": 0.6329681873321533,
+    "probabilities": [
+      0.6329681873321533,
+      0.36703184247016907
+    ]
+  },
+  {
+    "path": "Dog/2985.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "95a3ea8ced1d03f781029de6d2c6c8a5cc4f30fe01ab8ce221c909c1b9fb4c90",
+    "cache_index": 17183,
+    "prediction": 0,
+    "confidence": 0.632754385471344,
+    "probabilities": [
+      0.632754385471344,
+      0.3672456443309784
+    ]
+  },
+  {
+    "path": "Cat/5062.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "bade13b231c8d7c0441e564bb09b5422eff8bfc13a576af2c06ff95f9332b2a0",
+    "cache_index": 7005,
+    "prediction": 1,
+    "confidence": 0.6319267153739929,
+    "probabilities": [
+      0.3680732846260071,
+      0.6319267153739929
+    ]
+  },
+  {
+    "path": "Dog/11487.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "bcf8d42b52372add41bb6cf227e96524cdb5761b96d71aa8d5e84e0f4a3a22e7",
+    "cache_index": 14133,
+    "prediction": 0,
+    "confidence": 0.629586398601532,
+    "probabilities": [
+      0.629586398601532,
+      0.37041357159614563
+    ]
+  },
+  {
+    "path": "Cat/1828.jpg",
+    "label": 0,
+    "width": 400,
+    "height": 300,
+    "sha256": "556c5cb4a067f5dca2cf794776c2be4bf0b6f684fa6c7708fc053e308e3a902e",
+    "cache_index": 3419,
+    "prediction": 1,
+    "confidence": 0.6291524767875671,
+    "probabilities": [
+      0.37084755301475525,
+      0.6291524767875671
+    ]
+  },
+  {
+    "path": "Dog/3673.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 362,
+    "sha256": "9d5a1f7f493aaa0f17a029c1e2fc7674d8753ef03af94a1dafe8e52b82936274",
+    "cache_index": 17947,
+    "prediction": 0,
+    "confidence": 0.6280714273452759,
+    "probabilities": [
+      0.6280714273452759,
+      0.3719285726547241
+    ]
+  },
+  {
+    "path": "Cat/473.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "c7472d36dcb31e458a7ee151305b0fae87ae819d818aa93e2bef7734da0053db",
+    "cache_index": 6635,
+    "prediction": 1,
+    "confidence": 0.6270527243614197,
+    "probabilities": [
+      0.3729472756385803,
+      0.6270527243614197
+    ]
+  },
+  {
+    "path": "Dog/10474.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "8d0818c5ea347bd6ece7d5ef81ae4c8a296f0c779af654f6eb73398a6347126a",
+    "cache_index": 13009,
+    "prediction": 0,
+    "confidence": 0.6265321969985962,
+    "probabilities": [
+      0.6265321969985962,
+      0.3734677731990814
+    ]
+  },
+  {
+    "path": "Dog/1665.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 424,
+    "sha256": "195246895db919a5dfe6ea65c7d75642befe5654dbb8ccb64b60244a86631f55",
+    "cache_index": 15718,
+    "prediction": 0,
+    "confidence": 0.6250701546669006,
+    "probabilities": [
+      0.6250701546669006,
+      0.37492987513542175
+    ]
+  },
+  {
+    "path": "Dog/10467.jpg",
+    "label": 1,
+    "width": 391,
+    "height": 419,
+    "sha256": "e63039e4d6716ee50209f849c8a89a935dedecc78dbcdc6011546db2aad5f965",
+    "cache_index": 13001,
+    "prediction": 0,
+    "confidence": 0.6245535016059875,
+    "probabilities": [
+      0.6245535016059875,
+      0.37544652819633484
+    ]
+  },
+  {
+    "path": "Dog/8967.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 494,
+    "sha256": "ee540c68587f1231173b44e3d2a6d17ebd66b9693f3f34800505cb31c9a51db4",
+    "cache_index": 23821,
+    "prediction": 0,
+    "confidence": 0.6243782043457031,
+    "probabilities": [
+      0.6243782043457031,
+      0.3756217956542969
+    ]
+  },
+  {
+    "path": "Cat/7845.jpg",
+    "label": 0,
+    "width": 496,
+    "height": 372,
+    "sha256": "2f3714070af92c1f105c2cc166d3e0c98580c0510f05c8f72154a93c1b0d103a",
+    "cache_index": 10093,
+    "prediction": 1,
+    "confidence": 0.6232283115386963,
+    "probabilities": [
+      0.3767717480659485,
+      0.6232283115386963
+    ]
+  },
+  {
+    "path": "Cat/9543.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "3cbda87c0b6205f73514c2034bdef44998b748e9ee7e5c3c66a99b0c664e4aae",
+    "cache_index": 11976,
+    "prediction": 1,
+    "confidence": 0.621437668800354,
+    "probabilities": [
+      0.378562331199646,
+      0.621437668800354
+    ]
+  },
+  {
+    "path": "Dog/5132.jpg",
+    "label": 1,
+    "width": 300,
+    "height": 193,
+    "sha256": "ff0cbda584c81cdb1e0df2924f0e3efab21987eeb6bea04e3473d713a46b497b",
+    "cache_index": 19569,
+    "prediction": 0,
+    "confidence": 0.6210387945175171,
+    "probabilities": [
+      0.6210387945175171,
+      0.3789611756801605
+    ]
+  },
+  {
+    "path": "Dog/7351.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 496,
+    "sha256": "0cf2a6d3f1ce92ec3edb5649931734ee322c1e69bd321dfb3944cdd7e9ed518a",
+    "cache_index": 22032,
+    "prediction": 0,
+    "confidence": 0.6189501881599426,
+    "probabilities": [
+      0.6189501881599426,
+      0.3810498118400574
+    ]
+  },
+  {
+    "path": "Dog/10712.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 349,
+    "sha256": "f0b690b43408c09568071f897e0f20dbcabf4800624e49a3d2977d4ecdb86492",
+    "cache_index": 13274,
+    "prediction": 0,
+    "confidence": 0.6189271211624146,
+    "probabilities": [
+      0.6189271211624146,
+      0.3810728192329407
+    ]
+  },
+  {
+    "path": "Dog/10244.jpg",
+    "label": 1,
+    "width": 409,
+    "height": 500,
+    "sha256": "5510c2371f407d8b4223372b0ffda9c0c210eb683a273e0f9b4b74ed45a16218",
+    "cache_index": 12755,
+    "prediction": 0,
+    "confidence": 0.6186392903327942,
+    "probabilities": [
+      0.6186392903327942,
+      0.3813607394695282
+    ]
+  },
+  {
+    "path": "Dog/4121.jpg",
+    "label": 1,
+    "width": 359,
+    "height": 270,
+    "sha256": "5b54a8759c799ee96761bd019d10f3eadd6bf7691064d7ca9739b74fe0b68f8c",
+    "cache_index": 18446,
+    "prediction": 0,
+    "confidence": 0.6182323098182678,
+    "probabilities": [
+      0.6182323098182678,
+      0.3817676901817322
+    ]
+  },
+  {
+    "path": "Dog/1161.jpg",
+    "label": 1,
+    "width": 480,
+    "height": 480,
+    "sha256": "134ccf501089c3cac9c5c5b3141e59f015f0c430d9a6da90763f46c972c2fa21",
+    "cache_index": 14270,
+    "prediction": 0,
+    "confidence": 0.6178492307662964,
+    "probabilities": [
+      0.6178492307662964,
+      0.382150799036026
+    ]
+  },
+  {
+    "path": "Dog/3630.jpg",
+    "label": 1,
+    "width": 443,
+    "height": 500,
+    "sha256": "9168a8e21be99df9642881479e3d9a0047e3c6c3a992e63daa9d17fa0cc3a294",
+    "cache_index": 17900,
+    "prediction": 0,
+    "confidence": 0.6168996095657349,
+    "probabilities": [
+      0.6168996095657349,
+      0.38310036063194275
+    ]
+  },
+  {
+    "path": "Dog/2219.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 403,
+    "sha256": "2b842180243f7134962876d570be1a0253377a1f33cec578b8bf8c676ab7083e",
+    "cache_index": 16334,
+    "prediction": 0,
+    "confidence": 0.6161646246910095,
+    "probabilities": [
+      0.6161646246910095,
+      0.38383543491363525
+    ]
+  },
+  {
+    "path": "Cat/923.jpg",
+    "label": 0,
+    "width": 326,
+    "height": 500,
+    "sha256": "f5c2d794c8d23308d97da5fff645d3f036be0b528fcdbaa793f0a1c1d03cb321",
+    "cache_index": 11629,
+    "prediction": 1,
+    "confidence": 0.6145195364952087,
+    "probabilities": [
+      0.38548043370246887,
+      0.6145195364952087
+    ]
+  },
+  {
+    "path": "Cat/4397.jpg",
+    "label": 0,
+    "width": 240,
+    "height": 240,
+    "sha256": "8eb9f8316a893655b63abcd396bed1e6655cbcdf774e3e2eba5007e7b0ca377c",
+    "cache_index": 6269,
+    "prediction": 1,
+    "confidence": 0.6131104826927185,
+    "probabilities": [
+      0.3868894875049591,
+      0.6131104826927185
+    ]
+  },
+  {
+    "path": "Cat/11045.jpg",
+    "label": 0,
+    "width": 147,
+    "height": 110,
+    "sha256": "f9cc25cd583b7e468b4feb3e7d1ea73234a0f2cb7d21eca6be443954a17316b8",
+    "cache_index": 1165,
+    "prediction": 1,
+    "confidence": 0.6121387481689453,
+    "probabilities": [
+      0.3878612518310547,
+      0.6121387481689453
+    ]
+  },
+  {
+    "path": "Dog/10781.jpg",
+    "label": 1,
+    "width": 480,
+    "height": 364,
+    "sha256": "95e7cbf871875b43a89466f289dc718943dd753d2c4a56d3e34e0294dd631dba",
+    "cache_index": 13350,
+    "prediction": 0,
+    "confidence": 0.6121129393577576,
+    "probabilities": [
+      0.6121129393577576,
+      0.38788706064224243
+    ]
+  },
+  {
+    "path": "Dog/7417.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "2abb3d97777d17aa682389de8533cf2c3b583d86c93276791e522d5fedc1c1b5",
+    "cache_index": 22104,
+    "prediction": 0,
+    "confidence": 0.611014723777771,
+    "probabilities": [
+      0.611014723777771,
+      0.3889853060245514
+    ]
+  },
+  {
+    "path": "Cat/3268.jpg",
+    "label": 0,
+    "width": 426,
+    "height": 398,
+    "sha256": "57ec16a446156865fbf50ef0b8aab19506756de22bb05f9c77ab32f16f61a7d0",
+    "cache_index": 5017,
+    "prediction": 1,
+    "confidence": 0.6097480654716492,
+    "probabilities": [
+      0.39025190472602844,
+      0.6097480654716492
+    ]
+  },
+  {
+    "path": "Dog/12237.jpg",
+    "label": 1,
+    "width": 416,
+    "height": 281,
+    "sha256": "de41f6d8b81f2397995371174e6f04ecfda592cfd3e1e4fc9a23b2b311b1b0aa",
+    "cache_index": 14966,
+    "prediction": 0,
+    "confidence": 0.6087742447853088,
+    "probabilities": [
+      0.6087742447853088,
+      0.3912257254123688
+    ]
+  },
+  {
+    "path": "Cat/2211.jpg",
+    "label": 0,
+    "width": 291,
+    "height": 437,
+    "sha256": "4f85ffc5f4b6cb76ecff6e772e37abef7583f59801f88922e1a4b8a42deb19f0",
+    "cache_index": 3845,
+    "prediction": 1,
+    "confidence": 0.6083186864852905,
+    "probabilities": [
+      0.3916812837123871,
+      0.6083186864852905
+    ]
+  },
+  {
+    "path": "Dog/5978.jpg",
+    "label": 1,
+    "width": 300,
+    "height": 225,
+    "sha256": "21c6d9753fb49e69b759619e4a89eea0fb7d53d4624f7af149f284f05188aaaa",
+    "cache_index": 20507,
+    "prediction": 0,
+    "confidence": 0.6078352332115173,
+    "probabilities": [
+      0.6078352332115173,
+      0.3921647071838379
+    ]
+  },
+  {
+    "path": "Dog/9913.jpg",
+    "label": 1,
+    "width": 399,
+    "height": 500,
+    "sha256": "2f219dc6d58f93e4f8a14025e755f3b10da7e772d4255665113f9bea693b5859",
+    "cache_index": 24872,
+    "prediction": 0,
+    "confidence": 0.6075550317764282,
+    "probabilities": [
+      0.6075550317764282,
+      0.3924449384212494
+    ]
+  },
+  {
+    "path": "Dog/9937.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 216,
+    "sha256": "e178d4b391c4299b48f55720ffb869336a1a57f792bd4c338ee778cec187252f",
+    "cache_index": 24898,
+    "prediction": 0,
+    "confidence": 0.6062230467796326,
+    "probabilities": [
+      0.6062230467796326,
+      0.39377689361572266
+    ]
+  },
+  {
+    "path": "Dog/5295.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 400,
+    "sha256": "0634bebdd41d265f012a90e42b4d22eb4d599a9388307b134f54698ac3da02c7",
+    "cache_index": 19749,
+    "prediction": 0,
+    "confidence": 0.6014936566352844,
+    "probabilities": [
+      0.6014936566352844,
+      0.3985063433647156
+    ]
+  },
+  {
+    "path": "Dog/1697.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "47b861ef28bb6ca225c98e767e37e97016037577a1bc2f40921b117fc9209d97",
+    "cache_index": 15753,
+    "prediction": 0,
+    "confidence": 0.6011942625045776,
+    "probabilities": [
+      0.6011942625045776,
+      0.39880573749542236
+    ]
+  },
+  {
+    "path": "Cat/5635.jpg",
+    "label": 0,
+    "width": 394,
+    "height": 500,
+    "sha256": "e68e615371bb4ef22ab526e44a7dfe3bda227cbf5bf53957eb81915ca036315c",
+    "cache_index": 7641,
+    "prediction": 1,
+    "confidence": 0.6004714369773865,
+    "probabilities": [
+      0.3995285630226135,
+      0.6004714369773865
+    ]
+  },
+  {
+    "path": "Dog/9145.jpg",
+    "label": 1,
+    "width": 480,
+    "height": 318,
+    "sha256": "d411b85c13643404ebfadfb433800cdc0e3e4abc878e6a155410c119e78da7fb",
+    "cache_index": 24020,
+    "prediction": 0,
+    "confidence": 0.5997422337532043,
+    "probabilities": [
+      0.5997422337532043,
+      0.40025779604911804
+    ]
+  },
+  {
+    "path": "Cat/10603.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 420,
+    "sha256": "9ada6551726953917c6006f753031a42b0835c60b9149b481a95c4a6b79161e1",
+    "cache_index": 674,
+    "prediction": 1,
+    "confidence": 0.5996338725090027,
+    "probabilities": [
+      0.4003661572933197,
+      0.5996338725090027
+    ]
+  },
+  {
+    "path": "Dog/7642.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 398,
+    "sha256": "93966c6b29f566c96bc2dc7c4673837a090aec343b6ccba1a84d24a85e868eab",
+    "cache_index": 22354,
+    "prediction": 0,
+    "confidence": 0.5984236001968384,
+    "probabilities": [
+      0.5984236001968384,
+      0.4015763998031616
+    ]
+  },
+  {
+    "path": "Dog/2363.jpg",
+    "label": 1,
+    "width": 280,
+    "height": 354,
+    "sha256": "313ebca90ff33a2c876a4f0b847c808a245b65838e782e570d2d653959b54365",
+    "cache_index": 16494,
+    "prediction": 0,
+    "confidence": 0.5983427166938782,
+    "probabilities": [
+      0.5983427166938782,
+      0.4016572833061218
+    ]
+  },
+  {
+    "path": "Dog/3944.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "7bb9203be2785a103a05c4b44557e6d6298543ad33fbc991853bff678a85e8f3",
+    "cache_index": 18248,
+    "prediction": 0,
+    "confidence": 0.5981228351593018,
+    "probabilities": [
+      0.5981228351593018,
+      0.40187713503837585
+    ]
+  },
+  {
+    "path": "Dog/6534.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 327,
+    "sha256": "b074ef3964a240d39270f1e599a11d3432c6841eb69b7594808d4a5c2282c4c4",
+    "cache_index": 21125,
+    "prediction": 0,
+    "confidence": 0.5966185927391052,
+    "probabilities": [
+      0.5966185927391052,
+      0.4033813774585724
+    ]
+  },
+  {
+    "path": "Cat/8765.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 390,
+    "sha256": "2d3eb23d9b44192d07a20d147e40744cd687de5eceabe90b3efadb96bb4ab4ab",
+    "cache_index": 11112,
+    "prediction": 1,
+    "confidence": 0.5945612192153931,
+    "probabilities": [
+      0.4054388105869293,
+      0.5945612192153931
+    ]
+  },
+  {
+    "path": "Dog/9656.jpg",
+    "label": 1,
+    "width": 250,
+    "height": 192,
+    "sha256": "47bc7d8a14198801381f51430102fce394cb9ce6b780bcb57013131cb18d3109",
+    "cache_index": 24587,
+    "prediction": 0,
+    "confidence": 0.5929361581802368,
+    "probabilities": [
+      0.5929361581802368,
+      0.4070638120174408
+    ]
+  },
+  {
+    "path": "Dog/405.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "8f472ef1903bb103c7c8bec0d3a9621114e490b08aca7b4a1f106f37d986fa65",
+    "cache_index": 18366,
+    "prediction": 0,
+    "confidence": 0.5927650928497314,
+    "probabilities": [
+      0.5927650928497314,
+      0.40723490715026855
+    ]
+  },
+  {
+    "path": "Dog/9142.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 306,
+    "sha256": "a4dca8dd7381c72f3fd157f5853ba694d0b32814abe425dc9cfe2c2984a061fc",
+    "cache_index": 24017,
+    "prediction": 0,
+    "confidence": 0.5923585295677185,
+    "probabilities": [
+      0.5923585295677185,
+      0.40764153003692627
+    ]
+  },
+  {
+    "path": "Dog/3831.jpg",
+    "label": 1,
+    "width": 324,
+    "height": 207,
+    "sha256": "c312a3d1aa450c0b48605a7cd40302db75834669561d6cf23228799d78c4a71a",
+    "cache_index": 18123,
+    "prediction": 0,
+    "confidence": 0.5923349857330322,
+    "probabilities": [
+      0.5923349857330322,
+      0.407664954662323
+    ]
+  },
+  {
+    "path": "Cat/2126.jpg",
+    "label": 0,
+    "width": 400,
+    "height": 500,
+    "sha256": "0a78b47a963d542fd6f98a35f529dd466e47d0274652436650ffed046eaf2030",
+    "cache_index": 3750,
+    "prediction": 1,
+    "confidence": 0.5916842222213745,
+    "probabilities": [
+      0.4083157777786255,
+      0.5916842222213745
+    ]
+  },
+  {
+    "path": "Dog/2976.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "48e8f47f5b8a359690a452a810b7a524c84744b0aae2dda9c09fba7008c44205",
+    "cache_index": 17173,
+    "prediction": 0,
+    "confidence": 0.5892919898033142,
+    "probabilities": [
+      0.5892919898033142,
+      0.4107080101966858
+    ]
+  },
+  {
+    "path": "Dog/8134.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 300,
+    "sha256": "baaac531d6c4a2249475f85b803abc1b68f80ba4f81b73031a94f82a3f678619",
+    "cache_index": 22899,
+    "prediction": 0,
+    "confidence": 0.5892506241798401,
+    "probabilities": [
+      0.5892506241798401,
+      0.4107493758201599
+    ]
+  },
+  {
+    "path": "Cat/7752.jpg",
+    "label": 0,
+    "width": 300,
+    "height": 225,
+    "sha256": "b634bf7d04e05ba2630b3bd74d7471673738025b26b27a39f75eb69104a5b3d6",
+    "cache_index": 9990,
+    "prediction": 1,
+    "confidence": 0.5873959064483643,
+    "probabilities": [
+      0.41260406374931335,
+      0.5873959064483643
+    ]
+  },
+  {
+    "path": "Dog/1675.jpg",
+    "label": 1,
+    "width": 307,
+    "height": 409,
+    "sha256": "e8e811c055700059c52622f81898d57eead49eaef1731463ab47e389c052455b",
+    "cache_index": 15729,
+    "prediction": 0,
+    "confidence": 0.586857795715332,
+    "probabilities": [
+      0.586857795715332,
+      0.41314220428466797
+    ]
+  },
+  {
+    "path": "Cat/9040.jpg",
+    "label": 0,
+    "width": 320,
+    "height": 240,
+    "sha256": "d157d4a23206f68a7e205dbc36724d3818984c47a6ad9ee102437be3222613ba",
+    "cache_index": 11419,
+    "prediction": 1,
+    "confidence": 0.5866730809211731,
+    "probabilities": [
+      0.4133269190788269,
+      0.5866730809211731
+    ]
+  },
+  {
+    "path": "Dog/5443.jpg",
+    "label": 1,
+    "width": 417,
+    "height": 500,
+    "sha256": "9dfe7e864cc668a751544df32c44ceb6e24d5859bc23fbae8ec23780970c021e",
+    "cache_index": 19914,
+    "prediction": 0,
+    "confidence": 0.5824382901191711,
+    "probabilities": [
+      0.5824382901191711,
+      0.41756176948547363
+    ]
+  },
+  {
+    "path": "Dog/8830.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 327,
+    "sha256": "1b4edc77cb3ed8a07323805509d936b4e1ce118abd65ba1d2cd45aba0c032b59",
+    "cache_index": 23670,
+    "prediction": 0,
+    "confidence": 0.58232182264328,
+    "probabilities": [
+      0.58232182264328,
+      0.4176781475543976
+    ]
+  },
+  {
+    "path": "Cat/6807.jpg",
+    "label": 0,
+    "width": 300,
+    "height": 226,
+    "sha256": "5849469c12db74b0a0548d90569accf1509987cd1b7aa3ffd02a96209861ff56",
+    "cache_index": 8941,
+    "prediction": 1,
+    "confidence": 0.5811139345169067,
+    "probabilities": [
+      0.41888606548309326,
+      0.5811139345169067
+    ]
+  },
+  {
+    "path": "Dog/3026.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 334,
+    "sha256": "0a6c54f05006ef901b3853a424f0a382d50250c15c046be9a1d564ba14844ce0",
+    "cache_index": 17230,
+    "prediction": 0,
+    "confidence": 0.5795524716377258,
+    "probabilities": [
+      0.5795524716377258,
+      0.4204474985599518
+    ]
+  },
+  {
+    "path": "Cat/6343.jpg",
+    "label": 0,
+    "width": 326,
+    "height": 246,
+    "sha256": "0e8cb655a7d8bf4502d3711dfcdeab861fadea7afdac70248949fe381c1e77af",
+    "cache_index": 8427,
+    "prediction": 1,
+    "confidence": 0.5776420831680298,
+    "probabilities": [
+      0.4223579168319702,
+      0.5776420831680298
+    ]
+  },
+  {
+    "path": "Cat/7926.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "b6572b9264dbf2022024777b4286a0f395bd9f9daa1da3556f40a2110b0e479d",
+    "cache_index": 10182,
+    "prediction": 1,
+    "confidence": 0.57606041431427,
+    "probabilities": [
+      0.42393961548805237,
+      0.57606041431427
+    ]
+  },
+  {
+    "path": "Dog/641.jpg",
+    "label": 1,
+    "width": 396,
+    "height": 463,
+    "sha256": "32ee1ac50a882abb67c1ca0b319e275a7debbafb70ba2a8d7f783b71c69f7f6e",
+    "cache_index": 20987,
+    "prediction": 0,
+    "confidence": 0.5739035606384277,
+    "probabilities": [
+      0.5739035606384277,
+      0.4260964095592499
+    ]
+  },
+  {
+    "path": "Dog/4688.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 240,
+    "sha256": "56b212b4567d3c28c1cd3897427e8121b1f476267a2145f8411144a9b68c48ee",
+    "cache_index": 19074,
+    "prediction": 0,
+    "confidence": 0.5647433400154114,
+    "probabilities": [
+      0.5647433400154114,
+      0.435256689786911
+    ]
+  },
+  {
+    "path": "Dog/12061.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 285,
+    "sha256": "a57f50d86e7899cf6f492ad2cf131b06c8fb217f55e44ab10d9ecc8bfee623b6",
+    "cache_index": 14771,
+    "prediction": 0,
+    "confidence": 0.5633190274238586,
+    "probabilities": [
+      0.5633190274238586,
+      0.43668100237846375
+    ]
+  },
+  {
+    "path": "Cat/6495.jpg",
+    "label": 0,
+    "width": 344,
+    "height": 500,
+    "sha256": "1f7f6ec3f683bb1d1e1a160b7c2a98c7579310c16acf19e69d55c3e2c8dee754",
+    "cache_index": 8595,
+    "prediction": 1,
+    "confidence": 0.5611739754676819,
+    "probabilities": [
+      0.4388259947299957,
+      0.5611739754676819
+    ]
+  },
+  {
+    "path": "Dog/3812.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 325,
+    "sha256": "9039b1989d578ca92d2676828e5ef9784fe1d0c2c60dd0f82ac7daf3e8be5e91",
+    "cache_index": 18102,
+    "prediction": 0,
+    "confidence": 0.5603134036064148,
+    "probabilities": [
+      0.5603134036064148,
+      0.4396866261959076
+    ]
+  },
+  {
+    "path": "Dog/10608.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 364,
+    "sha256": "dcf1a5187bab10cf0e9dd0d2b8ab3dcb59a5fd859295a35e2bd1c0e7e3ba30ac",
+    "cache_index": 13158,
+    "prediction": 0,
+    "confidence": 0.559428334236145,
+    "probabilities": [
+      0.559428334236145,
+      0.4405716061592102
+    ]
+  },
+  {
+    "path": "Dog/12106.jpg",
+    "label": 1,
+    "width": 172,
+    "height": 200,
+    "sha256": "88185df8de3af27d99e0939d8e3cc0f63086b2a7c021f771d544991d01cfcd20",
+    "cache_index": 14821,
+    "prediction": 0,
+    "confidence": 0.5592005848884583,
+    "probabilities": [
+      0.5592005848884583,
+      0.44079938530921936
+    ]
+  },
+  {
+    "path": "Dog/4069.jpg",
+    "label": 1,
+    "width": 340,
+    "height": 260,
+    "sha256": "2c3e60ad46a2b99b381c03189d270bfbe13f398f00c012323430c729392d9b1f",
+    "cache_index": 18387,
+    "prediction": 0,
+    "confidence": 0.5582802891731262,
+    "probabilities": [
+      0.5582802891731262,
+      0.44171974062919617
+    ]
+  },
+  {
+    "path": "Dog/9332.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 420,
+    "sha256": "469ae36d0223c14536bc0ae913bca68fec4b7536c2d873fe14962399c313402d",
+    "cache_index": 24228,
+    "prediction": 0,
+    "confidence": 0.5575354695320129,
+    "probabilities": [
+      0.5575354695320129,
+      0.44246456027030945
+    ]
+  },
+  {
+    "path": "Cat/3173.jpg",
+    "label": 0,
+    "width": 424,
+    "height": 288,
+    "sha256": "d0fc6acafd1e899a5ab482d9d3e1dfe63373d1259ad295edb2bdbf70c735a9c6",
+    "cache_index": 4912,
+    "prediction": 1,
+    "confidence": 0.5574326515197754,
+    "probabilities": [
+      0.44256728887557983,
+      0.5574326515197754
+    ]
+  },
+  {
+    "path": "Dog/10448.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 478,
+    "sha256": "5eafb8c5b8d263b0e0cdb491b0c1638cefb80a09621fd394120e6a4136819252",
+    "cache_index": 12980,
+    "prediction": 0,
+    "confidence": 0.5574000477790833,
+    "probabilities": [
+      0.5574000477790833,
+      0.44259992241859436
+    ]
+  },
+  {
+    "path": "Dog/9965.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 331,
+    "sha256": "f1ea1b6e8613c7567b76d47926b62f165529a9271b0a0cf828134295fd04cc4f",
+    "cache_index": 24928,
+    "prediction": 0,
+    "confidence": 0.5571710467338562,
+    "probabilities": [
+      0.5571710467338562,
+      0.4428289830684662
+    ]
+  },
+  {
+    "path": "Dog/4367.jpg",
+    "label": 1,
+    "width": 196,
+    "height": 33,
+    "sha256": "7d0a669fdd13175e1bfb5127e33e7f597063e9520636b31c2c51ae07df588972",
+    "cache_index": 18718,
+    "prediction": 0,
+    "confidence": 0.5495158433914185,
+    "probabilities": [
+      0.5495158433914185,
+      0.45048409700393677
+    ]
+  },
+  {
+    "path": "Dog/8288.jpg",
+    "label": 1,
+    "width": 300,
+    "height": 400,
+    "sha256": "6fd79940537905e41c9047d56266b6e7ec5769e03a7ae4f938dc984cbe261930",
+    "cache_index": 23069,
+    "prediction": 0,
+    "confidence": 0.5492109656333923,
+    "probabilities": [
+      0.5492109656333923,
+      0.4507890045642853
+    ]
+  },
+  {
+    "path": "Cat/3770.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 298,
+    "sha256": "6dda8bd3d00ece3c39010a269e6ad485a4bdba76c6b1881feb06a2a24df062bf",
+    "cache_index": 5574,
+    "prediction": 1,
+    "confidence": 0.5491878986358643,
+    "probabilities": [
+      0.45081213116645813,
+      0.5491878986358643
+    ]
+  },
+  {
+    "path": "Cat/1577.jpg",
+    "label": 0,
+    "width": 341,
+    "height": 500,
+    "sha256": "76961c13e2186bfb0d5767666d6a80198a4b2e317844615e823ba6d0fc685b82",
+    "cache_index": 3141,
+    "prediction": 1,
+    "confidence": 0.5481303930282593,
+    "probabilities": [
+      0.4518696069717407,
+      0.5481303930282593
+    ]
+  },
+  {
+    "path": "Dog/8572.jpg",
+    "label": 1,
+    "width": 250,
+    "height": 175,
+    "sha256": "23e8b737282b250d5e75688162caea3706e94af95e4d8003dbd3803c8d030a77",
+    "cache_index": 23385,
+    "prediction": 0,
+    "confidence": 0.5445505976676941,
+    "probabilities": [
+      0.5445505976676941,
+      0.4554494023323059
+    ]
+  },
+  {
+    "path": "Cat/7791.jpg",
+    "label": 0,
+    "width": 419,
+    "height": 500,
+    "sha256": "a3a9ef992a15140d8cb9c06df3eb47779907f12993ab5737e7b1a0b21c652ad3",
+    "cache_index": 10033,
+    "prediction": 1,
+    "confidence": 0.5443814396858215,
+    "probabilities": [
+      0.4556185007095337,
+      0.5443814396858215
+    ]
+  },
+  {
+    "path": "Dog/1063.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 290,
+    "sha256": "0011a0287dc3621d25815e5cd786ed3df8624c78dc4e480c031d594233255f13",
+    "cache_index": 13182,
+    "prediction": 0,
+    "confidence": 0.5440748333930969,
+    "probabilities": [
+      0.5440748333930969,
+      0.45592519640922546
+    ]
+  },
+  {
+    "path": "Cat/10261.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "ca9374f187736765e92891ec9fc65cfde6f8e04ebe7e56fcebdc369ade3a889e",
+    "cache_index": 294,
+    "prediction": 1,
+    "confidence": 0.5420567393302917,
+    "probabilities": [
+      0.45794323086738586,
+      0.5420567393302917
+    ]
+  },
+  {
+    "path": "Cat/3701.jpg",
+    "label": 0,
+    "width": 406,
+    "height": 421,
+    "sha256": "fc1572bec1d440c3c7d6d942a298caff89cb58b95673bee41da09f7efb28ed73",
+    "cache_index": 5498,
+    "prediction": 1,
+    "confidence": 0.5405109524726868,
+    "probabilities": [
+      0.4594890773296356,
+      0.5405109524726868
+    ]
+  },
+  {
+    "path": "Cat/5173.jpg",
+    "label": 0,
+    "width": 320,
+    "height": 240,
+    "sha256": "9b500f580a2feaf114c482148c36b203ce1e37deda2fc02f4fbf243138f2db88",
+    "cache_index": 7128,
+    "prediction": 1,
+    "confidence": 0.5398754477500916,
+    "probabilities": [
+      0.46012455224990845,
+      0.5398754477500916
+    ]
+  },
+  {
+    "path": "Dog/7852.jpg",
+    "label": 1,
+    "width": 300,
+    "height": 400,
+    "sha256": "e53d1857e5b9ede1d8b25d3341ed8a4b6781b0dedbb8665c33832031511082ab",
+    "cache_index": 22587,
+    "prediction": 0,
+    "confidence": 0.5398173332214355,
+    "probabilities": [
+      0.5398173332214355,
+      0.46018266677856445
+    ]
+  },
+  {
+    "path": "Dog/2657.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "ddfd113d614bac42a1ae6de63ec0b9f33bac7eee0581ad2d49433c51fe5ced7d",
+    "cache_index": 16820,
+    "prediction": 0,
+    "confidence": 0.5393648147583008,
+    "probabilities": [
+      0.5393648147583008,
+      0.46063515543937683
+    ]
+  },
+  {
+    "path": "Dog/2511.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "eb63df5be432888d625a72ec8ac4a32283ce19bba522654af88918f6e6a1d8f2",
+    "cache_index": 16659,
+    "prediction": 0,
+    "confidence": 0.5388110876083374,
+    "probabilities": [
+      0.5388110876083374,
+      0.4611888825893402
+    ]
+  },
+  {
+    "path": "Dog/2891.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "cd89733722b7ff15657921e6dec205d51697a2240828a8afef0832345153154f",
+    "cache_index": 17079,
+    "prediction": 0,
+    "confidence": 0.536702573299408,
+    "probabilities": [
+      0.536702573299408,
+      0.46329739689826965
+    ]
+  },
+  {
+    "path": "Dog/3565.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "12f4ebee72ecfc2b6c8f77402c951af24f1d5bd19300567c2ded136efcaabb6f",
+    "cache_index": 17827,
+    "prediction": 0,
+    "confidence": 0.5353739261627197,
+    "probabilities": [
+      0.5353739261627197,
+      0.4646260440349579
+    ]
+  },
+  {
+    "path": "Dog/1593.jpg",
+    "label": 1,
+    "width": 300,
+    "height": 229,
+    "sha256": "5ca22fc0c4b74645579667708338b7e1c4b3ad183a03b9d13131f857f435ef5f",
+    "cache_index": 15638,
+    "prediction": 0,
+    "confidence": 0.5342966914176941,
+    "probabilities": [
+      0.5342966914176941,
+      0.4657032787799835
+    ]
+  },
+  {
+    "path": "Cat/11535.jpg",
+    "label": 0,
+    "width": 384,
+    "height": 289,
+    "sha256": "01d4378d52cfe79b2f678dda81404358fe6d8c4dc680c701c8b0ea18ed20aeb2",
+    "cache_index": 1709,
+    "prediction": 1,
+    "confidence": 0.5336953997612,
+    "probabilities": [
+      0.46630457043647766,
+      0.5336953997612
+    ]
+  },
+  {
+    "path": "Dog/8359.jpg",
+    "label": 1,
+    "width": 400,
+    "height": 300,
+    "sha256": "53c59d413946f4e00017023aa6677e440b2fa1ec6e2b06a6097ea87ef3fad944",
+    "cache_index": 23148,
+    "prediction": 0,
+    "confidence": 0.5334118604660034,
+    "probabilities": [
+      0.5334118604660034,
+      0.4665881097316742
+    ]
+  },
+  {
+    "path": "Dog/5355.jpg",
+    "label": 1,
+    "width": 234,
+    "height": 352,
+    "sha256": "df3b051d76be36d6c9cc40ffef80d2be3b5f564edfd9243e07055d0a1e116a96",
+    "cache_index": 19816,
+    "prediction": 0,
+    "confidence": 0.5326054692268372,
+    "probabilities": [
+      0.5326054692268372,
+      0.46739453077316284
+    ]
+  },
+  {
+    "path": "Dog/12007.jpg",
+    "label": 1,
+    "width": 397,
+    "height": 282,
+    "sha256": "4e46ed332806291cfe72f6f9357b814f4cface2a223d216fe9d893bc6231c0e3",
+    "cache_index": 14711,
+    "prediction": 0,
+    "confidence": 0.5323697328567505,
+    "probabilities": [
+      0.5323697328567505,
+      0.4676302671432495
+    ]
+  },
+  {
+    "path": "Dog/386.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 346,
+    "sha256": "a07bb82567222c806655232f27158f6e68c1ac844934a5419c1dc2943db40128",
+    "cache_index": 18154,
+    "prediction": 0,
+    "confidence": 0.5310249328613281,
+    "probabilities": [
+      0.5310249328613281,
+      0.4689750671386719
+    ]
+  },
+  {
+    "path": "Dog/9312.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 452,
+    "sha256": "ec1db06caece33a28a136d7f8d665704b67744b056ff11e50080850854ef848a",
+    "cache_index": 24206,
+    "prediction": 0,
+    "confidence": 0.530763566493988,
+    "probabilities": [
+      0.530763566493988,
+      0.46923643350601196
+    ]
+  },
+  {
+    "path": "Dog/7549.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "07c06b83235224aacd958669a9acc8f05c64df390df4d6b54012761f0988fa47",
+    "cache_index": 22250,
+    "prediction": 0,
+    "confidence": 0.5278812646865845,
+    "probabilities": [
+      0.5278812646865845,
+      0.47211867570877075
+    ]
+  },
+  {
+    "path": "Dog/4882.jpg",
+    "label": 1,
+    "width": 200,
+    "height": 200,
+    "sha256": "bbc22fb8d95912270e809be98d84964f562b735f7790452a0e737ae5eb5d4ae1",
+    "cache_index": 19290,
+    "prediction": 0,
+    "confidence": 0.5276352763175964,
+    "probabilities": [
+      0.5276352763175964,
+      0.47236472368240356
+    ]
+  },
+  {
+    "path": "Cat/5063.jpg",
+    "label": 0,
+    "width": 389,
+    "height": 500,
+    "sha256": "c0769f6ccc932f8333d9556cb5e4006457cbebd00b6baa48dd72b1b157a457fb",
+    "cache_index": 7006,
+    "prediction": 1,
+    "confidence": 0.5276315212249756,
+    "probabilities": [
+      0.4723685085773468,
+      0.5276315212249756
+    ]
+  },
+  {
+    "path": "Dog/1864.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "aad05178ab850c4dc05cb76ff2bee9c891090c53e3765bdd23ce595ffd443492",
+    "cache_index": 15939,
+    "prediction": 0,
+    "confidence": 0.5260255336761475,
+    "probabilities": [
+      0.5260255336761475,
+      0.4739744961261749
+    ]
+  },
+  {
+    "path": "Dog/9150.jpg",
+    "label": 1,
+    "width": 350,
+    "height": 262,
+    "sha256": "fb7da2aa1efc2f29f5af9af377c67bb31e2ecfb79404b936920277997f645020",
+    "cache_index": 24026,
+    "prediction": 0,
+    "confidence": 0.5258103013038635,
+    "probabilities": [
+      0.5258103013038635,
+      0.4741896986961365
+    ]
+  },
+  {
+    "path": "Dog/2497.jpg",
+    "label": 1,
+    "width": 405,
+    "height": 500,
+    "sha256": "5e5e458168dba383c2ce791022e0d47b5b09e7d5a9f08dde354a1bfb255757d4",
+    "cache_index": 16642,
+    "prediction": 0,
+    "confidence": 0.5255401730537415,
+    "probabilities": [
+      0.5255401730537415,
+      0.47445979714393616
+    ]
+  },
+  {
+    "path": "Cat/9160.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 375,
+    "sha256": "4da241b42504317058b547a5294dcbac987c4f5074b47c55aaf8b8421154f055",
+    "cache_index": 11552,
+    "prediction": 1,
+    "confidence": 0.5235112309455872,
+    "probabilities": [
+      0.47648876905441284,
+      0.5235112309455872
+    ]
+  },
+  {
+    "path": "Cat/980.jpg",
+    "label": 0,
+    "width": 500,
+    "height": 324,
+    "sha256": "538dfb98f451898d309e73563703ea922c33cda72cdfc8b709411deeed22dce4",
+    "cache_index": 12260,
+    "prediction": 1,
+    "confidence": 0.5190342664718628,
+    "probabilities": [
+      0.4809657335281372,
+      0.5190342664718628
+    ]
+  },
+  {
+    "path": "Dog/4889.jpg",
+    "label": 1,
+    "width": 375,
+    "height": 500,
+    "sha256": "c90195ccc4a5fb6a6ec2128ce1776e57944f7ed37d3aada5d3b74bb6ebc0ced5",
+    "cache_index": 19297,
+    "prediction": 0,
+    "confidence": 0.5190020203590393,
+    "probabilities": [
+      0.5190020203590393,
+      0.4809979796409607
+    ]
+  },
+  {
+    "path": "Cat/9984.jpg",
+    "label": 0,
+    "width": 275,
+    "height": 350,
+    "sha256": "fba40250b76af200b2685f21162dc478abcea9f754f01d13208c16ef48558032",
+    "cache_index": 12463,
+    "prediction": 1,
+    "confidence": 0.5176149010658264,
+    "probabilities": [
+      0.4823850691318512,
+      0.5176149010658264
+    ]
+  },
+  {
+    "path": "Dog/7471.jpg",
+    "label": 1,
+    "width": 344,
+    "height": 500,
+    "sha256": "75aa420451b361879df59b14c61a7135aa5b1d37609e5815fe242f5a54c873f9",
+    "cache_index": 22164,
+    "prediction": 0,
+    "confidence": 0.5164483189582825,
+    "probabilities": [
+      0.5164483189582825,
+      0.48355168104171753
+    ]
+  },
+  {
+    "path": "Cat/2995.jpg",
+    "label": 0,
+    "width": 320,
+    "height": 209,
+    "sha256": "0490a3e15b978a7e78e91fb6f722fb0394a277fe86b5190847d98da04066c11b",
+    "cache_index": 4713,
+    "prediction": 1,
+    "confidence": 0.5163351893424988,
+    "probabilities": [
+      0.48366478085517883,
+      0.5163351893424988
+    ]
+  },
+  {
+    "path": "Dog/8781.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 499,
+    "sha256": "4069db59215ed8ae95e1b94991dad75805327a75a1dc9b1f05b73f81d0a6a5f8",
+    "cache_index": 23615,
+    "prediction": 0,
+    "confidence": 0.5158786773681641,
+    "probabilities": [
+      0.5158786773681641,
+      0.48412129282951355
+    ]
+  },
+  {
+    "path": "Dog/11735.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "68452670b3736d1cb586515144132c82c7935c32bb51085fa60f3dcb98809b72",
+    "cache_index": 14408,
+    "prediction": 0,
+    "confidence": 0.5147942900657654,
+    "probabilities": [
+      0.5147942900657654,
+      0.485205739736557
+    ]
+  },
+  {
+    "path": "Dog/3636.jpg",
+    "label": 1,
+    "width": 335,
+    "height": 219,
+    "sha256": "dd5cfb56b0a9a47c2e8ed273910c54efb70cc30a2359ad9e08856afcafc3198f",
+    "cache_index": 17906,
+    "prediction": 0,
+    "confidence": 0.511747419834137,
+    "probabilities": [
+      0.511747419834137,
+      0.48825252056121826
+    ]
+  },
+  {
+    "path": "Dog/868.jpg",
+    "label": 1,
+    "width": 381,
+    "height": 480,
+    "sha256": "2c3b96c029e3a6829e0f6a365630a5d38ecbc2d3fdfd87dc2b05327dedf8f38e",
+    "cache_index": 23503,
+    "prediction": 0,
+    "confidence": 0.5114559531211853,
+    "probabilities": [
+      0.5114559531211853,
+      0.4885440766811371
+    ]
+  },
+  {
+    "path": "Dog/3767.jpg",
+    "label": 1,
+    "width": 358,
+    "height": 500,
+    "sha256": "66995a4b9f6326f16825c7141c99fd8985dac765fd4999f2957bfa8eb146b0b2",
+    "cache_index": 18051,
+    "prediction": 0,
+    "confidence": 0.511067271232605,
+    "probabilities": [
+      0.511067271232605,
+      0.4889327585697174
+    ]
+  },
+  {
+    "path": "Dog/11968.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "d24ad87d70bd921f0c9dd57937455898e224f4d965c29dab486b56325a16264f",
+    "cache_index": 14666,
+    "prediction": 0,
+    "confidence": 0.5093337297439575,
+    "probabilities": [
+      0.5093337297439575,
+      0.49066630005836487
+    ]
+  },
+  {
+    "path": "Dog/9797.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 375,
+    "sha256": "9c66f51edd115d69f2ded4c2e0d1d5fd9fcaae8b41769a8e15cb66ea2b3d0b53",
+    "cache_index": 24743,
+    "prediction": 0,
+    "confidence": 0.508019745349884,
+    "probabilities": [
+      0.508019745349884,
+      0.49198025465011597
+    ]
+  },
+  {
+    "path": "Dog/7255.jpg",
+    "label": 1,
+    "width": 273,
+    "height": 500,
+    "sha256": "c99bb5c36b8335146765050090d79274a4aa042aa2e44a6c32e531ff362e5e84",
+    "cache_index": 21925,
+    "prediction": 0,
+    "confidence": 0.5058751702308655,
+    "probabilities": [
+      0.5058751702308655,
+      0.4941248297691345
+    ]
+  },
+  {
+    "path": "Dog/11241.jpg",
+    "label": 1,
+    "width": 320,
+    "height": 240,
+    "sha256": "846a49f14a69ee7e2c30482acb2581e70e8d0a91bbb8e1d77329d181ac767f5d",
+    "cache_index": 13861,
+    "prediction": 0,
+    "confidence": 0.5040017366409302,
+    "probabilities": [
+      0.5040017366409302,
+      0.4959982633590698
+    ]
+  },
+  {
+    "path": "Dog/707.jpg",
+    "label": 1,
+    "width": 500,
+    "height": 332,
+    "sha256": "e157257ff5833029e54c1e168fb24cacc6716d087bec922d8623abdab127a682",
+    "cache_index": 21719,
+    "prediction": 0,
+    "confidence": 0.500060498714447,
+    "probabilities": [
+      0.500060498714447,
+      0.49993953108787537
+    ]
+  }
+]

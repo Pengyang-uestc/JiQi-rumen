@@ -1,0 +1,12 @@
+{
+  "experiment": "improved",
+  "method": "continue baseline checkpoint for up to 5 epochs at lr=0.0002",
+  "before_val_loss": 0.25328673654309264,
+  "before_val_accuracy": 0.8947930574098798,
+  "fine_tune_epochs_selected": 1,
+  "val_loss": 0.23714333115337052,
+  "val_accuracy": 0.9113484646194927,
+  "seconds": 45.82019199989736,
+  "device": "cuda",
+  "learning_rate": 0.0002
+}

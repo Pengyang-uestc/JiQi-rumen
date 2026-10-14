@@ -1,0 +1,19 @@
+{
+  "experiment": "baseline",
+  "best_epoch": 10,
+  "val_loss": 0.25328673654309264,
+  "val_accuracy": 0.8947930574098798,
+  "epochs": 10,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "optimizer": "Adam",
+  "seed": 42,
+  "seconds": 93.58767360029742,
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "torch": "2.13.0+cu130",
+  "num_parameters": 360210,
+  "peak_allocated_mib": 503.33203125,
+  "peak_reserved_mib": 936.0
+}

@@ -1,0 +1,56 @@
+{
+  "selected": "improved",
+  "criterion": "minimum validation cross entropy",
+  "summaries": {
+    "baseline": {
+      "experiment": "baseline",
+      "best_epoch": 10,
+      "val_loss": 0.25328673654309264,
+      "val_accuracy": 0.8947930574098798,
+      "epochs": 10,
+      "batch_size": 128,
+      "learning_rate": 0.001,
+      "weight_decay": 0.0001,
+      "optimizer": "Adam",
+      "seed": 42,
+      "seconds": 93.58767360029742,
+      "device": "cuda",
+      "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+      "torch": "2.13.0+cu130",
+      "num_parameters": 360210,
+      "peak_allocated_mib": 503.33203125,
+      "peak_reserved_mib": 936.0
+    },
+    "augmented": {
+      "experiment": "augmented",
+      "best_epoch": 10,
+      "val_loss": 0.3502065594906164,
+      "val_accuracy": 0.854739652870494,
+      "epochs": 10,
+      "batch_size": 128,
+      "learning_rate": 0.001,
+      "weight_decay": 0.0001,
+      "optimizer": "Adam",
+      "seed": 42,
+      "seconds": 163.39173740008846,
+      "device": "cuda",
+      "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+      "torch": "2.13.0+cu130",
+      "num_parameters": 360210,
+      "peak_allocated_mib": 503.33203125,
+      "peak_reserved_mib": 936.0
+    },
+    "improved": {
+      "experiment": "improved",
+      "method": "continue baseline checkpoint for up to 5 epochs at lr=0.0002",
+      "before_val_loss": 0.25328673654309264,
+      "before_val_accuracy": 0.8947930574098798,
+      "fine_tune_epochs_selected": 1,
+      "val_loss": 0.23714333115337052,
+      "val_accuracy": 0.9113484646194927,
+      "seconds": 45.82019199989736,
+      "device": "cuda",
+      "learning_rate": 0.0002
+    }
+  }
+}

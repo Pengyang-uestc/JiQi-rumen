@@ -1,0 +1,8 @@
+# 本机已验证的版本记录；优先直接使用现有 yolo 环境。
+# torch/torchvision 的 CUDA 构建请通过对应 PyTorch 安装源获取。
+torch==2.13.0+cu130
+torchvision==0.28.0+cu130
+numpy==1.23.5
+Pillow==12.3.0
+matplotlib==3.7.2
+scikit-learn==1.5.2

@@ -1,0 +1,173 @@
+{
+  "source": "https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset",
+  "seed": 42,
+  "original_jpg": {
+    "Cat": 12500,
+    "Dog": 12500
+  },
+  "invalid": [
+    {
+      "path": "Cat/666.jpg",
+      "reason": "cannot identify image file 'F:\\\\焦糖工作室招新\\\\Jotang-ml-task2\\\\data\\\\PetImages\\\\Cat\\\\666.jpg'"
+    },
+    {
+      "path": "Dog/11702.jpg",
+      "reason": "cannot identify image file 'F:\\\\焦糖工作室招新\\\\Jotang-ml-task2\\\\data\\\\PetImages\\\\Dog\\\\11702.jpg'"
+    }
+  ],
+  "duplicates": [
+    {
+      "path": "Cat/11974.jpg",
+      "same_as": "Cat/11706.jpg"
+    },
+    {
+      "path": "Cat/1639.jpg",
+      "same_as": "Cat/10273.jpg"
+    },
+    {
+      "path": "Cat/1930.jpg",
+      "same_as": "Cat/10052.jpg"
+    },
+    {
+      "path": "Cat/2339.jpg",
+      "same_as": "Cat/12408.jpg"
+    },
+    {
+      "path": "Cat/3345.jpg",
+      "same_as": "Cat/10360.jpg"
+    },
+    {
+      "path": "Cat/3910.jpg",
+      "same_as": "Cat/11197.jpg"
+    },
+    {
+      "path": "Cat/4435.jpg",
+      "same_as": "Cat/3411.jpg"
+    },
+    {
+      "path": "Cat/4575.jpg",
+      "same_as": "Cat/4126.jpg"
+    },
+    {
+      "path": "Cat/4667.jpg",
+      "same_as": "Cat/11053.jpg"
+    },
+    {
+      "path": "Cat/4726.jpg",
+      "same_as": "Cat/2580.jpg"
+    },
+    {
+      "path": "Cat/6204.jpg",
+      "same_as": "Cat/6143.jpg"
+    },
+    {
+      "path": "Cat/7545.jpg",
+      "same_as": "Cat/3112.jpg"
+    },
+    {
+      "path": "Cat/7912.jpg",
+      "same_as": "Cat/3908.jpg"
+    },
+    {
+      "path": "Cat/8137.jpg",
+      "same_as": "Cat/11595.jpg"
+    },
+    {
+      "path": "Cat/9240.jpg",
+      "same_as": "Cat/4509.jpg"
+    },
+    {
+      "path": "Cat/9588.jpg",
+      "same_as": "Cat/4795.jpg"
+    },
+    {
+      "path": "Cat/9966.jpg",
+      "same_as": "Cat/4442.jpg"
+    },
+    {
+      "path": "Dog/10401.jpg",
+      "same_as": "Cat/11565.jpg"
+    },
+    {
+      "path": "Dog/10797.jpg",
+      "same_as": "Cat/11565.jpg"
+    },
+    {
+      "path": "Dog/2877.jpg",
+      "same_as": "Cat/11565.jpg"
+    },
+    {
+      "path": "Dog/3082.jpg",
+      "same_as": "Dog/2027.jpg"
+    },
+    {
+      "path": "Dog/6058.jpg",
+      "same_as": "Dog/10.jpg"
+    },
+    {
+      "path": "Dog/6700.jpg",
+      "same_as": "Dog/3832.jpg"
+    },
+    {
+      "path": "Dog/74.jpg",
+      "same_as": "Dog/180.jpg"
+    },
+    {
+      "path": "Dog/8044.jpg",
+      "same_as": "Dog/5874.jpg"
+    },
+    {
+      "path": "Dog/8087.jpg",
+      "same_as": "Dog/1947.jpg"
+    },
+    {
+      "path": "Dog/8591.jpg",
+      "same_as": "Dog/39.jpg"
+    },
+    {
+      "path": "Dog/8736.jpg",
+      "same_as": "Cat/8456.jpg"
+    },
+    {
+      "path": "Dog/980.jpg",
+      "same_as": "Dog/1273.jpg"
+    },
+    {
+      "path": "Dog/9956.jpg",
+      "same_as": "Dog/11688.jpg"
+    }
+  ],
+  "conflicting_originals_excluded": [
+    "Cat/11565.jpg",
+    "Cat/11565.jpg",
+    "Cat/11565.jpg",
+    "Cat/8456.jpg"
+  ],
+  "usable": {
+    "Cat": 12480,
+    "Dog": 12486
+  },
+  "split_counts": {
+    "train": {
+      "Cat": 8736,
+      "Dog": 8740
+    },
+    "val": {
+      "Dog": 1873,
+      "Cat": 1872
+    },
+    "test": {
+      "Cat": 1872,
+      "Dog": 1873
+    }
+  },
+  "width_min_max": [
+    4,
+    500
+  ],
+  "height_min_max": [
+    4,
+    500
+  ],
+  "unique_sizes": 7513
+}

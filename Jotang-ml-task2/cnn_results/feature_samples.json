@@ -1,0 +1,34 @@
+[
+  {
+    "path": "Cat/11921.jpg",
+    "label": 0,
+    "width": 432,
+    "height": 324,
+    "sha256": "3a61120220feee2816437e0ae49ef9962b9d105d21e62590a5cb4a8719e10796",
+    "cache_index": 2137
+  },
+  {
+    "path": "Cat/12127.jpg",
+    "label": 0,
+    "width": 350,
+    "height": 262,
+    "sha256": "76423fe61d49e73bf97f1670f25599645e4d87004e441186afafec29e74849d7",
+    "cache_index": 2365
+  },
+  {
+    "path": "Dog/6259.jpg",
+    "label": 1,
+    "width": 423,
+    "height": 400,
+    "sha256": "9720af5871edb4d57be55475a3178cb192171cbab0e923f59d42b7bd2485a627",
+    "cache_index": 20819
+  },
+  {
+    "path": "Dog/922.jpg",
+    "label": 1,
+    "width": 360,
+    "height": 240,
+    "sha256": "31ac3c10ed634e3776379b9f326a51f14ffbb0488a14bcace64def67ca1513bf",
+    "cache_index": 24103
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "mean_3x3": {
+    "shape": [
+      540,
+      960,
+      3
+    ],
+    "dtype": "float64",
+    "minimum": 17.888888888888886,
+    "maximum": 254.11111111111111
+  },
+  "gaussian_5x5": {
+    "shape": [
+      540,
+      960,
+      3
+    ],
+    "dtype": "float64",
+    "minimum": 20.581957990547313,
+    "maximum": 253.28863765934253
+  },
+  "sharpen": {
+    "shape": [
+      540,
+      960,
+      3
+    ],
+    "dtype": "float64",
+    "minimum": -63.0,
+    "maximum": 722.0
+  },
+  "sobel_x": {
+    "shape": [
+      540,
+      960
+    ],
+    "dtype": "float64",
+    "minimum": -863.7139999999999,
+    "maximum": 722.819
+  },
+  "sobel_y": {
+    "shape": [
+      540,
+      960
+    ],
+    "dtype": "float64",
+    "minimum": -813.9259999999999,
+    "maximum": 633.452
+  },
+  "sobel_magnitude": {
+    "shape": [
+      540,
+      960
+    ],
+    "dtype": "float64",
+    "minimum": 0.0,
+    "maximum": 880.6950243392998
+  }
+}

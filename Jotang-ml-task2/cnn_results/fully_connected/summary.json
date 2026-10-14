@@ -1,0 +1,30 @@
+{
+  "architecture": "Flatten(3*128*128) -> Linear(49152,256) -> ReLU -> Dropout(0.3) -> Linear(256,2)",
+  "parameters": 12583682,
+  "best_epoch": 2,
+  "val_loss": 0.6542897925994425,
+  "val_accuracy": 0.6304405874499333,
+  "test_loss": 0.6505599985772045,
+  "test_accuracy": 0.635781041388518,
+  "confusion_matrix": [
+    [
+      1341,
+      531
+    ],
+    [
+      833,
+      1040
+    ]
+  ],
+  "train_seconds_total": 56.10145349893719,
+  "peak_allocated_mib": 328.0205078125,
+  "peak_reserved_mib": 366.0,
+  "device": "cuda",
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "batch_size": 128,
+  "epochs": 10,
+  "seed": 42,
+  "augmentation": false
+}

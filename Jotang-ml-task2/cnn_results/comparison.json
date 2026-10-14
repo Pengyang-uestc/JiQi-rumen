@@ -1,0 +1,175 @@
+{
+  "baseline": {
+    "experiment": "baseline",
+    "best_epoch": 10,
+    "val_loss": 0.25328673654309264,
+    "val_accuracy": 0.8947930574098798,
+    "epochs": 10,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "optimizer": "Adam",
+    "seed": 42,
+    "seconds": 93.58767360029742,
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+    "torch": "2.13.0+cu130",
+    "num_parameters": 360210,
+    "peak_allocated_mib": 503.33203125,
+    "peak_reserved_mib": 936.0,
+    "test": {
+      "loss": 0.26562384795123967,
+      "accuracy": 0.8897196261682243,
+      "confusion_matrix": [
+        [
+          1581,
+          291
+        ],
+        [
+          122,
+          1751
+        ]
+      ],
+      "classification_report": {
+        "Cat": {
+          "precision": 0.9283617146212566,
+          "recall": 0.844551282051282,
+          "f1-score": 0.8844755244755245,
+          "support": 1872.0
+        },
+        "Dog": {
+          "precision": 0.8574926542605289,
+          "recall": 0.9348638547784304,
+          "f1-score": 0.8945083014048532,
+          "support": 1873.0
+        },
+        "accuracy": 0.8897196261682243,
+        "macro avg": {
+          "precision": 0.8929271844408928,
+          "recall": 0.8897075684148562,
+          "f1-score": 0.8894919129401888,
+          "support": 3745.0
+        },
+        "weighted avg": {
+          "precision": 0.8929177226170795,
+          "recall": 0.8897196261682243,
+          "f1-score": 0.8894932524297656,
+          "support": 3745.0
+        }
+      }
+    }
+  },
+  "augmented": {
+    "experiment": "augmented",
+    "best_epoch": 10,
+    "val_loss": 0.3502065594906164,
+    "val_accuracy": 0.854739652870494,
+    "epochs": 10,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "optimizer": "Adam",
+    "seed": 42,
+    "seconds": 163.39173740008846,
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+    "torch": "2.13.0+cu130",
+    "num_parameters": 360210,
+    "peak_allocated_mib": 503.33203125,
+    "peak_reserved_mib": 936.0,
+    "test": {
+      "loss": 0.3459161119244605,
+      "accuracy": 0.859279038718291,
+      "confusion_matrix": [
+        [
+          1779,
+          93
+        ],
+        [
+          434,
+          1439
+        ]
+      ],
+      "classification_report": {
+        "Cat": {
+          "precision": 0.8038861274288296,
+          "recall": 0.9503205128205128,
+          "f1-score": 0.8709914320685435,
+          "support": 1872.0
+        },
+        "Dog": {
+          "precision": 0.9392950391644909,
+          "recall": 0.7682861719167111,
+          "f1-score": 0.8452276064610866,
+          "support": 1873.0
+        },
+        "accuracy": 0.859279038718291,
+        "macro avg": {
+          "precision": 0.8715905832966602,
+          "recall": 0.8593033423686119,
+          "f1-score": 0.858109519264815,
+          "support": 3745.0
+        },
+        "weighted avg": {
+          "precision": 0.8716086619230602,
+          "recall": 0.859279038718291,
+          "f1-score": 0.8581060795017167,
+          "support": 3745.0
+        }
+      }
+    }
+  },
+  "improved": {
+    "experiment": "improved",
+    "method": "continue baseline checkpoint for up to 5 epochs at lr=0.0002",
+    "before_val_loss": 0.25328673654309264,
+    "before_val_accuracy": 0.8947930574098798,
+    "fine_tune_epochs_selected": 1,
+    "val_loss": 0.23714333115337052,
+    "val_accuracy": 0.9113484646194927,
+    "seconds": 45.82019199989736,
+    "device": "cuda",
+    "learning_rate": 0.0002,
+    "test": {
+      "loss": 0.24115171979998395,
+      "accuracy": 0.9089452603471295,
+      "confusion_matrix": [
+        [
+          1755,
+          117
+        ],
+        [
+          224,
+          1649
+        ]
+      ],
+      "classification_report": {
+        "Cat": {
+          "precision": 0.886811520970187,
+          "recall": 0.9375,
+          "f1-score": 0.9114515710205141,
+          "support": 1872.0
+        },
+        "Dog": {
+          "precision": 0.9337485843714609,
+          "recall": 0.8804057661505605,
+          "f1-score": 0.9062929376202253,
+          "support": 1873.0
+        },
+        "accuracy": 0.9089452603471295,
+        "macro avg": {
+          "precision": 0.9102800526708239,
+          "recall": 0.9089528830752802,
+          "f1-score": 0.9088722543203698,
+          "support": 3745.0
+        },
+        "weighted avg": {
+          "precision": 0.9102863193014518,
+          "recall": 0.9089452603471295,
+          "f1-score": 0.9088715655842682,
+          "support": 3745.0
+        }
+      }
+    }
+  }
+}
